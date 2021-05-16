@@ -1,0 +1,45 @@
+HAVE	92189	[act] 36-700 2-car set [MT]	36-701, 36-703
+HAVE	92189	[act] 36-700 2-car set [MT]	36-704, 36-705
+HAVE	97924	[act] 36-700 Thank you from Kamaishi 2-car set [MT]	36-702, 36-716
+HAVE	8601	[act] 36-700 Iwate × Geodude [M]	36-706
+
+HAVE	252658	36-500 [T]	36-501
+
+
+HAVE	92194	[act] 36-100/200 2-car set [MT]	36-109, 36-209
+HAVE	2656	36 Kitto Zutto Go 3 [T]	36-102
+HAVE	2655	36 Ozashiki 2 [T]	36-2110 diorama
+HAVE	2654	[act] 36 [T]	36-207 diorama
+HAVE	2652	36 Kitto Zutto Go 2 [T]	36-105
+
+
+WANT	92194	[act] 36-100/200 2-car set [MT]	36-202, 36-208 (2 ks)
+WANT	92194	[act] 36-100/200 2-car set [MT]	36-101, 36-207 (2 ks)
+
+
+
+
+
+
+
+キハ110-100 series
+
+キハ110-128 [M]   	6043-1
+キハ110-129 [T]   	6044-1
+キハ111/2-115 [MT]	10-1165
+キハ111/2-116 [TT]	10-1166
+
+
+
+キハ100 series
+
+98060	Pokémon With You train
+98057	standard
+98057	standard
+98089	prototype
+98089	prototype
+
+
+
+
+Senken Kogyo	09-16
