@@ -1,9 +1,9 @@
 # Sanriku 36-700 series
 
-* HAVE	92189	[act] 36-700 2-car set [MT]	36-701, 36-703
-* HAVE	92189	[act] 36-700 2-car set [MT]	36-704, 36-705
-* HAVE	97924	[act] 36-700 Thank you from Kamaishi 2-car set [MT]	36-702, 36-716
-* HAVE	8601	[act] 36-700 Iwate × Geodude [M]	36-706
+* [x] HAVE	92189	[act] 36-700 2-car set [MT]	36-701, 36-703
+* [ ] HAVE	92189	[act] 36-700 2-car set [MT]	36-704, 36-705
+- [x] HAVE	97924	[act] 36-700 Thank you from Kamaishi 2-car set [MT]	36-702, 36-716
+- [ ] HAVE	8601	[act] 36-700 Iwate × Geodude [M]	36-706
 
 inaccessible numbers as of 5/2021:
 
