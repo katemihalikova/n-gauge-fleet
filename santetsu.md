@@ -13,7 +13,7 @@
 ✅ | 36-105 | Kitto Zutto 2 Go | ⚪ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2652
 ✅ | 36-109 | Regular | ⚪ | ✅ | 2× TN Knuckle, body mounted | Tomix 92194
 ✅ | 36-202 | Regular | Ⓜ️ | 🟥 | 1× TN Knuckle, body mounted<br>1× Rapido, bogie mounted | Tomix 92194
-✅ | 36-207 | Regular | ⚪ | 🟥 | 2× TN Knuckle, body mounted | Tomix 92194
+✅ | 36-207 | Regular | ⚪ | 🟥 | 2× Rapido, bogie mounted | Tomix 92194
 ✅ | 36-208 | Regular | Ⓜ️ | 🟥 | 2× TN Knuckle, body mounted | Tomix 92194
 ✅ | 36-209 | Regular | Ⓜ️ | 🟥 | 2× TN Knuckle, body mounted | Tomix 92194
 ✅ | 36-2110 | Blue, sea waves | ⚪ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2655
