@@ -29,6 +29,7 @@
 🟥 | <span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060
 ✅ | <span title="Wamu 2000">ワム2000</span> | 2699 || Tomix 98713
 🟥 | <span title="Wamu 3500">ワム3500</span> | 7023 || Tomix 8704
+🟨 | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172
 🟥 | <span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701
 🟥 | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702
 ⬜ | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735
@@ -129,10 +130,14 @@
 
 🧰 | Series | Number | Details | Comes from
 --- | --- | --- | --- | ---
-✅ | <span title="Komu 1">コム1</span> | 15 || Tomix 2718 or 90097
-✅ | <span title="Komu 1">コム1</span> | 38 || Tomix 2719 or 90097
-✅ | <span title="Komu 1">コム1</span> | 2021 ||
-🟥 | <span title="Komu 1">コム1</span> | ... ||
+✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097
+✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097
+☑️ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container | Tomix 93149
+🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container | Tomix ???
+🟥 | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix ???
+🟥 | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix ???
+☑️ | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container | Tomix ???
+✅ | <span title="Komu 1">コム1</span> | 2021 | Ico-chan × Cow container | Tomix 93220
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721
 🟥 | <span title="Chi 1">チ1</span> | 51 | wood | Tomix 2720
 
@@ -144,8 +149,10 @@
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705
+⬜ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ❓ | green | Tomix 93171
 🟥 | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green | Tomix 8715
 🟥 | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❓ || Tomix 2711
 🟨 | <span title="Yo 6000">ヨ6000</span> | 6522 | ✔️ | 🟥 || Kato 8064
 🟨 | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065
 🟥 | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702
+⬜ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green | Tomix 93526
