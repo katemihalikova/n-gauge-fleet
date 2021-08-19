@@ -16,7 +16,7 @@
 ✅ | 36-207 | Regular | ⚪ | 🟥 | 2× Rapido, bogie mounted | Tomix 92194
 ✅ | 36-208 | Regular | Ⓜ️ | 🟥 | 2× TN Knuckle, body mounted | Tomix 92194
 ✅ | 36-209 | Regular | Ⓜ️ | 🟥 | 2× TN Knuckle, body mounted | Tomix 92194
-✅ | 36-2110 | Blue, sea waves | ⚪ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2655
+✅ | 36-2110 | Sanriku Shiokaze | ⚪ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2655
 
 ## 36-500
 
