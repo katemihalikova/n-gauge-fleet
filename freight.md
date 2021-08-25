@@ -10,7 +10,7 @@
 
 🧰 | Series | Number | Details | Comes from | Width
 --- | --- | --- | --- | --- | ---
-🟥 | <span title="E 1">エ1</span> | <sup>ロ</sup>エ 205 | yellow-white stripe, from <span title="Wamu 1">ワム1</span> | Tomix 8716 | _50_
+🟥 | <span title="E 1">エ1</span> | 205 | yellow-white stripe, from <span title="Wamu 1">ワム1</span> | Tomix 8716 | _50_
 ✅ | <span title="Ka 3000">カ3000</span> | 3078 | livestock | Tomix 2736 | _50_
 🟨 | <span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
 ✅ | <span title="Tsumu 1000">ツム1000</span> | 2234 | ventilated | Tomix 2737 | _50_
@@ -116,15 +116,15 @@
 
 🧰 | Series | Number | Details | Comes from | Width
 --- | --- | --- | --- | --- | ---
-✅ | <span title="Tamu 500">タム500</span> | 2500 | gray, LP gas, Tomii Kosan | Tomix 2747 | _50_
-🟨 | <span title="Tamu 500">タム500</span> | 2503 | silver, gasoline, Tomii Kosan | Tomix 2723 or 90096 | _50_
-✅ | <span title="Tamu 500">タム500</span> | 2550 | yellow, liquid chlrorine, Tomii Kosan | Tomix 2724 | _50_
-🟨 | <span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | _50_
-⬜ | <span title="Tamu 500">タム500</span> | 2988 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | _50_
-✅ | <span title="Tamu 500">タム500</span> | 3527 | white, liquid ammonia, Tomii Kosan | Tomix 2748 | _50_
-⬜ | <span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | _50_
-🟥 | <span title="Mimu 100">ミム100</span> | 148 || Tomix 8720 | _50_
-🟥 | <span title="Ya 500">ヤ500</span> | 500 || Tomix 8721 | _50_
+✅ | <span title="Tamu 500">タム500</span> | 2500 | gray, LP gas, Tomii Kosan | Tomix 2747 | ___60___
+🟨 | <span title="Tamu 500">タム500</span> | 2503 | silver, gasoline, Tomii Kosan | Tomix 2723 or 90096 | ___60___
+✅ | <span title="Tamu 500">タム500</span> | 2550 | yellow, liquid chlrorine, Tomii Kosan | Tomix 2724 | ___60___
+🟨 | <span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | ___60___
+⬜ | <span title="Tamu 500">タム500</span> | 2988 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
+✅ | <span title="Tamu 500">タム500</span> | 3527 | white, liquid ammonia, Tomii Kosan | Tomix 2748 | ___60___
+⬜ | <span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
+🟥 | <span title="Mimu 100">ミム100</span> | 148 || Tomix 8720 | ___60___
+🟥 | <span title="Ya 500">ヤ500</span> | 500 || Tomix 8721 | ___60___
 
 ## Flat cars
 
