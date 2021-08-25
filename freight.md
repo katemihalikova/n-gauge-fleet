@@ -18,8 +18,8 @@
 🟥 | <span title="Temu 300">テム300</span> | 710 || Kato 8070 | _50_
 🟥 | <span title="Temu 300">テム300</span> | 1121 || Kato 8070 | _50_
 🟥 | <span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
-🟨 | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 | _50_ ❓
-🟥 | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_ ❓
+🟨 | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 | _50_
+🟥 | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
 ✅ | <span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
 🟨 | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
 🟨 | <span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
@@ -81,7 +81,7 @@
 
 🧰 | Series | Number | Details | Comes from | Width
 --- | --- | --- | --- | --- | ---
-🟨 | <span title="Tora 45000">トラ45000</span> | 45270 | with cover | Kato 8027-1 | _50 low_
+🟨 | <span title="Tora 45000">トラ45000</span> | 45270 | with cover | Kato 8027-1 or 10-033 | _50 low_
 🟨 | <span title="Tora 45000">トラ45000</span> | 46264 || Kato 8027 | _50 low_
 🟨 | <span title="Tora 45000">トラ45000</span> | 47061 | with cover | Kato 8027-1 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 49344 | with cover | Kato 10-1599 | _50 low_
@@ -146,7 +146,7 @@
 🧰 | Series | Number | 🚨 | 💡 | Details | Comes from | Width
 --- | --- | --- | --- | --- | --- | --- | ---
 🟨 | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
-⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 | _50_
+⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ❓ | green | Tomix 93171 | _50_
