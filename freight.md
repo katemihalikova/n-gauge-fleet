@@ -156,3 +156,103 @@
 🟨 | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
 🟥 | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
 ⬜ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green | Tomix 93526 | _50_
+
+---
+
+### 🟥 Want
+* Kato 8060
+* Kato 8070
+* Tomix 2702
+* Tomix 2711
+* Tomix 2712
+* Tomix 2720
+* Tomix 2729
+* Tomix 2733
+* Tomix 2734
+* Tomix 8701
+* Tomix 8702
+* Tomix 8704
+* Tomix 8715
+* Tomix 8716
+* Tomix 8720
+* Tomix 8721
+* Tomix 98064
+
+### 🟨 Maybe want
+* Kato 8006
+* Kato 8025
+* Kato 8027
+* Kato 8027-1
+* Kato 8029
+* Kato 8056
+* Kato 8057
+* Kato 8064
+* Kato 8065
+* Kato 8068
+* Kato 8084
+* Tomix 2713
+* Tomix 2722
+* Tomix 2723
+* Tomix 2725
+* Tomix 93172
+* Tomix 98735 (Yo 3500 only)
+
+### ⬜ Don't need
+* Kato 8030
+* Kato 8039
+* Kato 8046-1
+* Kato 8069-1
+* Kato 10-1377
+* Tomix 2714
+* Tomix 8705
+* Tomix 8719
+* Tomix 93171
+* Tomix 93526
+* Tomix 98735
+
+---
+
+🟨 Kato 8006
+🟨 Kato 8025
+🟨 Kato 8027
+🟨 Kato 8027-1
+⬜ Kato 8030
+🟨 Kato 8029
+⬜ Kato 8039
+⬜ Kato 8046-1
+🟨 Kato 8056
+🟨 Kato 8057
+🟥 Kato 8060
+🟨 Kato 8064
+🟨 Kato 8065
+🟨 Kato 8068
+⬜ Kato 8069-1
+🟥 Kato 8070
+🟨 Kato 8084
+⬜ Kato 10-1377
+🟥 Tomix 2702
+🟥 Tomix 2711
+🟥 Tomix 2712
+🟨 Tomix 2713
+⬜ Tomix 2714
+🟥 Tomix 2720
+🟨 Tomix 2722
+🟨 Tomix 2723
+🟨 Tomix 2725
+🟥 Tomix 2729
+🟥 Tomix 2733
+🟥 Tomix 2734
+🟥 Tomix 8701
+🟥 Tomix 8702
+🟥 Tomix 8704
+⬜ Tomix 8705
+🟥 Tomix 8715
+🟥 Tomix 8716
+⬜ Tomix 8719
+🟥 Tomix 8720
+🟥 Tomix 8721
+⬜ Tomix 93171
+🟨 Tomix 93172
+⬜ Tomix 93526
+🟥 Tomix 98064
+⬜ Tomix 98735 (🟨 Yo 3500)
