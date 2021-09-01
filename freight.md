@@ -32,21 +32,21 @@
 🟨 | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
 🟥 | <span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
 🟥 | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
-⬜ | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735 | _50_
-⬜ | <span title="Wamu 60000">ワム60000</span> | 61738 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 61738 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 62664 || Tomix 98713 | _50_
-⬜ | <span title="Wamu 60000">ワム60000</span> | 62864 | express | Tomix 98735 | _50_
-⬜ | <span title="Wamu 60000">ワム60000</span> | 63129 | express | Tomix 98735 | _50_
-⬜ | <span title="Wamu 60000">ワム60000</span> | 63182 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 62864 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 63129 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 63182 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 63341 || Tomix 98713 | _50_
-⬜ | <span title="Wamu 60000">ワム60000</span> | 63358 | express | Tomix 98735 | _50_
-⬜ | <span title="Wamu 60000">ワム60000</span> | 64571 | express | Tomix 98735 | _50_
-⬜ | <span title="Wamu 70000">ワム70000</span> | 71452 | express, orange stripes | Tomix 98735 | _50_
-⬜ | <span title="Wamu 70000">ワム70000</span> | 71459 | express, orange stripes | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 63358 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 64571 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 71452 | express, orange stripes | Tomix 98735 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 71459 | express, orange stripes | Tomix 98735 | _50_
 🟥 | <span title="Wamu 70000">ワム70000</span> | 71968 || Tomix 2733 | _50_
 ✅ | <span title="Wamu 70000">ワム70000</span> | 72157 || Kato 10-1599 | _50_
-🟨 | <span title="Wamu 70000">ワム70000</span> | 72386 || Kato 8056 | _50_
-🟨 | <span title="Wamu 70000">ワム70000</span> | 74015 || Kato 8056 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 72386 || Kato 8056 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 74015 || Kato 8056 | _50_
 ✅ | <span title="Wamu 80000">ワム80000</span> | 86790 | brown | Tomix 98713 | ___60___
 ✅ | <span title="Wamu 80000">ワム80000</span> | 87213 | brown | Tomix 98713 | ___60___
 ✅ | <span title="Wamu 80000">ワム80000</span> | 183807 | brown | Tomix 8734 | ___60___
@@ -145,7 +145,7 @@
 
 🧰 | Series | Number | 🚨 | 💡 | Details | Comes from | Width
 --- | --- | --- | --- | --- | --- | --- | ---
-🟨 | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
+✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
@@ -184,7 +184,6 @@
 * Kato 8027
 * Kato 8027-1
 * Kato 8029
-* Kato 8056
 * Kato 8057
 * Kato 8064
 * Kato 8065
@@ -195,7 +194,6 @@
 * Tomix 2723
 * Tomix 2725
 * Tomix 93172
-* Tomix 98735 (Yo 3500 only)
 
 ### ⬜ Don't need
 * Kato 8030
@@ -208,7 +206,6 @@
 * Tomix 8719
 * Tomix 93171
 * Tomix 93526
-* Tomix 98735
 
 ---
 
@@ -220,7 +217,6 @@
 * 🟨 Kato 8029
 * ⬜ Kato 8039
 * ⬜ Kato 8046-1
-* 🟨 Kato 8056
 * 🟨 Kato 8057
 * 🟥 Kato 8060
 * 🟨 Kato 8064
@@ -255,4 +251,3 @@
 * 🟨 Tomix 93172
 * ⬜ Tomix 93526
 * 🟥 Tomix 98064
-* ⬜ Tomix 98735 (🟨 Yo 3500)
