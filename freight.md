@@ -55,7 +55,7 @@
 ⬜ | <span title="Wamu 80000">ワム80000</span> | 286723 | brown | Kato 8039 | ___60___
 🟥 | <span title="Wamu 80000">ワム80000</span> | 586064 | white | Tomix 98064 | ___60___
 🟥 | <span title="Wamu 80000">ワム80000</span> | 586069 | white | Tomix 98064 | ___60___
-⬜ | <span title="Wamu 90000">ワム90000</span> | 90000 | express, orange stripe | Tomix 8719 | _50_
+🟨 | <span title="Wamu 90000">ワム90000</span> | 90000 | express, orange stripe | Tomix 8719 | _50_
 🟨 | <span title="Wamu 90000">ワム90000</span> | 90896 || Kato 8029 | _50_
 🟨 | <span title="Wamu 90000">ワム90000</span> | 91009 || Kato 8029 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 91923 | white stripe | Tomix 98713 | _50_
@@ -74,7 +74,7 @@
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 ✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | Tomytec 317593 | __52__
 ✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | Tomytec 317593 | __52__
-⬜ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van || ✔️ | ❌ | Kato 8030 | _50_ + chimney
+🟨 | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van || ✔️ | ❌ | Kato 8030 | _50_ + chimney
 ✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | brake van || ✔️ | ❌ | Kato 10-1599 | _50_ + chimney
 
 ## Open cars
@@ -132,7 +132,11 @@
 --- | --- | --- | --- | --- | ---
 ✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix ??? | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container | Tomix 93149 | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix ??? | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Goat container | Tomix ??? | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix ??? | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container | Tomix ??? | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix ??? | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix ??? | ___60___
@@ -187,6 +191,7 @@
 * Kato 8084
 * Tomix 2722
 * Tomix 2723
+* Tomix 8719
 * Tomix 93172
 
 ### ⬜ Don't need
@@ -196,7 +201,6 @@
 * Kato 8069-1
 * Tomix 2714
 * Tomix 8705
-* Tomix 8719
 * Tomix 93171
 * Tomix 93526
 
@@ -230,7 +234,7 @@
 * ⬜ Tomix 8705 (not in stocklist)
 * 🟥 Tomix 8715 (not in stocklist)
 * 🟥 Tomix 8716 (not in stocklist)
-* ⬜ Tomix 8719 (not in stocklist)
+* 🟨 Tomix 8719 (not in stocklist)
 * 🟥 Tomix 8720 (not in stocklist)
 * 🟥 Tomix 8721 (not in stocklist)
 * ⬜ Tomix 93171
