@@ -25,8 +25,8 @@
 🟨 | <span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
 ✅ | <span title="Remu 5000">レム5000</span> | 6089 | refrigerated, white, blue stripe | Tomix 2712 | __55__
 ✅ | <span title="Remu 5000">レム5000</span> | 6352 | refrigerated, white, blue stripe | Tomix 98713 | __55__
-✅ | <span title="Wa 12000">ワ12000</span> | 12188 || Kato 8060 | _50_
-✅ | <span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060 | _50_
+✅ | <span title="Wa 12000">ワ12000</span> | 12188 || Kato 8060 | 40
+✅ | <span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060 | 40
 ✅ | <span title="Wamu 2000">ワム2000</span> | 2699 || Tomix 98713 | _50_
 🟥 | <span title="Wamu 3500">ワム3500</span> | 7023 || Tomix 8704 | _50_
 🟨 | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
@@ -117,9 +117,9 @@
 🧰 | Series | Number | Details | Comes from | Width
 --- | --- | --- | --- | --- | ---
 ✅ | <span title="Tamu 500">タム500</span> | 2500 | gray, LP gas, Tomii Kosan | Tomix 2747 | ___60___
-🟨 | <span title="Tamu 500">タム500</span> | 2503 | silver, gasoline, Tomii Kosan | Tomix 2723 or 90096 | ___60___
+🟥 | <span title="Tamu 500">タム500</span> | 2503 | silver, gasoline, Tomii Kosan | Tomix 2723 or 90096 | ___60___
 ✅ | <span title="Tamu 500">タム500</span> | 2550 | yellow, liquid chlrorine, Tomii Kosan | Tomix 2724 | ___60___
-🟨 | <span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | ___60___
+⬜ | <span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | ___60___
 ⬜ | <span title="Tamu 500">タム500</span> | 2988 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
 ✅ | <span title="Tamu 500">タム500</span> | 3527 | white, liquid ammonia, Tomii Kosan | Tomix 2748 | ___60___
 ⬜ | <span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
@@ -168,6 +168,7 @@
 * Tomix 2702
 * Tomix 2711
 * Tomix 2720
+* Tomix 2723
 * Tomix 2729
 * Tomix 2734
 * Tomix 8701
@@ -189,8 +190,6 @@
 * Kato 8065
 * Kato 8068
 * Kato 8084
-* Tomix 2722
-* Tomix 2723
 * Tomix 8719
 * Tomix 93172
 
@@ -200,6 +199,7 @@
 * Kato 8046-1
 * Kato 8069-1
 * Tomix 2714
+* Tomix 2722
 * Tomix 8705
 * Tomix 93171
 * Tomix 93526
@@ -224,8 +224,8 @@
 * 🟥 Tomix 2711 (not in stocklist)
 * ⬜ Tomix 2714 (in stock)
 * 🟥 Tomix 2720 (not in stocklist)
-* 🟨 Tomix 2722 (not in stocklist)
-* 🟨 Tomix 2723 (not in stocklist)
+* ⬜ Tomix 2722 (not in stocklist)
+* 🟥 Tomix 2723 (not in stocklist)
 * 🟥 Tomix 2729 (not in stocklist)
 * 🟥 Tomix 2734 (not in stocklist)
 * 🟥 Tomix 8701 (not in stocklist)
