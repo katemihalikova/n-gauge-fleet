@@ -14,5 +14,5 @@
 ## Model maintenance
 
 🧰 | Type | Livery | 🚃 | Coupler | Comes from
---- | --- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 ✅ | Rail Cleaning Car | transparent gray | ⚪ | 2× TN Knuckle, body mounted<br>towed by Santetsu fleet | Tomix 6426
