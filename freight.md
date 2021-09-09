@@ -96,15 +96,15 @@
 ✅ | <span title="Tora 70000">トラ70000</span> | 73106 || Tomix 98713 | ___60 low___
 ✅ | <span title="Tora 70000">トラ70000</span> | 74761 || Tomix 98713 | ___60 low___
 ✅ | <span title="Tora 70000">トラ70000</span> | 74778 || Tomix 2713 or 90096 | ___60 low___
-⬜ | <span title="Tora 90000">トラ90000</span> | 91395 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91395 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
 ✅ | <span title="Tora 90000">トラ90000</span> | 91594 | wire mesh fence | Kato 8062 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91648 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span> | 91648 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ⬜ | <span title="Tora 90000">トラ90000</span> | 91727 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ⬜ | <span title="Tora 90000">トラ90000</span> | 91922 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ⬜ | <span title="Tora 90000">トラ90000</span> | 91924 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ⬜ | <span title="Tora 90000">トラ90000</span> | 91925 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ⬜ | <span title="Tora 90000">トラ90000</span> | 91938 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91943 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬜ | <span title="Tora 90000">トラ90000</span> | 91943 | wire mesh fence | Kato 10-1377 | _50_ + cover~~
 ✅ | <span title="Tora 90000">トラ90000</span> | 92459 | wire mesh fence | Kato 8062 | _50_ + cover
 
 ### Accessories
