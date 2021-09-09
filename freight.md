@@ -98,13 +98,13 @@
 ✅ | <span title="Tora 70000">トラ70000</span> | 74778 || Tomix 2713 or 90096 | ___60 low___
 ⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91395 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
 ✅ | <span title="Tora 90000">トラ90000</span> | 91594 | wire mesh fence | Kato 8062 | _50_ + cover
-⬜ | ~~<span title="Tora 90000">トラ90000</span> | 91648 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91727 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91922 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91924 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91925 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91938 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000">トラ90000</span> | 91943 | wire mesh fence | Kato 10-1377 | _50_ + cover~~
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91648 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91727 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91922 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91924 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91925 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91938 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
+⬜ | ~~<span title="Tora 90000">トラ90000</span>~~ | 91943 | wire mesh fence | ~~Kato 10-1377~~ | _50_ + cover
 ✅ | <span title="Tora 90000">トラ90000</span> | 92459 | wire mesh fence | Kato 8062 | _50_ + cover
 
 ### Accessories
@@ -119,10 +119,10 @@
 ✅ | <span title="Tamu 500">タム500</span> | 2500 | gray, LP gas, Tomii Kosan | Tomix 2747 | ___60___
 🟥 | <span title="Tamu 500">タム500</span> | 2503 | silver, gasoline, Tomii Kosan | Tomix 2723 or 90096 | ___60___
 ✅ | <span title="Tamu 500">タム500</span> | 2550 | yellow, liquid chlrorine, Tomii Kosan | Tomix 2724 | ___60___
-⬜ | <span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | ___60___
-⬜ | <span title="Tamu 500">タム500</span> | 2988 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
+⬜ | ~~<span title="Tamu 500">タム500</span>~~ | 2848 | black, gasoline, Japan Oil Transportation | ~~Tomix 2722~~ | ___60___
+⬜ | ~~<span title="Tamu 500">タム500</span>~~ | 2988 | black, gasoline, Japan Oil Transportation | ~~Kato 8069-1~~ | ___60___
 ✅ | <span title="Tamu 500">タム500</span> | 3527 | white, liquid ammonia, Tomii Kosan | Tomix 2748 | ___60___
-⬜ | <span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
+⬜ | ~~<span title="Tamu 500">タム500</span>~~ | 10520 | black, gasoline, Japan Oil Transportation | ~~Kato 8069-1~~ | ___60___
 🟥 | <span title="Mimu 100">ミム100</span> | 148 || Tomix 8720 | ___60___
 🟥 | <span title="Ya 500">ヤ500</span> | 500 || Tomix 8721 | ___60___
 
