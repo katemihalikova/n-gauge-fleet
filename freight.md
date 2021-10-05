@@ -19,7 +19,7 @@
 🟪<sup>🟥</sup> | <span title="Temu 300">テム300</span> | 710 || Kato 8070 | _50_
 🟪<sup>🟥</sup> | <span title="Temu 300">テム300</span> | 1121 || Kato 8070 | _50_
 🟪<sup>🟥</sup> | <span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
-🟪<sup>🟨</sup> | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 | _50_
+🟪<sup>🟨</sup> | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
 🟨 | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
 ✅ | <span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
 🟪<sup>🟨</sup> | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
@@ -114,7 +114,7 @@
 ✅ | <span title="Wamu 90000">ワム90000</span> | 124164 | no door ribs | Tomix 2728 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 124467 || Kato 10-1599 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 135083 || Tomix 2727 | _50_
-✅ | <span title="Wara 1">ワラ1</span> | 1234 || Kato 8025 | _50_
+✅ | <span title="Wara 1">ワラ1</span> | 1234 || Kato 8025 or 10-809 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 2095 || Tomix 2717 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 2579 || Kato 10-1599 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 6542 || Kato 8025 | _50_
@@ -201,14 +201,16 @@
 
 🧰 | Series | Number | 🚨 | 💡 | Details | Comes from | Width
 --- | --- | --- | --- | --- | --- | --- | ---
+⬜ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️ | 🟥 || Kato 8035-1 | _50_
 ✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
-⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 | _50_
+⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ❓ | green | Tomix 93171 | _50_
 🟥 | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green | Tomix 8715 | _50_
 🟥 | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❓ || Tomix 2711 | _50_
 🟨 | <span title="Yo 6000">ヨ6000</span> | 6522 | ✔️ | 🟥 || Kato 8064 | _50_
+⬜ | <span title="Yo 8000">ヨ8000</span> | 8219 | ✔️ | 🟥 || Kato 8022 | _50_
 🟨 | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
 🟥 | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
 ⬜ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green | Tomix 93526 or 92599 | _50_
