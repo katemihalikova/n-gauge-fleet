@@ -51,9 +51,9 @@
 ✅ | <span title="Wamu 80000">ワム80000</span> | 86790 | brown | Tomix 98713 | ___60___
 ✅ | <span title="Wamu 80000">ワム80000</span> | 87213 | brown | Tomix 98713 | ___60___
 ✅<sup>🟫</sup> | <span title="Wamu 80000">ワム80000</span> | 183807 | brown | Tomix 8734 | ___60___
-🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 283912 | brown | Kato 8039 | ___60___
+⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~283912~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
 🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 284232 | brown | Tomix 2714 | ___60___
-🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 286723 | brown | Kato 8039 | ___60___
+⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~286723~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
 🟪<sup>🟥</sup> | <span title="Wamu 80000">ワム80000</span> | 586064 | white | Tomix 98064 | ___60___
 🟪<sup>🟥</sup> | <span title="Wamu 80000">ワム80000</span> | 586069 | white | Tomix 98064 | ___60___
 🟥 | <span title="Wamu 90000">ワム90000</span> | 90000 | express, orange stripe | Tomix 8719 | _50_
@@ -168,7 +168,6 @@
 * 🟪 Kato 8027
 * 🟪 Kato 8029
 * 🟪 Kato 8030
-* 🟪 Kato 8039
 * 🟪 Kato 8057
 * 🟪 Kato 8070
 * 🟪 Kato 8084
