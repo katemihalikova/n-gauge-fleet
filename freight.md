@@ -51,11 +51,11 @@
 ✅ | <span title="Wamu 80000">ワム80000</span> | 86790 | brown | Tomix 98713 | ___60___
 ✅ | <span title="Wamu 80000">ワム80000</span> | 87213 | brown | Tomix 98713 | ___60___
 ✅ | <span title="Wamu 80000">ワム80000</span> | 183807 | brown | Tomix 8734 | ___60___
-⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~283708~~ | ~~light blue~~ | ~~Tomix 92404~~ | ___60___
+⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~283708~~ | ~~light blue, gray roof~~ | ~~Tomix 92404~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~283912~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
-🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 284232 | brown | Tomix 2714 | ___60___
+🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 284232 | brown, gray roof | Tomix 2714 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~286723~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
-⬜ | <span title="Wamu 80000">ワム80000</span> | 287419 | brown | Tomix 92599 | ___60___
+⬜ | <span title="Wamu 80000">ワム80000</span> | 287419 | brown, gray roof | Tomix 92599 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380007~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380014~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380022~~ | ~~blue~~ | ~~Kato 10-465~~ | ___60___
@@ -222,7 +222,7 @@
 * 🟪 Kato 8057
 * 🟪 Kato 8070
 * 🟪 Kato 8084
-* 🟪 Tomix 2714 (?)
+* 🟪 Tomix 2714 (?? gray roof)
 * 🟪 Tomix 2723
 * 🟪 Tomix 2729
 * 🟪 Tomix 8701
