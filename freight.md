@@ -33,24 +33,24 @@
 🟨 | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
 🟪<sup>🟥</sup> | <span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
 🟥 | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 60000">ワム60000</span> | 61738 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 61738 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 62664 || Tomix 98713 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 60000">ワム60000</span> | 62864 | express | Tomix 98735 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 60000">ワム60000</span> | 63129 | express | Tomix 98735 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 60000">ワム60000</span> | 63182 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 62864 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 63129 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 63182 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 63341 || Tomix 98713 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 60000">ワム60000</span> | 63358 | express | Tomix 98735 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 60000">ワム60000</span> | 64571 | express | Tomix 98735 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 70000">ワム70000</span> | 71452 | express, orange stripes | Tomix 98735 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 70000">ワム70000</span> | 71459 | express, orange stripes | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 63358 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 60000">ワム60000</span> | 64571 | express | Tomix 98735 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 71452 | express, orange stripes | Tomix 98735 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 71459 | express, orange stripes | Tomix 98735 | _50_
 ✅ | <span title="Wamu 70000">ワム70000</span> | 71968 || Tomix 2733 | _50_
 ✅ | <span title="Wamu 70000">ワム70000</span> | 72157 || Kato 10-1599 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 70000">ワム70000</span> | 72386 || Kato 8056 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 70000">ワム70000</span> | 74015 || Kato 8056 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 72386 || Kato 8056 | _50_
+✅ | <span title="Wamu 70000">ワム70000</span> | 74015 || Kato 8056 | _50_
 ✅ | <span title="Wamu 80000">ワム80000</span> | 86790 | brown | Tomix 98713 | ___60___
 ✅ | <span title="Wamu 80000">ワム80000</span> | 87213 | brown | Tomix 98713 | ___60___
-✅<sup>🟫</sup> | <span title="Wamu 80000">ワム80000</span> | 183807 | brown | Tomix 8734 | ___60___
+✅ | <span title="Wamu 80000">ワム80000</span> | 183807 | brown | Tomix 8734 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~283912~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
 🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 284232 | brown | Tomix 2714 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~286723~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
@@ -60,11 +60,11 @@
 🟪<sup>🟨</sup> | <span title="Wamu 90000">ワム90000</span> | 90896 || Kato 8029 | _50_
 🟪<sup>🟨</sup> | <span title="Wamu 90000">ワム90000</span> | 91009 || Kato 8029 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 91923 | white stripe | Tomix 98713 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 90000">ワム90000</span> | 124164 | no door ribs | Tomix 2728 | _50_
+✅ | <span title="Wamu 90000">ワム90000</span> | 124164 | no door ribs | Tomix 2728 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 124467 || Kato 10-1599 | _50_
-✅<sup>🟫</sup> | <span title="Wamu 90000">ワム90000</span> | 135083 || Tomix 2727 | _50_
+✅ | <span title="Wamu 90000">ワム90000</span> | 135083 || Tomix 2727 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 1234 || Kato 8025 | _50_
-✅<sup>🟫</sup> | <span title="Wara 1">ワラ1</span> | 2095 || Tomix 2717 | _50_
+✅ | <span title="Wara 1">ワラ1</span> | 2095 || Tomix 2717 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 2579 || Kato 10-1599 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 6542 || Kato 8025 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 16395 || Tomix 98713 | _50_
@@ -89,7 +89,7 @@
 🟪<sup>🟥</sup> | <span title="Tora 45000">トラ45000</span> | 50021 || Kato 8027 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 50858 | with cover | Kato 10-1599 | _50 low_
 ✅ | <span title="Tora 145000">トラ145000</span> | 147382 || Tomix 2725 | _50 low_
-✅<sup>🟫</sup> | <span title="Tora 145000">トラ145000</span> | 152261 | wood | Tomix 2726 | _50 low_
+✅ | <span title="Tora 145000">トラ145000</span> | 152261 | wood | Tomix 2726 | _50 low_
 ✅ | <span title="Tora 145000">トラ145000</span> | 152867 || Tomix 98713 | _50 low_
 ✅ | <span title="Tora 55000">トラ55000</span> | 55472 | with cover | Kato 10-1599 | _50 low_
 🟥 | <span title="Tora 55000">トラ55000</span> | 57268 | with cover | Kato 8068 | _50 low_
@@ -134,14 +134,14 @@
 ✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix ??? | ___60___
-✅<sup>🟫</sup> | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container | Tomix 93149 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container | Tomix 93149 | ___60___
 ☑️ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix ??? | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Goat container | Tomix ??? | ___60___
 ☑️ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix ??? | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container | Tomix ??? | ___60___
 ☑️ | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix ??? | ___60___
 ☑️ | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix ??? | ___60___
-✅<sup>🟫</sup> | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container | Tomix ??? | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container | Tomix ??? | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2021 | Ico-chan × Cow container | Tomix 93220 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
 🟥 | <span title="Chi 1">チ1</span> | 51 | wood | Tomix 2720 | ___60___
@@ -150,7 +150,7 @@
 
 🧰 | Series | Number | 🚨 | 💡 | Details | Comes from | Width
 --- | --- | --- | --- | --- | --- | --- | ---
-✅<sup>🟫</sup> | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
+✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
