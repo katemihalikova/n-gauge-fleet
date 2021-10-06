@@ -11,7 +11,7 @@
 
 🧰 | Series | Number | Details | Comes from | Width
 --- | --- | --- | --- | --- | ---
-🟥 | <span title="E 1">エ1</span> | 205 | yellow-white stripe, from <span title="Wamu 1">ワム1</span> | Tomix 8716 | _50_
+🟪<sup>🟥</sup> | <span title="E 1">エ1</span> | 205 | yellow-white stripe, from <span title="Wamu 1">ワム1</span> | Tomix 8716 | _50_
 ✅ | <span title="Ka 3000">カ3000</span> | 3078 | livestock | Tomix 2736 | _50_
 🟪<sup>🟨</sup> | <span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
 ✅ | <span title="Tsumu 1000">ツム1000</span> | 2234 | ventilated | Tomix 2737 | _50_
@@ -107,7 +107,7 @@
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~480017~~ | ~~wine~~ | ~~Kato 8034~~ | ___60___
 🟪<sup>🟥</sup> | <span title="Wamu 80000">ワム80000</span> | 586064 | white | Tomix 98064 | ___60___
 🟪<sup>🟥</sup> | <span title="Wamu 80000">ワム80000</span> | 586069 | white | Tomix 98064 | ___60___
-🟥 | <span title="Wamu 90000">ワム90000</span> | 90000 | express, orange stripe | Tomix 8719 | _50_
+🟪<sup>🟥</sup> | <span title="Wamu 90000">ワム90000</span> | 90000 | express, orange stripe | Tomix 8719 | _50_
 🟪<sup>🟨</sup> | <span title="Wamu 90000">ワム90000</span> | 90896 || Kato 8029 | _50_
 🟪<sup>🟨</sup> | <span title="Wamu 90000">ワム90000</span> | 91009 || Kato 8029 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 91923 | white stripe | Tomix 98713 | _50_
@@ -228,6 +228,8 @@
 * 🟪 Tomix 2723
 * 🟪 Tomix 2729
 * 🟪 Tomix 8701
+* 🟪 Tomix 8716 (October rerelease)
+* 🟪 Tomix 8719 (October rerelease)
 * 🟪 Tomix 8720
 * 🟪 Tomix 8721
 * 🟪 Tomix 98064
