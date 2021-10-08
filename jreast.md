@@ -30,6 +30,7 @@
 ✅ | 129 | Regular | ⚪ | 🟥 | 1× Kato Shibata with hook, body mounted<br>1× Kato Shibata compatible with TN Shibata, body mounted | Kato 6044-1
 ⬜ | 130 | Regular | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6043
 ✅ | 137 | Regular | ⚪ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6044
+🟥 | 701 | Tohoku Emotion | ⚪ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-936
 
 ## キハ111 + キハ112
 
@@ -39,3 +40,4 @@
 ✅ | 116 | Regular | ⚪ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-1166
 ⬜ | 119 | Regular | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-347
 ⬜ | 120 | Regular | ⚪ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-348
+🟥 | 701 | Tohoku Emotion | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-936
