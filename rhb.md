@@ -3,23 +3,31 @@
 * ✅ Have
 * ☑️ Preordered
 * 🟥 Want
+* 🟨 Maybe want
+* ⬜ Not interested in
 
 ## Ge4/4-II
 
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
 ✅ | 622 | Hakone Tozan | Kato 10-1514
+⬜ | 623 | Glacier Express | Kato 3102-2
+🟨 | 631 | Regular | Kato 3102
 
 ## Ge4/4-III
 
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
-✅ | 650 | Unesco Welterbe | Kato 3102
+🟨 | 642 | Albula Line 100th Anniversary | Kato 3101
+✅ | 650 | Unesco Welterbe | Kato 3101-3
+⬜ | 651 | Albula Line 100th Anniversary | Kato 10-006
 
 ## ABe8/12 Allegra
 
 🧰 | Number | 💡 | Comes from
 --- | --- | --- | ---
+⬜ | 3501 | 🟥 | Kato 10-025
+⬜ | 3502 | 🟥 | Kato 10-1318
 ✅ | 3508 | 🟥 | Kato 10-1273
 
 ## EW I
@@ -56,3 +64,7 @@
 ✅ | B2097 | ⬜ | Kato 5253
 ✅ | DS4223 | 🟥 | Kato 5279-1
 ✅ | WR3811 | ✅ | Kato 5280
+
+---
+
+⬜ 10-006, 10-1145, 10-1146, 10-1219, 10-1318, 10-1319
