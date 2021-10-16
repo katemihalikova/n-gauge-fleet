@@ -187,7 +187,7 @@
 🟥 | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix ??? | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container | Tomix 93149 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix 93155 | ___60___
-🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Goat container | Tomix ??? | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix ??? | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix 93176 | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container | Tomix ??? | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix 93191 | ___60___
