@@ -186,12 +186,12 @@
 ✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix ??? | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container | Tomix 93149 | ___60___
-☑️ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix ??? | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix 93155 | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Goat container | Tomix ??? | ___60___
-☑️ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix ??? | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix 93176 | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container | Tomix ??? | ___60___
-☑️ | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix ??? | ___60___
-☑️ | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix ??? | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix 93191 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix 93194 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container | Tomix 93209 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2021 | Ico-chan × Cow container | Tomix 93220 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
