@@ -247,7 +247,6 @@
 * 🟨 Kato 8065
 * 🟥 Kato 8068
 * 🟨 Kato 8084
-
 * 🟥 Tomix 2702
 * 🟥 Tomix 2711
 * 🟥 Tomix 2720
