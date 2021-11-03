@@ -13,17 +13,17 @@
 --- | --- | --- | --- | --- | ---
 🟪<sup>🟥</sup> | <span title="E 1">エ1</span> | 205 | yellow-white stripe, from <span title="Wamu 1">ワム1</span> | Tomix 8716 | _50_
 ✅ | <span title="Ka 3000">カ3000</span> | 3078 | livestock | Tomix 2736 | _50_
-🟪<sup>🟨</sup> | <span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
+🟨 | <span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
 ✅ | <span title="Tsumu 1000">ツム1000</span> | 2234 | ventilated | Tomix 2737 | _50_
-🟪<sup>🟨</sup> | <span title="Tsumu 1000">ツム1000</span> | 2575 | ventilated, with cargo | Kato 8057 | _50_
+🟨 | <span title="Tsumu 1000">ツム1000</span> | 2575 | ventilated, with cargo | Kato 8057 | _50_
 🟪<sup>🟥</sup> | <span title="Temu 300">テム300</span> | 710 || Kato 8070 | _50_
 🟪<sup>🟥</sup> | <span title="Temu 300">テム300</span> | 1121 || Kato 8070 | _50_
 🟪<sup>🟥</sup> | <span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
-🟪<sup>🟨</sup> | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
+🟨 | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
 🟨 | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
 ✅ | <span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
-🟪<sup>🟨</sup> | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
-🟪<sup>🟨</sup> | <span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
+🟨 | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
+🟨 | <span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
 ✅ | <span title="Remu 5000">レム5000</span> | 6089 | refrigerated, white, blue stripe | Tomix 2712 | __55__
 ✅ | <span title="Remu 5000">レム5000</span> | 6352 | refrigerated, white, blue stripe | Tomix 98713 | __55__
 ✅ | <span title="Wa 12000">ワ12000</span> | 12188 || Kato 8060 | 40
@@ -55,7 +55,7 @@
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~283912~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
 🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 284232 | brown, gray roof | Tomix 2714 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~286723~~ | ~~brown~~ | ~~Kato 8039~~ | ___60___
-⬜ | <span title="Wamu 80000">ワム80000</span> | 287419 | brown, gray roof | Tomix 92599 | ___60___
+☑️ | <span title="Wamu 80000">ワム80000</span> | 287419 | brown, gray roof | Tomix 92599 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380007~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380014~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380022~~ | ~~blue~~ | ~~Kato 10-465~~ | ___60___
@@ -66,7 +66,7 @@
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380125~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380127~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380133~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
-⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380140~~ | ~~blue~~ | ~~Tomix 92599~~ | ___60___
+☑️ | <span title="Wamu 80000">ワム80000</span> | 380140 | blue | Tomix 92599 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380158~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380159~~ | ~~blue~~ | ~~Kato 10-465~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380163~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
@@ -94,7 +94,7 @@
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380433~~ | ~~blue~~ | ~~Kato 10-465~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380448~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380460~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
-⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380462~~ | ~~blue~~ | ~~Tomix 2715~~ | ___60___
+🟪<sup>⬜</sup> | <span title="Wamu 80000">ワム80000</span> | 380462 | blue | Tomix 2715 | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380466~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380467~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
 ⬛ | ~~<span title="Wamu 80000">ワム80000</span>~~ | ~~380472~~ | ~~blue~~ | ~~Tomix 92977~~ | ___60___
@@ -205,7 +205,7 @@
 ✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
-⬜ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
+🟪<sup>⬜</sup> | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ❓ | green | Tomix 93171 | _50_
 🟥 | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green | Tomix 8715 | _50_
 🟥 | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❓ || Tomix 2711 | _50_
@@ -213,23 +213,50 @@
 ⬜ | <span title="Yo 8000">ヨ8000</span> | 8219 | ✔️ | 🟥 || Kato 8022 | _50_
 🟨 | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
 🟥 | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
-⬜ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green | Tomix 93526 or 92599 | _50_
+☑️ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green | Tomix 93526 or 92599 | _50_
 
 ---
 
-* 🟪 Kato 8006
-* 🟪 Kato 8027
-* 🟪 Kato 8029
-* 🟪 Kato 8030
-* 🟪 Kato 8057
-* 🟪 Kato 8070
-* 🟪 Kato 8084
-* 🟪 Tomix 2714 (?? gray roof)
-* 🟪 Tomix 2723
-* 🟪 Tomix 2729
-* 🟪 Tomix 8701
-* 🟪 Tomix 8716 (October rerelease)
-* 🟪 Tomix 8719 (October rerelease)
-* 🟪 Tomix 8720
-* 🟪 Tomix 8721
-* 🟪 Tomix 98064
+* 🟪<sup>🟥</sup> Kato 8027
+* 🟪<sup>🟨</sup> Kato 8029
+* 🟪<sup>🟨</sup> Kato 8030
+* 🟪<sup>🟥</sup> Kato 8070
+* 🟪<sup>⬜</sup> Tomix 2714
+* 🟪<sup>⬜</sup> Tomix 2715
+* 🟪<sup>🟥</sup> Tomix 2723
+* 🟪<sup>🟥</sup> Tomix 2729
+* 🟪<sup>🟥</sup> Tomix 8701
+* 🟪<sup>⬜</sup> Tomix 8705
+* 🟪<sup>🟥</sup> Tomix 8716 (October rerelease)
+* 🟪<sup>🟥</sup> Tomix 8719 (October rerelease)
+* 🟪<sup>🟥</sup> Tomix 8720
+* 🟪<sup>🟥</sup> Tomix 8721
+* 🟪<sup>🟥</sup> Tomix 98064
+* 🟪 Tomix 1526
+
+---
+
+* 🟨 Kato 8006 or 🟠10-033 or 🟢10-809
+* ⬜ Kato 8022
+* 🟥 Kato 🔵8027-1
+* 🟥 Kato 🔵8027-1 or 🟠10-033
+* ⬜ Kato 8035-1
+* ⬜ Kato 8046-1 or 🟠10-033 or 🟢10-809
+* 🟨 Kato 8057
+* 🟨 Kato 8064
+* 🟨 Kato 8065
+* 🟥 Kato 8068
+* 🟨 Kato 8084
+
+* 🟥 Tomix 2702
+* 🟥 Tomix 2711
+* 🟥 Tomix 2720
+* 🟨 Tomix 2734
+* 🟥 Tomix 8702
+* 🟥 Tomix 8704
+* 🟥 Tomix 8715
+* ⬜ Tomix 93171
+* 🟨 Tomix 93172
+* 🟥 Tomix コム2012 Dragon
+* 🟥 Tomix コム2015 Sheep
+* 🟥 Tomix コム2017 Rooster
