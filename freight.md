@@ -207,12 +207,12 @@
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
 🟪<sup>⬜</sup> | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
 ⬜ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ❓ | green | Tomix 93171 | _50_
-🟥 | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green | Tomix 8715 | _50_
-🟥 | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❓ || Tomix 2711 | _50_
+🟪<sup>🟥</sup> | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green | Tomix 8715 | _50_
+🟪<sup>🟥</sup> | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❓ || Tomix 2711 | _50_
 🟨 | <span title="Yo 6000">ヨ6000</span> | 6522 | ✔️ | 🟥 || Kato 8064 | _50_
 ⬜ | <span title="Yo 8000">ヨ8000</span> | 8219 | ✔️ | 🟥 || Kato 8022 | _50_
 🟨 | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
-🟥 | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
+🟪<sup>🟥</sup> | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
 ☑️ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green | Tomix 93526 or 92599 | _50_
 
 ---
@@ -221,14 +221,17 @@
 * 🟪<sup>🟨</sup> Kato 8029
 * 🟪<sup>🟨</sup> Kato 8030
 * 🟪<sup>🟥</sup> Kato 8070
+* 🟪<sup>🟥</sup> Tomix 2702
+* 🟪<sup>🟥</sup> Tomix 2711
 * 🟪<sup>⬜</sup> Tomix 2714
 * 🟪<sup>⬜</sup> Tomix 2715
 * 🟪<sup>🟥</sup> Tomix 2723
 * 🟪<sup>🟥</sup> Tomix 2729
 * 🟪<sup>🟥</sup> Tomix 8701
 * 🟪<sup>⬜</sup> Tomix 8705
-* 🟪<sup>🟥</sup> Tomix 8716 (October rerelease)
-* 🟪<sup>🟥</sup> Tomix 8719 (October rerelease)
+* 🟪<sup>🟥</sup> Tomix 8715
+* 🟪<sup>🟥</sup> Tomix 8716
+* 🟪<sup>🟥</sup> Tomix 8719
 * 🟪<sup>🟥</sup> Tomix 8720
 * 🟪<sup>🟥</sup> Tomix 8721
 * 🟪<sup>🟥</sup> Tomix 98064
@@ -247,13 +250,10 @@
 * 🟨 Kato 8065
 * 🟥 Kato 8068
 * 🟨 Kato 8084
-* 🟥 Tomix 2702
-* 🟥 Tomix 2711
 * 🟥 Tomix 2720
 * 🟨 Tomix 2734
 * 🟥 Tomix 8702
 * 🟥 Tomix 8704
-* 🟥 Tomix 8715
 * ⬜ Tomix 93171
 * 🟨 Tomix 93172
 * 🟥 Tomix コム2012 Dragon
