@@ -133,9 +133,9 @@
 
 🧰 | Series | Number | Details | Comes from | Width
 --- | --- | --- | --- | --- | ---
-🟥 | <span title="Tora 45000">トラ45000</span> | 45270 | with cover | Kato 8027-1 or 10-033 | _50 low_
+🟨 | <span title="Tora 45000">トラ45000</span> | 45270 | with cover | Kato 8027-1 or 10-033 | _50 low_
 ☑️ | <span title="Tora 45000">トラ45000</span> | 46264 || Kato 8027 | _50 low_
-🟥 | <span title="Tora 45000">トラ45000</span> | 47061 | with cover | Kato 8027-1 | _50 low_
+🟨 | <span title="Tora 45000">トラ45000</span> | 47061 | with cover | Kato 8027-1 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 49344 | with cover | Kato 10-1599 | _50 low_
 ☑️ | <span title="Tora 45000">トラ45000</span> | 50021 || Kato 8027 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 50858 | with cover | Kato 10-1599 | _50 low_
@@ -217,7 +217,7 @@
 
 ---
 
-* 🟥 Kato 8027-1
+* 🟨 Kato 8027-1 (2-set)
 * 🟨 Kato 8057 (2-set)
 * 🟥 Kato 8068 (2-set)
 * 🟨 Kato 8084 (2-set)
