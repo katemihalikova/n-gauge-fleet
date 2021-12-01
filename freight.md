@@ -19,7 +19,7 @@
 ☑️ | <span title="Temu 300">テム300</span> | 710 || Kato 8070 | _50_
 ☑️ | <span title="Temu 300">テム300</span> | 1121 || Kato 8070 | _50_
 ☑️ | <span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
-☑️ | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
+✅ | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
 🟨 | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
 ✅ | <span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
 🟨 | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
