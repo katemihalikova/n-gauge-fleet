@@ -42,26 +42,26 @@
 
 🧰 | Number | Livery | 💡 | Comes from
 --- | --- | --- | --- | ---
-✅ | A1223 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
-✅ | A1227 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1414
-✅ | A1231 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1514 or 7074049
+✅ | A1223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413
+✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1414
+✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1514 or 7074049
 ⬛ | A1235 | Green | 🟥 | Pirata 9220
 ⬛ | A1239 | Green | 🟥 | Pirata 9221
-✅ | A1241 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1414
+✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414
 ⬜ | AB1570 | Blue - Arosa | 🟥 | Pirata 9211
-✅ | B2292 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1414
+✅ | B2292 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414
 ⬜ | B2315 | Blue - Arosa | 🟥 | Pirata 9214
 ⬜ | B2317 | Barenland | 🟥 | Pirata 9213
 ⬜ | B2319 | Blue - Arosa | 🟥 | Pirata 9210
-✅ | B2343 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
-✅ | B2344 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1514 or 7074049
-✅ | B2347 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
-✅ | B2352 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
+✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413
+✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 or 7074049
+✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413
+✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413
 ⬛ | B2355 | Green | 🟥 | Pirata 9220
-✅ | B2357 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1414
+✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414
 ⬛ | B2362 | Green | 🟥 | Pirata 9220
 ⬜ | BD2481 | Blue - Arosa | 🟥 | Pirata 9212
-⬜ | WR3822 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Pirata 9200
+⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
 
 ## Bernina Express (with logo)
 
