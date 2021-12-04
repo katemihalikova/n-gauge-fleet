@@ -215,7 +215,7 @@
 ⬛ | ~~<span title="Yo 8000">ヨ8000</span>~~ | ~~8219~~ | ✔️ | 🟥 || ~~Kato 8022~~ | _50_
 ⬛ | ~~<span title="Yo 8000">ヨ8000</span>~~ | ~~8255~~ | ✔️ | 🟥 || ~~Kato 8065~~ | _50_
 ☑️ | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
-☑️<br>⬛ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green / brown frame<br>green / black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
+☑️<br>⬜ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green / brown frame<br>green / black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
 
 ---
 
@@ -228,6 +228,7 @@
 * 🟥 Tomix 8702
 * 🟥 Tomix 8704
 * 🟨 Tomix 93172
+* ⬜ Tomix 93513
 * 🟥 Tomix コム2012 Dragon
 * 🟥 Tomix コム2015 Sheep
 * 🟥 Tomix コム2017 Rooster
