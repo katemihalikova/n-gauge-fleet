@@ -4,48 +4,66 @@
 * ☑️ Preordered
 * 🟥 Want
 * 🟨 Maybe want
-* ⬜ Not interested in
+* ⬜ Nice to have but not seeking
+* ⬛ Don't want at all
 
 ## Ge4/4-II
 
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
+⬜ | 618 | Edelweiss _(Bergün/Bravuogn)_ | Kato 7074052
 ✅ | 622 | Hakone Tozan | Kato 10-1514
-⬜ | 623 | Glacier Express | Kato 3102-2
-🟨 | 631 | Regular | Kato 3102
+⬛<br>⬜ | 623 | Glacier Express _(Bonaduz)_<br>125 Years of RhB | Kato 3102-2<br>Kato 7074050
+🟥 | 627 | Chur - Arosa 100th Anniversary | Kato 7074051
+🟨 | 631 | Regular _(Untervaz)_ | Kato 3102
+⬜ | 632 | Regular _(Zizers)_ | Kato 7074049
 
 ## Ge4/4-III
 
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
-🟨 | 642 | Albula Line 100th Anniversary | Kato 3101
-✅ | 650 | Unesco Welterbe | Kato 3101-3
-⬜ | 651 | Albula Line 100th Anniversary | Kato 10-006
+⬛<br>⬜ | 641 | Heidiland - Bernina Express _(Maienfeld)_<br>Coop _(Maienfeld)_ | Kato 7074037<br>Kato 7074039
+🟨 | 642 | Albula Line 100th Anniversary _(Breil/Brigels)_ | Kato 3101
+⬜ | 643 | EMS _(Vals)_ | Kato 7074062
+⬜<br>⬜ | 644 | Regular _(Savognin)_<br>Lazzarini _(Savognin)_ | Kato 10-1145<br>Kato 7074038
+✅<br>⬜ | 650 | Unesco Welterbe<br>Die kleine Rote _(Seewis im Prättigau)_ | Kato 3101-3 or 10-1219<br>Kato 7074040
+⬛ | 651 | Glacier on Tour _(Fideris)_ | Kato 10-006
+⬜ | 652 | Hockey Club Davos _(Vaz/Obervaz Lenzerheide-Valbella)_ | Kato 7074065
 
 ## ABe8/12 Allegra
 
 🧰 | Number | 💡 | Comes from
 --- | --- | --- | ---
-⬜ | 3501 | 🟥 | Kato 10-025
+🟨 | 3501 | 🟥 | Kato 10-025
 ⬜ | 3502 | 🟥 | Kato 10-1318
 ✅ | 3508 | 🟥 | Kato 10-1273
 
 ## EW I
 
-🧰 | Number | Stripe | 💡 | Comes from
+🧰 | Number | Livery | 💡 | Comes from
 --- | --- | --- | --- | ---
-✅ | A1223 | <strong title="thick">▃▃▃</strong> | 🟥 | Kato 10-1413
-✅ | A1227 | <strong title="thick">▃▃▃</strong> | 🟥 | Kato 10-1414
-✅ | A1231 | <strong title="thick">▃▃▃</strong> | 🟥 | Kato 10-1514
-✅ | A1241 | <strong title="thin">▂▂▂</strong> | 🟥 | Kato 10-1414
-✅ | B2292 | <strong title="thin">▂▂▂</strong> | 🟥 | Kato 10-1414
-✅ | B2343 | <strong title="thick">▃▃▃</strong> | 🟥 | Kato 10-1413
-✅ | B2344 | <strong title="thin">▂▂▂</strong> | 🟥 | Kato 10-1514
-✅ | B2347 | <strong title="thick">▃▃▃</strong> | 🟥 | Kato 10-1413
-✅ | B2352 | <strong title="thick">▃▃▃</strong> | 🟥 | Kato 10-1413
-✅ | B2357 | <strong title="thin">▂▂▂</strong> | 🟥 | Kato 10-1414
+✅ | A1223 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
+✅ | A1227 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1414
+✅ | A1231 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1514 or 7074049
+⬛ | A1235 | Green | 🟥 | Pirata 9220
+⬛ | A1239 | Green | 🟥 | Pirata 9221
+✅ | A1241 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1414
+⬜ | AB1570 | Blue - Arosa | 🟥 | Pirata 9211
+✅ | B2292 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1414
+⬜ | B2315 | Blue - Arosa | 🟥 | Pirata 9214
+⬜ | B2317 | Barenland | 🟥 | Pirata 9213
+⬜ | B2319 | Blue - Arosa | 🟥 | Pirata 9210
+✅ | B2343 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
+✅ | B2344 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1514 or 7074049
+✅ | B2347 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
+✅ | B2352 | <strong title="thick stripe">Regular ▃▃▃</strong> | 🟥 | Kato 10-1413
+⬛ | B2355 | Green | 🟥 | Pirata 9220
+✅ | B2357 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Kato 10-1414
+⬛ | B2362 | Green | 🟥 | Pirata 9220
+⬜ | BD2481 | Blue - Arosa | 🟥 | Pirata 9212
+⬜ | WR3822 | <strong title="thin stripe">Regular ▂▂▂</strong> | 🟥 | Pirata 9200
 
-## Bernina Express
+## Bernina Express (with logo)
 
 🧰 | Number | 💡 | Comes from
 --- | --- | --- | ---
@@ -56,6 +74,34 @@
 ✅ | Bp2525 | ✅ | Kato 10-1656
 ✅ | Bp2526 | ✅ | Kato 10-1656
 
+## Bernina Express (without logo)
+
+🧰 | Number | 💡 | Comes from
+--- | --- | --- | ---
+⬛ | Api1303 | 🟥 | Kato 10-1319
+⬛ | Api1304 | 🟥 | Kato 10-1318
+⬛ | Bps2515 | 🟥 | Kato 10-1318
+⬛ | Bp2521 | 🟥 | Kato 10-1319
+⬛ | Bp2523 | 🟥 | Kato 10-1319
+⬛ | Bp2524 | 🟥 | Kato 10-1319
+
+## Glacier Express
+
+🧰 | Number | 💡 | Comes from
+--- | --- | --- | ---
+⬛ | Api1311 | 🟥 | Kato 10-1219
+⬛ | Api1312 | 🟥 | Kato 10-1146
+⬛ | Ap1314 | 🟥 | Kato 10-006 or 10-1145
+⬛ | Ap1316 | 🟥 | Kato 10-1219
+⬛ | Bp2531 | 🟥 | Kato 10-1146
+⬛ | Bp2532 | 🟥 | Kato 10-1219
+⬛ | Bp2533 | 🟥 | Kato 10-1146
+⬛ | Bp2534 | 🟥 | Kato 10-1219
+⬛ | Bp2535 | 🟥 | Kato 10-006 or 10-1145
+⬛ | Bp2536 | 🟥 | Kato 10-1219
+⬛ | WRp3831 | 🟥 | Kato 10-1219
+⬛ | WRp3832 | 🟥 | Kato 10-1146
+
 ## Other
 
 🧰 | Number | 💡 | Comes from
@@ -64,7 +110,3 @@
 ✅ | B2097 | ⬜ | Kato 5253
 ✅ | DS4223 | 🟥 | Kato 5279-1
 ✅ | WR3811 | ✅ | Kato 5280
-
----
-
-⬜ 10-006, 10-1145, 10-1146, 10-1219, 10-1318, 10-1319
