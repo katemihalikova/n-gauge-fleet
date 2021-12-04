@@ -55,7 +55,7 @@
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 283912 | brown | Kato 8039 | ___60___
 ☑️ | <span title="Wamu 80000">ワム80000</span> | 284232 | brown, gray roof | Tomix 2714 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 286723 | brown | Kato 8039 | ___60___
-☑️ | <span title="Wamu 80000">ワム80000</span> | 287419 | brown, gray roof | Tomix 92599 | ___60___
+✅ | <span title="Wamu 80000">ワム80000</span> | 287419 | brown, gray roof | Tomix 92599 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380007 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380014 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380022 | blue | Kato 10-465 | ___60___
@@ -66,7 +66,7 @@
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380125 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380127 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380133 | blue | Tomix 92977 | ___60___
-☑️ | <span title="Wamu 80000">ワム80000</span> | 380140 | blue | Tomix 92599 | ___60___
+✅ | <span title="Wamu 80000">ワム80000</span> | 380140 | blue | Tomix 92599 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380158 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380159 | blue | Kato 10-465 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380163 | blue | Tomix 92977 | ___60___
@@ -80,8 +80,7 @@
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380288 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380309 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380313 | blue | Tomix 92977 | ___60___
-⬛ | <span title="Wamu 80000">ワム80000</span> | _380314_ | blue | Tomix 92977 | ___60___
-⬛ | <span title="Wamu 80000">ワム80000</span> | _380314_ | blue | Kato 10-465 | ___60___
+⬛<br>⬛ | <span title="Wamu 80000">ワム80000</span> | 380314 | blue | Tomix 92977<br>Kato 10-465 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380344 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380363 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380371 | blue | Kato 10-465 | ___60___
@@ -215,7 +214,7 @@
 ⬛ | <span title="Yo 8000">ヨ8000</span> | 8219 | ✔️ | 🟥 || Kato 8022 | _50_
 ⬛ | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
 ☑️ | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
-☑️<br>⬜ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green / brown frame<br>green / black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
+✅<br>⬛ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green / brown frame<br>green / black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
 
 ---
 
@@ -228,7 +227,6 @@
 * 🟥 Tomix 8702
 * 🟥 Tomix 8704
 * 🟨 Tomix 93172
-* ⬜ Tomix 93513
 * 🟥 Tomix コム2012 Dragon
 * 🟥 Tomix コム2015 Sheep
 * 🟥 Tomix コム2017 Rooster
