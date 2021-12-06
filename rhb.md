@@ -60,7 +60,8 @@
 ⬛ | B2355 | Green | 🟥 | Pirata 9220
 ✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414
 ⬛ | B2362 | Green | 🟥 | Pirata 9220
-⬜ | BD2481 | Blue - Arosa | 🟥 | Pirata 9212
+⬜ | BD2481 | Blue - Arosa | ❓ | Pirata 9212
+✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 5279-1
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
 
 ## Bernina Express (with logo)
@@ -108,5 +109,4 @@
 --- | --- | --- | ---
 ✅ | B2096 | ⬜ | Kato 10-1656
 ✅ | B2097 | ⬜ | Kato 5253
-✅ | DS4223 | 🟥 | Kato 5279-1
 ✅ | WR3811 | ✅ | Kato 5280
