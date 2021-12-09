@@ -26,6 +26,7 @@
 
 🧰 | Number | Livery | 🚃 | 💡 | Coupler | Comes from
 --- | --- | --- | --- | --- | --- | ---
+⬜ | 121 | Metropolitan Area Color | ⚪ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-1169
 ✅ | 128 | Regular | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6043-1
 ✅ | 129 | Regular | ⚪ | 🟥 | 1× Kato Shibata with hook, body mounted<br>1× Kato Shibata compatible with TN Shibata, body mounted | Kato 6044-1
 ⬜ | 130 | Regular | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6043
@@ -36,6 +37,7 @@
 
 🧰 | Number | Livery | 🚃 | 💡 | Coupler | Comes from
 --- | --- | --- | --- | --- | --- | ---
+⬜ | 111 | Express Color | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-1169
 ✅ | 115 | Regular | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-1165
 ✅ | 116 | Regular | ⚪ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-1166
 ⬜ | 119 | Regular | Ⓜ️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-347
