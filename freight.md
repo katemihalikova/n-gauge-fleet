@@ -1,11 +1,6 @@
 # Freight fleet
 
-* ✅ Have
-* ☑️ Preordered
-* 🟥 Want
-* 🟨 Maybe want
-* ⬜ Nice to have but not seeking
-* ⬛ Don't want at all
+For symbol explanation see [Readme](./readme.md).
 
 ## Box cars
 
