@@ -20,7 +20,7 @@ Overview of my N gauge fleet
 
 * 🧰 Status
   * ✅ Have (stored in collection)
-  * ☑️ Preordered
+  * ☑️ Preordered or ordered
   * 🟥 Want
   * 🟨 Maybe want
   * ⬜ Nice to have but not seeking
@@ -28,17 +28,10 @@ Overview of my N gauge fleet
 * 🚃 Motorization
   * Ⓜ️ Motorized (M car - can move on its own)
   * ⚪ Non-motorized (T car - can't move on its own)
-* 🚨 Front and rear lights
+* ☀️ Front lights / 🚨 Rear lights / 💡 Interior lights
   * ✔️ Equipped out of the box (or box contains all parts)
   * 🟥 Not equipped out of the box but can be added using official extra parts
   * ✅ Equipped using official extra parts
   * ❌ Not supported (except DIY)
-  * ☑ Equipped using DIY
-  * ❓ Unknown
-* 💡 Interior lights
-  * ✔️ Equipped out of the box (or box contains all parts)
-  * 🟥 Not equipped out of the box but can be added using official extra parts
-  * ✅ Equipped using official extra parts
-  * ❌ Not supported (except DIY)
-  * ☑ Equipped using DIY
+  * ☑️ Equipped using DIY
   * ❓ Unknown
