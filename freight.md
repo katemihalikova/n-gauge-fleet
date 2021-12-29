@@ -5,7 +5,7 @@ For symbol explanation see [Readme](./readme.md).
 ## Box cars
 
 🧰 | Series | Number | Details | Comes from | Width
---- | --- | --- | --- | --- | ---
+:-: | --- | --- | --- | --- | ---
 ✅ | <span title="E 1">エ1</span> | 205 | yellow-white stripe, from <span title="Wamu 1">ワム1</span> | Tomix 8716 | _50_
 ✅ | <span title="Ka 3000">カ3000</span> | 3078 | livestock | Tomix 2736 | _50_
 🟨 | <span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
@@ -147,12 +147,12 @@ For symbol explanation see [Readme](./readme.md).
 
 ## Combined box cars
 
-🧰 | Series | Number | Combined with | 🚃 | 🚨 | 💡 | Comes from | Width
---- | --- | --- | --- | --- | --- | --- | --- | ---
-✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | Tomytec 317593 | __52__
-✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | Tomytec 317593 | __52__
-✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van || ✔️ | ❌ | Kato 8030 | _50_ + chimney
-✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | brake van || ✔️ | ❌ | Kato 10-1599 | _50_ + chimney
+🧰 | Series | Number | Combined with | 🚃 | ☀️ | 🚨 | 💡 | Comes from | Width
+:-: | --- | --- | --- | :-: | :-: | :-: | :-: | --- | ---
+✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
+✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
+✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 8030 | _50_ + chimney
+✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 10-1599 | _50_ + chimney
 
 ## Open cars
 
@@ -232,18 +232,18 @@ For symbol explanation see [Readme](./readme.md).
 --- | --- | --- | --- | --- | --- | --- | ---
 ⬛ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️ | 🟥 || Kato 8035-1 | _50_
 ✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
-⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ❓ | green, brown frame | Tomix 93171 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ✔️ | green, brown frame | Tomix 93171 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green, brown frame | Tomix 8715 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
-✅ | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❓ || Tomix 2711 | _50_
+✅ | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❌ || Tomix 2711 | _50_
 ⬛ | <span title="Yo 6000">ヨ6000</span> | 6522 | ✔️ | 🟥 || Kato 8064 | _50_
-⬛ | <span title="Yo 6000">ヨ6000</span> | 6895 | ❌ | ❌ | red circles around lights, Wamu-kun set, series not printed | Tomix 98746 | _50_
+⬛ | <span title="Yo 6000">ヨ6000</span> | 6895 | ❌ | ❌ | red circles around lights,<br>Wamu-kun set, series not printed | Tomix 98746 | _50_
 ⬛ | <span title="Yo 8000">ヨ8000</span> | 8219 | ✔️ | 🟥 || Kato 8022 | _50_
 ⬛ | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
-✅ | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❓ || Tomix 2702 | _50_
-✅<br>⬛ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❓ | green, brown frame<br>green, black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
+✅ | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❌ || Tomix 2702 | _50_
+✅<br>⬛ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❌ | green, brown frame<br>green, black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
 
 ---
 
@@ -259,6 +259,3 @@ For symbol explanation see [Readme](./readme.md).
 * 🟥 Tomix コム2012 Dragon
 * 🟥 Tomix コム2015 Sheep
 * 🟥 Tomix コム2017 Rooster
-
-
-
