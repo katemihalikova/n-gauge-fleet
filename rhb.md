@@ -27,7 +27,7 @@
 ⬜ | 643 | EMS _(Vals)_ | Kato 7074062
 ⬜<br>⬜ | 644 | Regular _(Savognin)_<br>Lazzarini _(Savognin)_ | Kato 10-1145<br>Kato 7074038
 ✅<br>⬜ | 650 | Unesco Welterbe<br>Die kleine Rote _(Seewis im Prättigau)_ | Kato 3101-3 or 10-1219<br>Kato 7074040
-⬛ | 651 | Glacier on Tour _(Fideris)_ | Kato 10-006
+⬛ | 651 | Glacier on Tour _(Fideris)_ | Kato 3101-2 or 10-006
 ⬜ | 652 | Hockey Club Davos _(Vaz/Obervaz Lenzerheide-Valbella)_ | Kato 7074065
 
 ## ABe8/12 Allegra
