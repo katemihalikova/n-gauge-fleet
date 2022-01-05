@@ -164,9 +164,9 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Tora 45000">トラ45000</span> | 49344 | with cover | Kato 10-1599 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 50021 || Kato 8027 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 50858 | with cover | Kato 10-1599 | _50 low_
-✅ | <span title="Tora 145000">トラ145000</span> | 147382 || Tomix 2725 | _50 low_
-✅ | <span title="Tora 145000">トラ145000</span> | 152261 | wood | Tomix 2726 | _50 low_
-✅ | <span title="Tora 145000">トラ145000</span> | 152867 || Tomix 98713 | _50 low_
+✅ | <span title="Tora 45000">トラ45000</span> | 147382 || Tomix 2725 | _50 low_
+✅ | <span title="Tora 45000">トラ45000</span> | 152261 | wood | Tomix 2726 | _50 low_
+✅ | <span title="Tora 45000">トラ45000</span> | 152867 || Tomix 98713 | _50 low_
 ✅ | <span title="Tora 55000">トラ55000</span> | 55472 | with cover | Kato 10-1599 | _50 low_
 🟥 | <span title="Tora 55000">トラ55000</span> | 57268 | with cover | Kato 8068 | _50 low_
 🟥 | <span title="Tora 55000">トラ55000</span> | 58048 | with cover | Kato 8068 | _50 low_
@@ -187,6 +187,8 @@ For symbol explanation see [Readme](./readme.md).
 
 ### Accessories
 
+* 🟨 <span title="Tora 45000">トラ45000</span> cover, 2pcs (Kato Z08-0626)
+* ⬛ <span title="Tora 55000">トラ55000</span> cover, 2pcs (Kato Z08-0654)
 * ✅ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 2 pcs (Kato 11-561)
 * ⬛ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 10 pcs (Kato 11-562)
 
@@ -251,6 +253,7 @@ For symbol explanation see [Readme](./readme.md).
 * 🟨 Kato 8057 (2-set)
 * 🟥 Kato 8068 (2-set)
 * 🟨 Kato 8084 (2-set)
+* 🟨 Kato Z08-0626 (2-set)
 * 🟥 Tomix 2720
 * 🟨 Tomix 2734
 * 🟥 Tomix 8702
