@@ -187,8 +187,8 @@ For symbol explanation see [Readme](./readme.md).
 
 ### Accessories
 
-* 🟨 <span title="Tora 45000">トラ45000</span> cover, 2pcs (Kato Z08-0626)
-* 🟨 <span title="Tora 55000">トラ55000</span> cover, 2pcs (Kato Z08-0654)
+* ⬜ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover with small container underneath, 2pcs (Kato Z08-0626)
+* 🟨 <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover, 2pcs (Kato Z08-0654)
 * ✅ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 2 pcs (Kato 11-561)
 * ⬛ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 10 pcs (Kato 11-562)
 
@@ -253,7 +253,7 @@ For symbol explanation see [Readme](./readme.md).
 * 🟨 Kato 8057 (2-set)
 * 🟥 Kato 8068 (2-set)
 * 🟨 Kato 8084 (2-set)
-* 🟨 Kato Z08-0626 (2-set)
+* ⬜ Kato Z08-0626 (2-set)
 * 🟨 Kato Z08-0654 (2-set)
 * 🟥 Tomix 2720
 * 🟨 Tomix 2734
