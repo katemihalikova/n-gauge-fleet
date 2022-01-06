@@ -8,9 +8,9 @@ For symbol explanation see [Readme](./readme.md).
 :-: | --- | --- | --- | --- | ---
 ✅ | <span title="E 1">エ1</span> | 205 | yellow-white stripe, from <span title="Wamu 1">ワム1</span> | Tomix 8716 | _50_
 ✅ | <span title="Ka 3000">カ3000</span> | 3078 | livestock | Tomix 2736 | _50_
-🟨 | <span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
+⬜ | <span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
 ✅ | <span title="Tsumu 1000">ツム1000</span> | 2234 | ventilated | Tomix 2737 | _50_
-🟨 | <span title="Tsumu 1000">ツム1000</span> | 2575 | ventilated, with cargo | Kato 8057 | _50_
+⬜ | <span title="Tsumu 1000">ツム1000</span> | 2575 | ventilated, with cargo | Kato 8057 | _50_
 ⬛ | <span title="Tsumu 1000">ツム1000</span> | 152831 | ventilated, Wamu-kun set, series not printed | Tomix 98746 | _50_
 ✅ | <span title="Temu 300">テム300</span> | 710 || Kato 8070 | _50_
 ✅ | <span title="Temu 300">テム300</span> | 1121 || Kato 8070 | _50_
