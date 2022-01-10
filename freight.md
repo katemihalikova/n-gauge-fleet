@@ -26,7 +26,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060 | 40
 ✅ | <span title="Wamu 2000">ワム2000</span> | 2699 || Tomix 98713 | _50_
 🟥 | <span title="Wamu 3500">ワム3500</span> | 7023 || Tomix 8704 | _50_
-🟨 | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
+⬜ | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
 ✅ | <span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
 🟥 | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735 | _50_
@@ -218,7 +218,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅<br>⬛ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container<br>ICOCA 10th anniversary container | Tomix 93149<br>Tomix 93153 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix 93155 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 2014-12 | Kyoto Railway Museum container + JRF green 19D-28891 container | Tomix ??? | ___60___
-🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix 93165 | ___60___
+☑️ | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix 93165 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix 93176 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 2016-4 | Kyoto Railway Museum - Umetetsu container | Tomix 93178 | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container (limited 100 pcs) | Tomix ??? | ___60___
@@ -255,7 +255,7 @@ For symbol explanation see [Readme](./readme.md).
 ---
 
 * 🟨 Kato 8027-1 (2-set)
-* 🟨 Kato 8057 (2-set)
+* ⬜ Kato 8057 (2-set)
 * 🟥 Kato 8068 (2-set)
 * 🟨 Kato 8084 (2-set)
 * ⬜ Kato Z08-0626 (2-set)
@@ -264,7 +264,6 @@ For symbol explanation see [Readme](./readme.md).
 * 🟨 Tomix 2734
 * 🟥 Tomix 8702
 * 🟥 Tomix 8704
-* 🟨 Tomix 93172
+* ⬜ Tomix 93172
 * 🟥 Tomix コム2012 Dragon
-* 🟥 Tomix コム2015 Sheep
 * 🟥 Tomix コム2017 Rooster
