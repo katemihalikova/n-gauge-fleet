@@ -213,17 +213,22 @@ For symbol explanation see [Readme](./readme.md).
 --- | --- | --- | --- | --- | ---
 ✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
-🟥 | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix ??? | ___60___
-✅ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container | Tomix 93149 | ___60___
+⬛ | <span title="Komu 1">コム1</span> | 1961 | Osaka Loop Line - 60 Years Connected container | Tomix 93224 | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix 93144 | ___60___
+✅<br>⬛ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container<br>ICOCA 10th anniversary container | Tomix 93149<br>Tomix 93153 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix 93155 | ___60___
-🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix ??? | ___60___
+⬛ | <span title="Komu 1">コム1</span> | 2014-12 | Kyoto Railway Museum container + JRF green 19D-28891 container | Tomix ??? | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix 93165 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix 93176 | ___60___
-🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container | Tomix ??? | ___60___
+⬛ | <span title="Komu 1">コム1</span> | 2016-4 | Kyoto Railway Museum - Umetetsu container | Tomix 93178 | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container (limited 100 pcs) | Tomix ??? | ___60___
+⬛ | <span title="Komu 1">コム1</span> | 2017-4 | Kyoto Railway Museum - Umetetsu 2nd edition container | Tomix 93185 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix 93191 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix 93194 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container | Tomix 93209 | ___60___
+✅<br>⬛<br>⬛ | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container<br>Hello Kitty Shinkansen container<br>Kuroshio Shirara container | Tomix 93209<br>Tomix 93211<br>Tomix 93221 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2021 | Ico-chan × Cow container | Tomix 93220 | ___60___
 ☑️ | <span title="Komu 1">コム1</span> | 2022 | Ico-chan × Tiger container | Tomix 93225 | ___60___
+⬛ | <span title="Komu 1">コム1</span> | 7111 | Mibumachi Toy Museum container (various colors) | Tomix (no code) | ___60___
 ☑️ | <span title="Komu 1">コム1</span> | 9640 | Kuroshio Shirara 2nd edition container | Tomix 93226 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
 🟥 | <span title="Chi 1">チ1</span> | 51 | wood | Tomix 2720 | ___60___
@@ -234,7 +239,7 @@ For symbol explanation see [Readme](./readme.md).
 --- | --- | --- | --- | --- | --- | --- | ---
 ⬛ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️ | 🟥 || Kato 8035-1 | _50_
 ✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
-⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ✔️ | green, brown frame | Tomix 93171 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ✔️ | green, brown frame | Tomix 93171 or 93213 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green, brown frame | Tomix 8715 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
