@@ -16,7 +16,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Temu 300">テム300</span> | 1121 || Kato 8070 | _50_
 ✅ | <span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
 ✅ | <span title="Re 12000">レ12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
-☑️ | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
+✅ | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
 ✅ | <span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
 🟨 | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
 🟨 | <span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
@@ -26,9 +26,9 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060 | 40
 ✅ | <span title="Wamu 2000">ワム2000</span> | 2699 || Tomix 98713 | _50_
 🟥 | <span title="Wamu 3500">ワム3500</span> | 7023 || Tomix 8704 | _50_
-☑️ | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
+✅ | <span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
 ✅ | <span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
-☑️ | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
+🟥 | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 61738 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 62664 || Tomix 98713 | _50_
@@ -56,7 +56,7 @@ For symbol explanation see [Readme](./readme.md).
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 281392 | brown | Kato 10-1738 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 282886 | brown | Kato 8086 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 283208 | brown | Kato 8086 | ___60___
-☑️ | <span title="Wamu 80000">ワム80000</span> | 283708 | light blue, gray roof | Tomix 92404 | ___60___
+✅ | <span title="Wamu 80000">ワム80000</span> | 283708 | light blue, gray roof | Tomix 92404 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 283912 | brown, oversized | Kato 8039 | ___60___
 ✅ | <span title="Wamu 80000">ワム80000</span> | 284232 | brown, gray roof | Tomix 2714 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 284572 | brown | Kato 10-1738 | ___60___
@@ -76,7 +76,7 @@ For symbol explanation see [Readme](./readme.md).
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380052 | blue | Kato 10-1740 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380063 | blue, oversized | Kato 8033 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380079 | blue | Kato 10-1740 | ___60___
-☑️<br>⬛ | <span title="Wamu 80000">ワム80000</span> | 380100 | blue | Tomix 92404<br>Kato 10-1740 | ___60___
+✅<br>⬛ | <span title="Wamu 80000">ワム80000</span> | 380100 | blue | Tomix 92404<br>Kato 10-1740 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380124 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380125 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000">ワム80000</span> | 380127 | blue | Tomix 92977 | ___60___
@@ -168,8 +168,8 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Tora 45000">トラ45000</span> | 152261 | wood | Tomix 2726 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 152867 || Tomix 98713 | _50 low_
 ✅ | <span title="Tora 55000">トラ55000</span> | 55472 | with cover | Kato 10-1599 | _50 low_
-☑️ | <span title="Tora 55000">トラ55000</span> | 57268 | with cover | Kato 8068 | _50 low_
-☑️ | <span title="Tora 55000">トラ55000</span> | 58048 | with cover | Kato 8068 | _50 low_
+✅ | <span title="Tora 55000">トラ55000</span> | 57268 | with cover | Kato 8068 | _50 low_
+✅ | <span title="Tora 55000">トラ55000</span> | 58048 | with cover | Kato 8068 | _50 low_
 ⬛ | <span title="Tora 70000">トラ70000</span> | 70423 | Wamu-kun set, series not printed | Tomix 98746 | ___60 low___
 ✅ | <span title="Tora 70000">トラ70000</span> | 73106 || Tomix 98713 | ___60 low___
 ✅ | <span title="Tora 70000">トラ70000</span> | 74761 || Tomix 98713 | ___60 low___
@@ -218,7 +218,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅<br>⬛ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container<br>ICOCA 10th anniversary container | Tomix 93149<br>Tomix 93153 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix 93155 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 2014-12 | Kyoto Railway Museum container + JRF green 19D-28891 container | Tomix ??? | ___60___
-☑️ | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix 93165 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix 93165 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix 93176 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 2016-4 | Kyoto Railway Museum - Umetetsu container | Tomix 93178 | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container (limited 100 pcs) | Tomix ??? | ___60___
@@ -227,9 +227,9 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix 93194 | ___60___
 ✅<br>⬛<br>⬛ | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container<br>Hello Kitty Shinkansen container<br>Kuroshio Shirara container | Tomix 93209<br>Tomix 93211<br>Tomix 93221 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2021 | Ico-chan × Cow container | Tomix 93220 | ___60___
-☑️ | <span title="Komu 1">コム1</span> | 2022 | Ico-chan × Tiger container | Tomix 93225 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2022 | Ico-chan × Tiger container | Tomix 93225 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 7111 | Mibumachi Toy Museum container (various colors) | Tomix (no code) | ___60___
-☑️ | <span title="Komu 1">コム1</span> | 9640 | Kuroshio Shirara 2nd edition container | Tomix 93226 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 9640 | Kuroshio Shirara 2nd edition container | Tomix 93226 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
 🟥 | <span title="Chi 1">チ1</span> | 51 | wood | Tomix 2720 | ___60___
 
@@ -260,6 +260,7 @@ For symbol explanation see [Readme](./readme.md).
 * ⬜ Kato Z08-0626 (2-set)
 * 🟨 Kato Z08-0654 (2-set)
 * 🟥 Tomix 2720
+* 🟥 Tomix 8702
 * 🟥 Tomix 8704
 * 🟥 Tomix コム2012 Dragon
 * 🟥 Tomix コム2017 Rooster
