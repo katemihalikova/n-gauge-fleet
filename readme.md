@@ -2,15 +2,12 @@
 
 Overview of my N gauge fleet
 
-## Current Japan
+## Japan
 
 * [Sanriku Tetsudō](santetsu.md)
 * [JR East DMU](jreast.md)
-* [Other](other.md)
-
-## Past Japan
-
 * [Freight](freight.md)
+* [Other](other.md)
 
 ## Switzerland
 
