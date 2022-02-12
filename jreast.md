@@ -10,14 +10,18 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 2 | Prototype | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 ✅ | 3 | Prototype | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 ✅ | 4 | Prototype | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+||
 ✅ | 1 | Pokémon with You | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
 ✅ | 3 | Pokémon with You | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
+||
 ☑️ | 13 | Kamaishi Line 70th Anniversary | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
 ✅ | 16 | Regular | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
 ✅ | 17 | Regular | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
 ✅ | 27 | Regular | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
 ✅ | 45 | Regular | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
-☑️ | 46 | Regular | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
+☑️ | ? | Regular | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
+
+Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and 33, 34, 39, 40, 45, 46 (Ichinoseki).
 
 ## キハ110
 
