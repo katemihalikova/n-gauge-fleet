@@ -1,17 +1,12 @@
 # Rhätische Bahn fleet
 
-* ✅ Have
-* ☑️ Preordered
-* 🟥 Want
-* 🟨 Maybe want
-* ⬜ Nice to have but not seeking
-* ⬛ Don't want at all
+For symbol explanation see [Readme](./readme.md).
 
 ## Ge4/4-II
 
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
-⬜<br>🟥 | 618 | Edelweiss _(Bergün/Bravuogn)_<br>Regular with large logo _(Bergün/Bravuogn)_ | Kato 7074052<br>Kato 3102-3 · 7074066 🆕
+⬜<br>☑️ | 618 | Edelweiss _(Bergün/Bravuogn)_<br>Regular with large logo _(Bergün/Bravuogn)_ | Kato 7074052<br>Kato 3102-3 · 7074066 🆕
 ✅ | 622 | Hakone Tozan | Kato 10-1514 · 7074048
 ⬛<br>⬜ | 623 | Glacier Express _(Bonaduz)_<br>125 Years of RhB | Kato 3102-2 · 7074053<br>Kato 7074050
 🟥 | 627 | Chur - Arosa 100th Anniversary | Kato 7074051
@@ -128,18 +123,18 @@
 
 🧰 | Number | Details | Comes from
 --- | --- | --- | ---
-🟥 | Lb-v 7860 | container Coop WAB28 (pineapple) | Kato 10-1731 · 7074102
-🟥 | Lb-v 7861 | container Coop WAB31 (pear) | Kato 10-1731 · 7074102
-🟥 | Lb-v 7862 | container Coop WAB24 (radish) | Kato 10-1731 · 7074102
-🟥 | Lb-v 7864 | container Coop WAB23 (orange) | Kato 10-1731 · 7074102
-🟥 | Lb-v 7867 | container Coop WAB29 (potato) | Kato 10-1731 · 7074102
-🟥 | Lb-v 7869 | container Swiss Post 400 (no text) | Kato 10-1731 · 7074102
-🟥 | Lb-v 7874 | no container | Kato 8201 · 7074100
-🟥 | Sb-t 65658 | no container | Kato 8202 · 7074101
-🟥 | Sb-t 65666 | container Swiss Post 816 (durch Stadt und Land) | Kato 10-1731 · 7074102
-🟥 | Sb-t 65668 | container Swiss Post 400 (zügig) | Kato 10-1731 · 7074102
+☑️ | Lb-v 7860 | container Coop WAB28 (pineapple) | Kato 10-1731 · 7074102
+☑️ | Lb-v 7861 | container Coop WAB31 (pear) | Kato 10-1731 · 7074102
+☑️ | Lb-v 7862 | container Coop WAB24 (radish) | Kato 10-1731 · 7074102
+☑️ | Lb-v 7864 | container Coop WAB23 (orange) | Kato 10-1731 · 7074102
+☑️ | Lb-v 7867 | container Coop WAB29 (potato) | Kato 10-1731 · 7074102
+☑️ | Lb-v 7869 | container Swiss Post 400 (no text) | Kato 10-1731 · 7074102
+☑️ | Lb-v 7874 | no container | Kato 8201 · 7074100
+☑️ | Sb-t 65658 | no container | Kato 8202 · 7074101
+☑️ | Sb-t 65666 | container Swiss Post 816 (durch Stadt und Land) | Kato 10-1731 · 7074102
+☑️ | Sb-t 65668 | container Swiss Post 400 (zügig) | Kato 10-1731 · 7074102
 
 ### Accessories
 
-* 🟥 container Coop, 2pcs - WAB26 (strawberry) + WAB30 (lettuce) (Kato 23-590A · 7074103)
-* 🟥 container Swiss Post, 2pcs - 747 (landesweit) + 850 (bei Sonne und Regen) (Kato 23-591A · 7074104)
+* ☑️ container Coop, 2pcs - WAB26 (strawberry) + WAB30 (lettuce) (Kato 23-590A · 7074103)
+* ⬜ container Swiss Post, 2pcs - 747 (landesweit) + 850 (bei Sonne und Regen) (Kato 23-591A · 7074104)
