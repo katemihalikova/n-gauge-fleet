@@ -139,7 +139,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Wamu 90000">ワム90000</span> | 124164 | no door ribs | Tomix 2728 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 124467 || Kato 10-1599 | _50_
 ✅ | <span title="Wamu 90000">ワム90000</span> | 135083 || Tomix 2727 | _50_
-✅ | <span title="Wara 1">ワラ1</span> | 1234 || Kato 8025 or 10-809 | _50_
+✅ | <span title="Wara 1">ワラ1</span> | 1234 || Kato 8025 or 10-012 or 10-809 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 2095 || Tomix 2717 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 2579 || Kato 10-1599 | _50_
 ✅ | <span title="Wara 1">ワラ1</span> | 6542 || Kato 8025 | _50_
@@ -151,7 +151,7 @@ For symbol explanation see [Readme](./readme.md).
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | --- | ---
 ✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
 ✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
-✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 8030 | _50_ + chimney
+✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 8030 or 10-012 | _50_ + chimney
 ✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 10-1599 | _50_ + chimney
 
 ## Open cars
@@ -168,7 +168,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Tora 45000">トラ45000</span> | 152261 | wood | Tomix 2726 | _50 low_
 ✅ | <span title="Tora 45000">トラ45000</span> | 152867 || Tomix 98713 | _50 low_
 ✅ | <span title="Tora 55000">トラ55000</span> | 55472 | with cover | Kato 10-1599 | _50 low_
-✅ | <span title="Tora 55000">トラ55000</span> | 57268 | with cover | Kato 8068 | _50 low_
+✅ | <span title="Tora 55000">トラ55000</span> | 57268 | with cover | Kato 8068 or 10-012 | _50 low_
 ✅ | <span title="Tora 55000">トラ55000</span> | 58048 | with cover | Kato 8068 | _50 low_
 ⬛ | <span title="Tora 70000">トラ70000</span> | 70423 | Wamu-kun set, series not printed | Tomix 98746 | ___60 low___
 ✅ | <span title="Tora 70000">トラ70000</span> | 73106 || Tomix 98713 | ___60 low___
@@ -204,6 +204,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Tamu 500">タム500</span> | 3527 | white, liquid ammonia, Tomii Kosan | Tomix 2748 | ___60___
 ⬛ | <span title="Tamu 500">タム500</span> | 4192 | silver, gasoline, Wamu-kun set, series not printed | Tomix 98746 | ___60___
 ⬛ | <span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
+⬛ | <span title="Tamu 500">タム500</span> | 10525 | yellow | Kato 10-012 | ___60___
 ✅ | <span title="Mimu 100">ミム100</span> | 148 || Tomix 8720 | ___60___
 ✅ | <span title="Ya 500">ヤ500</span> | 500 || Tomix 8721 | ___60___
 
