@@ -222,6 +222,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 1961 | Osaka Loop Line - 60 Years Connected container | Tomix 93224 | ___60___
+⬜ | <span title="Komu 1">コム1</span> | 2011 | Tetsudo Plaza container (Osaka Station City) | Tomix (no code) | ___60___
 🟥 | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix 93144 | ___60___
 ✅<br>⬛ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container<br>ICOCA 10th anniversary container | Tomix 93149<br>Tomix 93153 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix 93155 | ___60___
@@ -263,14 +264,14 @@ For symbol explanation see [Readme](./readme.md).
 
 ---
 
-* 🟨 Kato 8027-1 (2-set)
-* ⬜ Kato 8057 (2-set)
+* ~~🟨 Kato 8027-1 (2-set)~~
+* ~~⬜ Kato 8057 (2-set)~~
 * 🟨 Kato 8084 (2-set)
-* ⬜ Kato Z08-0626 (2-set)
-* 🟨 Kato Z08-0654 (2-set)
-* 🟥 Tomix 2720
+* ⬜ Kato Z08-0654
+* ~~🟥 Tomix 2720~~
 * 🟥 Tomix 8702
 * 🟥 Tomix 8704
-* 🟥 Tomix コム2012 Dragon
+* ~~⬜ Tomix コム2011 Tetsudo Plaza~~
+* ~~🟥 Tomix コム2012 Dragon~~
 * 🟥 Tomix コム2017 Rooster
 * 🟥 Tomix 98787
