@@ -45,24 +45,29 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | A1223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
 ✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1414 · 7074045
 ✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049
-⬛ | A1235 | Green | 🟥 | Pirata 9220
-⬛ | A1239 | Green | 🟥 | Pirata 9221
 ✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
-⬜ | AB1570 | Blue - Arosa | 🟥 | Pirata 9211
+⬜ | As1256 | Blue - Arosa Express | 🟥 | Pirata 9211
+⬜ | Bt1703 | Blue - Arosa Express | ❓ | Pirata 9215 🆕
 ✅ | B2292 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
-⬜ | B2315 | Blue - Arosa | 🟥 | Pirata 9214
+⬜ | B2315 | Blue - Arosa Express | 🟥 | Pirata 9214
 ⬜ | B2317 | Barenland | 🟥 | Pirata 9213
-⬜ | B2319 | Blue - Arosa | 🟥 | Pirata 9210
+⬜ | B2319 | Blue - Arosa Express | 🟥 | Pirata 9210
 ✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
 ✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049
 ✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
 ✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
-⬛ | B2355 | Green | 🟥 | Pirata 9220
 ✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
-⬛ | B2362 | Green | 🟥 | Pirata 9220
-⬜ | BD2481 | Blue - Arosa | ❓ | Pirata 9212
+⬜ | BD2481 | Blue - Arosa Express | ❓ | Pirata 9212
 ✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 5279-1 · 7074060
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
+
+<!--
+⬛ | A1235 | Green | 🟥 | Pirata 9220
+⬛ | A1239 | Green | 🟥 | Pirata 9221
+⬜ | AB1570 | Blue - Arosa Express | 🟥 | Pirata 9211
+⬛ | B2355 | Green | 🟥 | Pirata 9220
+⬛ | B2362 | Green | 🟥 | Pirata 9220
+-->
 
 <!--
 ### Accessories
