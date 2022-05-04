@@ -34,7 +34,7 @@ For symbol explanation see [Readme](./readme.md).
 ☑️ | <span title="Wamu 23000">ワム23000</span> | 35421 | yellow stripe | Tomix 98787 🆕 | _50_
 ☑️ | <span title="Wamu 23000">ワム23000</span> | 39634 | yellow stripe | Tomix 98787 🆕 | _50_
 ✅ | <span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
-🟥 | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
+☑️ | <span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 61381 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 61738 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000">ワム60000</span> | 62664 || Tomix 98713 | _50_
@@ -264,6 +264,5 @@ For symbol explanation see [Readme](./readme.md).
 
 ---
 
-* 🟥 Tomix 8702
 * 🟥 Tomix 8704
 * 🟥 Tomix コム2017 Rooster
