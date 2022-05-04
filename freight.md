@@ -19,8 +19,8 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Re 12000">レ12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
 ☑️ | <span title="Re 12000">レ12000</span> | 13231 || Tomix 98787 🆕 | _50_
 ✅ | <span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
-🟨 | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
-🟨 | <span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
+☑️ | <span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
+☑️ | <span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
 ✅ | <span title="Remu 5000">レム5000</span> | 6089 | refrigerated, white, blue stripe | Tomix 2712 | __55__
 ✅ | <span title="Remu 5000">レム5000</span> | 6352 | refrigerated, white, blue stripe | Tomix 98713 | __55__
 ✅ | <span title="Wa 12000">ワ12000</span> | 12188 || Kato 8060 | 40
@@ -264,8 +264,6 @@ For symbol explanation see [Readme](./readme.md).
 
 ---
 
-* 🟨 Kato 8084 (2-set)
-* ⬜ Kato Z08-0654
 * 🟥 Tomix 8702
 * 🟥 Tomix 8704
 * 🟥 Tomix コム2017 Rooster
