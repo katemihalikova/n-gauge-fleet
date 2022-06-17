@@ -48,7 +48,7 @@ Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and
 ## Other
 
 🧰 | Series | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
-:-: | --- | --- | :-: | :-: | :-: | --- | ---
+:-: | --- | --- | --- | :-: | :-: | :-: | --- | ---
 🟨 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️ | 🟥 || Micro Ace A7442
 🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️ | 🟥 || Micro Ace A7442
 🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️ | 🟥 || Micro Ace A7443
