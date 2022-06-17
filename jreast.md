@@ -32,7 +32,7 @@ Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and
 ✅ | 129 | Regular | ⚪ | ✔️ | 🟥 | 1× Kato Shibata with hook, body mounted<br>1× Kato Shibata compatible with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TN Shibata (DIY), body mounted | Kato 6044-1
 ⬜ | 130 | Regular | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6043
 ✅ | 137 | Regular | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6044
-✅ | 701 | Tohoku Emotion | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-936
+✅ | 701 | Tohoku Emotion | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato RoundHouse 10-936
 
 ## キハ111 + キハ112
 
@@ -43,4 +43,13 @@ Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and
 ✅ | 116 | Regular | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-1166
 ⬜ | 119 | Regular | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-347
 ⬜ | 120 | Regular | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-348
-✅ | 701 | Tohoku Emotion | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-936
+✅ | 701 | Tohoku Emotion | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato RoundHouse 10-936
+
+## Other
+
+🧰 | Series | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | :-: | :-: | :-: | --- | ---
+🟨 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️ | 🟥 || Micro Ace A7442
+🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️ | 🟥 || Micro Ace A7442
+🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️ | 🟥 || Micro Ace A7443
+🟨 | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️ | ✔️ | 🟥 || Kato 10-1369
