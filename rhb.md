@@ -42,7 +42,7 @@ For symbol explanation see [Readme](./readme.md).
 
 🧰 | Number | Livery | 💡 | Comes from
 --- | --- | --- | --- | ---
-✅ | A1223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
+⬛<br>✅ | A(WR-S)1223<br>A1223 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup><br>Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥<br>🟥 | Pirata 9201 🆕<br>Kato 10-1413 · 7074044
 ✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1414 · 7074045
 ✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049
 ✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
