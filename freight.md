@@ -151,6 +151,16 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 6542 || Kato 8025 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 16395 || Tomix 98713 | _50_
 
+<!--
+http://blog.tomenokakure.jp/2013/05/tomix2-b64b.html
+⬜ | <span title="Wamu 80000"><sup><sub>ハ</sub></sup>ワム80000</span> | 380463 | green, Supply Line | Tomix 92919 | ___60___
+⬜ | <span title="Wamu 80000"><sup><sub>ハ</sub></sup>ワム80000</span> | 582402 | white | Tomix 92919 | ___60___
+
+https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
+⬜ | <sup><sub>　</sub></sup><span title="Wamu 80000">ワム80000</span> | 81039 | brown, TOMIX 25th anniversary logo | Tomix 92915 | ___60___
+⬛ | <sup><sub>　</sub></sup><span title="Wamu 80000">ワム80000</span> | – | silver, TOMY Dream Energy, no car number printed | Tomix 92915 | ___60___
+-->
+
 ## Combined box cars
 
 🧰 | Series | Number | Combined with | 🚃 | ☀️ | 🚨 | 💡 | Comes from | Width
@@ -214,6 +224,17 @@ For symbol explanation see [Readme](./readme.md).
 ⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 10525 | yellow | Kato 10-012 🆕 | ___60___
 ✅ | <span title="Mimu 100"><sup><sub>ロ</sub></sup>ミム100</span> | 148 || Tomix 8720 | ___60___
 ✅ | <span title="Ya 500"><sup><sub>ロ</sub></sup>ヤ500</span> | 500 || Tomix 8721 | ___60___
+
+<!--
+https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
+⬛ | <sup><sub>コ</sub></sup><span title="Tamu 6000">タム6000</span> | 6001 | white, gasoline, TOMIX 25th anniversary logo, series not printed | Tomix 92915 | ___60___
+⬛ | <sup><sub>コ</sub></sup><span title="Tamu 6000">タム6000</span> | 6025 | black, gasoline, TOMIX 25th anniversary logo, series not printed | Tomix 92915 | ___60___
+⬛ | <sup><sub>コ</sub></sup><span title="Tamu 6000">タム6000</span> | 6430 | dark blue, organic solvent, TOMIX TEC | Tomix 92919 | ___60___
+⬛ | <sup><sub>コ</sub></sup><span title="Tamu 6000">タム6000</span> | 6450 | yellow, acrylic paint, Tomytec | Tomix 92919 | ___60___
+⬛ | <sup><sub>コ</sub></sup><span title="Tamu 6000">タム6000</span> | 6928 | gold, gasoline, TOMIX 25th anniversary logo, series not printed | Tomix 2792 | ___60___
+⬛ | <sup><sub>コ</sub></sup><span title="Tamu 6000">タム6000</span> | 6929 | copper, gasoline, TOMIX 25th anniversary logo, series not printed | Tomix 2794 | ___60___
+⬛ | <sup><sub>コ</sub></sup><span title="Tamu 6000">タム6000</span> | 6930 | silver, gasoline, TOMIX 25th anniversary logo, series not printed | Tomix 2793 | ___60___
+-->
 
 ## Flat cars
 
