@@ -205,7 +205,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ### Accessories
 
 * ✅ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover with small container underneath, 2pcs (Kato Z08-0626)
-* ⬜ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover, 2pcs (Kato Z08-0654)
+* ⬛ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover, 2pcs (Kato Z08-0654)
 * ✅ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 2 pcs (Kato 11-561)
 * ⬛ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 10 pcs (Kato 11-562)
 
@@ -240,6 +240,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 
 🧰 | Series | Number | Details | Comes from | Width
 :-: | --- | --- | --- | --- | ---
+⬜ | <span title="Komu 1">コム1</span> | 11 | Daiwa Royal Hotels container | Tomix 93115 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 1961 | Osaka Loop Line - 60 Years Connected container | Tomix 93224 | ___60___
@@ -285,4 +286,5 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 
 ---
 
+* ⬜ Tomix 93115
 * 🟥 Tomix コム2017 Rooster
