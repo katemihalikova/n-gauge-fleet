@@ -174,18 +174,18 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 
 🧰 | Series | Number | Details | Comes from | Width
 :-: | --- | --- | --- | --- | ---
-✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 45270 | with cover | Kato 8027-1 or 10-033 | _50 low_
+✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 45270 | sheet cover with box underneath | Kato 8027-1 or 10-033 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 46264 || Kato 8027 | _50 low_
-✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 47061 | with cover | Kato 8027-1 | _50 low_
-✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 49344 | with cover | Kato 10-1599 | _50 low_
+✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 47061 | sheet cover with box underneath | Kato 8027-1 | _50 low_
+✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 49344 | sheet cover | Kato 10-1599 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 50021 || Kato 8027 | _50 low_
-✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 50858 | with cover | Kato 10-1599 | _50 low_
+✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 50858 | sheet cover | Kato 10-1599 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 147382 || Tomix 2725 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 152261 | wood | Tomix 2726 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub>コ</sub></sup>トラ45000</span> | 152867 || Tomix 98713 | _50 low_
-✅ | <span title="Tora 55000"><sup><sub>ス</sub></sup>トラ55000</span> | 55472 | with cover | Kato 10-1599 | _50 low_
-✅ | <span title="Tora 55000"><sup><sub>ス</sub></sup>トラ55000</span> | 57268 | with cover | Kato 8068 🔁 or 10-012 | _50 low_
-✅ | <span title="Tora 55000"><sup><sub>ス</sub></sup>トラ55000</span> | 58048 | with cover | Kato 8068 🔁 | _50 low_
+✅ | <span title="Tora 55000"><sup><sub>ス</sub></sup>トラ55000</span> | 55472 | sheet cover | Kato 10-1599 | _50 low_
+✅ | <span title="Tora 55000"><sup><sub>ス</sub></sup>トラ55000</span> | 57268 | sheet cover | Kato 8068 🔁 or 10-012 | _50 low_
+✅ | <span title="Tora 55000"><sup><sub>ス</sub></sup>トラ55000</span> | 58048 | sheet cover | Kato 8068 🔁 | _50 low_
 ⬛ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 70423 | Wamu-kun set, series not printed | Tomix 98746 | ___60 low___
 ✅ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 73106 || Tomix 98713 | ___60 low___
 ☑️ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 73825 || Tomix 98787 🆕 | ___60 low___
@@ -204,7 +204,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 
 ### Accessories
 
-* ✅ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover with small container underneath, 2pcs (Kato Z08-0626)
+* ✅ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover with box underneath, 2pcs (Kato Z08-0626)
 * ⬛ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover, 2pcs (Kato Z08-0654)
 * ✅ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 2 pcs (Kato 11-561)
 * ⬛ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 10 pcs (Kato 11-562)
