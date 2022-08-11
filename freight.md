@@ -282,8 +282,8 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ⬛ | <span title="Yo 8000">ヨ8000</span> | 8219 | ✔️ | 🟥 || Kato 8022 | _50_
 ⬛ | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
 ✅ | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❌ || Tomix 2702 | _50_
-⬛ | <span title="Yo 8000">ヨ8000</span> | 38000 | ✔️ | ❌ | tricolor | Tomix 92934 | _50_
 ✅<br>⬛ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❌ | green, brown frame<br>green, black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
+⬛ | <span title="Yo 8000">ヨ8000</span> | 38000 | ✔️ | ❌ | tricolor | Tomix 92934 | _50_
 
 ---
 
