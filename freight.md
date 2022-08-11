@@ -268,22 +268,23 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 
 🧰 | Series | Number | 🚨 | 💡 | Details | Comes from | Width
 :-: | --- | --- | --- | --- | --- | --- | ---
-⬛ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️ | 🟥 || Kato 8035-1 | _50_
-☑️ | <span title="Yo 3500">ヨ3500</span> | 4428 | ✔️ | ✔️ || Tomix 98787 🆕 | _50_
-✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️ | ✔️ || Tomix 98735 | _50_
-⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️ | ✔️ | green, brown frame | Tomix 93171 or 93213 | _50_
-✅ | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️ | ✔️ | green, brown frame | Tomix 8715 | _50_
-⬛ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
-✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️ | ✔️ || Tomix 98713 | _50_
-⬛ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️ | ✔️ || Tomix 8705 | _50_
-✅ | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️ | ❌ || Tomix 2711 | _50_
-⬛ | <span title="Yo 6000">ヨ6000</span> | 6522 | ✔️ | 🟥 || Kato 8064 | _50_
-⬛ | <span title="Yo 6000">ヨ6000</span> | 6895 | ❌ | ❌ | red circles around lights,<br>Wamu-kun set, series not printed | Tomix 98746 | _50_
-⬛ | <span title="Yo 8000">ヨ8000</span> | 8219 | ✔️ | 🟥 || Kato 8022 | _50_
-⬛ | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️ | 🟥 || Kato 8065 | _50_
-✅ | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️ | ❌ || Tomix 2702 | _50_
-✅<br>⬛ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️ | ❌ | green, brown frame<br>green, black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
-⬛ | <span title="Yo 8000">ヨ8000</span> | 38000 | ✔️ | ❌ | tricolor | Tomix 92934 | _50_
+⬛ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️✔️ | 🟥 || Kato 8035-1 | _50_
+☑️ | <span title="Yo 3500">ヨ3500</span> | 4428 | ✔️✔️ | ✔️ || Tomix 98787 🆕 | _50_
+✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️✔️ | ✔️ || Tomix 98735 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 5006 | ✔️❌ | 🟥 | green, brown frame, Takara tail mark, one coupler dummy only | Kato 10-489 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️✔️ | ✔️ | green, brown frame | Tomix 93171 or 93213 | _50_
+✅ | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️✔️ | ✔️ | green, brown frame | Tomix 8715 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
+✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️✔️ | ✔️ || Tomix 98713 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️✔️ | ✔️ || Tomix 8705 | _50_
+✅ | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️✔️ | ❌ || Tomix 2711 | _50_
+⬛ | <span title="Yo 6000">ヨ6000</span> | 6522 | ✔️✔️ | 🟥 || Kato 8064 | _50_
+⬛ | <span title="Yo 6000">ヨ6000</span> | 6895 | ❌❌ | ❌ | red circles around lights,<br>Wamu-kun set, series not printed | Tomix 98746 | _50_
+⬛ | <span title="Yo 8000">ヨ8000</span> | 8219 | ❌❌ | 🟥 || Kato 8022 | _50_
+⬛ | <span title="Yo 8000">ヨ8000</span> | 8255 | ✔️✔️ | 🟥 || Kato 8065 | _50_
+✅ | <span title="Yo 8000">ヨ8000</span> | 8402 | ✔️✔️ | ❌ || Tomix 2702 | _50_
+✅<br>⬛ | <span title="Yo 8000">ヨ8000</span> | 8639 | ✔️✔️ | ❌ | green, brown frame<br>green, black frame | Tomix 93526 or 92599<br>Tomix 93513 | _50_
+⬛ | <span title="Yo 8000">ヨ8000</span> | 38000 | ✔️✔️ | ❌ | tricolor | Tomix 92934 | _50_
 
 ---
 
