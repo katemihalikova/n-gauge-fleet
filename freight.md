@@ -271,7 +271,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ⬛ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️✔️ | 🟥 || Kato 8035-1 | _50_
 ☑️ | <span title="Yo 3500">ヨ3500</span> | 4428 | ✔️✔️ | ✔️ || Tomix 98787 🆕 | _50_
 ✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️✔️ | ✔️ || Tomix 98735 | _50_
-⬛ | <span title="Yo 5000">ヨ5000</span> | 5006 | ✔️❌ | 🟥 | green, brown frame, Takara tail mark, one coupler dummy only | Kato 10-489 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 5006 | ✔️❌ | 🟥 | green, brown frame, Takara tail mark,<br>one coupler dummy only | Kato 10-489 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️✔️ | ✔️ | green, brown frame | Tomix 93171 or 93213 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️✔️ | ✔️ | green, brown frame | Tomix 8715 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
