@@ -4,24 +4,27 @@ For symbol explanation see [Readme](./readme.md).
 
 ## キハ100
 
-🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
-:-: | --- | --- | :-: | :-: |  :-: | --- | ---
-✅ | 1 | Prototype | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 2 | Prototype | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 3 | Prototype | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 4 | Prototype | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+🧰 | Number | Livery | Skirt | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | --- | :-: | :-: |  :-: | --- | ---
+✅ | 1 | Prototype | pipes | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 2 | Prototype | pipes | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 3 | Prototype | pipes | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 4 | Prototype | pipes | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 ||
-✅ | 1 | Pokémon with You | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
-✅ | 3 | Pokémon with You | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
+✅ | 1 | Pokémon with You | pipes | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
+✅ | 3 | Pokémon with You | pipes | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
 ||
-☑️ | 13 | Kamaishi Line 70th Anniversary | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
-✅ | 16 | Regular | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
-✅ | 17 | Regular | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
-✅ | 27 | Regular | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
-✅ | 45 | Regular | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
-☑️ | ? | Regular | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
+🟨 | 4 | Regular with dummy window,<br>Ichinoseki depot sign | pipes | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix DIY
+🟨 | 8 | Regular,<br>Ichinoseki depot sign | pipes | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix DIY
+✅ | 13 | Kamaishi Line 70th Anniversary,<br>Morioka depot sign | plates | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
+✅ | 16 | Regular,<br>Morioka depot sign | plates | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
+✅ | 17 | Regular,<br>Morioka depot sign | plates | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
+✅ | 24 | Regular,<br>Morioka depot sign | plates | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
+✅ | 27 | Regular,<br>Morioka depot sign | plates | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
+✅ | 45 | Regular,<br>Ichinoseki depot sign | plates | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
 
-Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and 33, 34, 39, 40, 45, 46 (Ichinoseki).
+Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and 33, 34, 39, 40, 45, 46 (Ichinoseki).  
+Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28 (Morioka) and 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46 (Ichinoseki).
 
 ## キハ110
 
