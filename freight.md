@@ -258,7 +258,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ✅ | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix 93194 | ___60___
 ✅<br>⬛<br>⬛ | <span title="Komu 1">コム1</span> | 2020 | Ico-chan × Mouse container<br>Hello Kitty Shinkansen container<br>Kuroshio Shirara container | Tomix 93209<br>Tomix 93211<br>Tomix 93221 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2021 | Ico-chan × Cow container | Tomix 93220 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 2022 | Ico-chan × Tiger container | Tomix 93225 | ___60___
+✅<br>⬛ | <span title="Komu 1">コム1</span> | 2022 | Ico-chan × Tiger container<br>Ico-chan × Kaitetsu container | Tomix 93225<br>Tomix 93232 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 7111 | Mibumachi Toy Museum container (various colors) | Tomix (no code) | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 9640 | Kuroshio Shirara 2nd edition container | Tomix 93226 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
