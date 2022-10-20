@@ -5,17 +5,17 @@ For symbol explanation see [Readme](./readme.md).
 ## キハ100
 ### Prototype batch (dummy window, pipe skirt, metal framed cab side window, metal framed destination board)
 
-🧰 | Nr | Livery | Depot | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
-:-: | --- | --- | --- | :-: | :-: | :-: |  --- | ---
-✅ | 1 | Prototype | 盛イチ | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 2 | Prototype | 盛イチ | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 3 | Prototype | 盛イチ | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 4 | Prototype | 盛イチ | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+🧰 | Nr | Livery | Depot | Sign | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | --- | --- | :-: | :-: | :-: |  --- | ---
+✅ | 1 | Prototype | 盛イチ || Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 2 | Prototype | 盛イチ || ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 3 | Prototype | 盛イチ || ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 4 | Prototype | 盛イチ || Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 ||
-✅ | 1 | Pokémon with You | 盛イチ | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
-|| 2 | Regular | 盛イチ
-✅ | 3 | Pokémon with You | 盛イチ | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
-☑️ | 4 | Regular | 盛イチ | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 1 | Pokémon with You | 盛イチ || Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
+|| 2 | Regular | 盛イチ | Dragon rail
+✅ | 3 | Pokémon with You | 盛イチ || ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
+☑️ | 4 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 
 ### First batch (pipe skirt, rubber framed cab side window, metal framed destination board)
 
