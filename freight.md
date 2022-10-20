@@ -252,7 +252,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ✅ | <span title="Komu 1">コム1</span> | 2015 | Ico-chan × Sheep container | Tomix 93165 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2016 | Ico-chan × Monkey container | Tomix 93176 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 2016-4 | Kyoto Railway Museum - Umetetsu container | Tomix 93178 | ___60___
-🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container (limited 100 pcs) | Tomix ??? | ___60___
+🟥 | <span title="Komu 1">コム1</span> | 2017 | Ico-chan × Rooster container (limited 100 pcs) | Tomix 93183 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 2017-4 | Kyoto Railway Museum - Umetetsu 2nd edition container | Tomix 93185 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2018 | Ico-chan × Dog container | Tomix 93191 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2019 | Ico-chan × Boar container | Tomix 93194 | ___60___
@@ -289,4 +289,4 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ---
 
 * ⬜ Tomix 93115
-* 🟥 Tomix コム2017 Rooster
+* 🟥 Tomix 93183 コム2017 Rooster
