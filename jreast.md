@@ -80,7 +80,7 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 :-: | --- | --- | --- | :-: | :-: | :-: | --- | ---
 ⬜ | 121 | Metropolitan Area Color | 長コミ | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-1169
 ✅ | 128 | Regular | 盛モリ | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6043-1
-✅ | 129 | Regular | 盛モリ | ⚪ | ✔️ | 🟥 | 1× Kato Shibata with hook, body mounted<br>1× Kato Shibata compatible with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TN Shibata (DIY), body mounted | Kato 6044-1
+✅ | 129 | Regular | 盛モリ | ⚪ | ✔️ | 🟥 | 1× Kato Shibata with hook, body mounted<br>1× Tomix TN Shibata, body mounted (DIY) | Kato 6044-1
 ⬜ | 130 | Regular | 水スイ | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6043
 ✅ | 137 | Regular | 水スイ | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6044
 ✅ | 701 | Tohoku Emotion | 盛ハヘ | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
