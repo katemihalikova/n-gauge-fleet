@@ -17,7 +17,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
-☑️ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 13231 || Tomix 98787 🆕 | _50_
+🛄 | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 13231 || Tomix 98787 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
@@ -25,14 +25,14 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 6352 | refrigerated, white, blue stripe | Tomix 98713 | __55__
 ✅ | <sup><sub>　</sub></sup><span title="Wa 12000">ワ12000</span> | 12188 || Kato 8060 | 40
 ✅ | <sup><sub>　</sub></sup><span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060 | 40
-☑️ | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 1900">ワム1900</span> | 1925 || Tomix 98787 🆕 | _50_
+🛄 | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 1900">ワム1900</span> | 1925 || Tomix 98787 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 2000">ワム2000</span> | 2699 || Tomix 98713 | _50_
-☑️ | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 6951 | yellow stripe | Tomix 98787 🆕 | _50_
+🛄 | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 6951 | yellow stripe | Tomix 98787 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 7023 || Tomix 8704 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
-☑️ | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 14970 | yellow stripe | Tomix 98787 🆕 | _50_
-☑️ | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | 35421 | yellow stripe | Tomix 98787 🆕 | _50_
-☑️ | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | 39634 | yellow stripe | Tomix 98787 🆕 | _50_
+🛄 | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 14970 | yellow stripe | Tomix 98787 🆕 | _50_
+🛄 | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | 35421 | yellow stripe | Tomix 98787 🆕 | _50_
+🛄 | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | 39634 | yellow stripe | Tomix 98787 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub>キ</sub></sup>ワム60000</span> | 61381 | express | Tomix 98735 | _50_
@@ -190,7 +190,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ✅ | <span title="Tora 55000"><sup><sub>ス</sub></sup>トラ55000</span> | 58048 | sheet cover | Kato 8068 🔁 | _50 low_
 ⬛ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 70423 | Wamu-kun set, series not printed | Tomix 98746 | ___60 low___
 ✅ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 73106 || Tomix 98713 | ___60 low___
-☑️ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 73825 || Tomix 98787 🆕 | ___60 low___
+🛄 | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 73825 || Tomix 98787 🆕 | ___60 low___
 ✅ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 74761 || Tomix 98713 | ___60 low___
 ✅ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 74778 || Tomix 2713 or 90096 | ___60 low___
 ⬛ | <span title="Tora 90000"><sup><sub>コ</sub></sup>トラ90000</span> | 91395 | wire mesh fence | Kato 10-1377 | _50_ + cover
@@ -272,7 +272,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 🧰 | Series | Number | 🚨 | 💡 | Details | Comes from | Width
 :-: | --- | --- | --- | --- | --- | --- | ---
 ⬛ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️✔️ | 🟥 || Kato 8035-1 | _50_
-☑️ | <span title="Yo 3500">ヨ3500</span> | 4428 | ✔️✔️ | ✔️ || Tomix 98787 🆕 | _50_
+🛄 | <span title="Yo 3500">ヨ3500</span> | 4428 | ✔️✔️ | ✔️ || Tomix 98787 🆕 | _50_
 ✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️✔️ | ✔️ || Tomix 98735 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 5006 | ✔️❌ | 🟥 | green, brown frame, Takara tail mark,<br>one coupler dummy only | Kato 10-489 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️✔️ | ✔️ | green, brown frame | Tomix 93171 or 93213 | _50_
