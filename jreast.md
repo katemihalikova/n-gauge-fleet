@@ -3,31 +3,31 @@
 For symbol explanation see [Readme](./readme.md).
 
 ## キハ100
-### Prototype batch (dummy window, pipe skirt, metal framed cab side window, metal framed destination board)
+### Prototype batch (dummy window, pipe skirt, metal-framed cab side window, metal-framed destination board)
 
 🧰 | Nr | Livery | Depot | Sign | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | --- | :-: | :-: | :-: |  --- | ---
 ✅ | 1 | Prototype | 盛イチ || Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 ✅ | 2 | Prototype | 盛イチ || ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 3 | Prototype | 盛イチ || ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
-✅ | 4 | Prototype | 盛イチ || Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 3 | Prototype | 盛イチ || Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 4 | Prototype | 盛イチ ||||| spare body only | Tomix 98089
 ||
 ✅ | 1 | Pokémon with You | 盛イチ || Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
-|| 2 | Regular | 盛イチ | Dragon rail
+✅ | 2 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 ✅ | 3 | Pokémon with You | 盛イチ || ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98060
-☑️ | 4 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
+✅ | 4 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98089
 
-### First batch (pipe skirt, rubber framed cab side window, metal framed destination board)
+### First batch (pipe skirt, rubber-framed cab side window, metal-framed destination board)
 
 🧰 | Nr | Livery | Depot | Sign | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | --- | :-: | :-: | :-: |  --- | ---
 || 5 | Regular | 盛イチ | Dragon rail
 || 6 | Regular | 盛イチ | Dragon rail
 || 7 | Regular | 盛イチ | Dragon rail
-☑️ | 8 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
-<!-- unpaint or cut destination board frame to make it metal -->
+✅ | 8 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
+<!-- TODO: unpaint or cut destination board frame to make it metal -->
 
-### Second batch (plate skirt, rubber framed cab side window, rubber framed destination board)
+### Second batch (plate skirt, rubber-framed cab side window, rubber-framed destination board)
 
 🧰 | Nr | Livery | Depot | Sign | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | --- | :-: | :-: | :-: | --- | ---
@@ -36,7 +36,7 @@ For symbol explanation see [Readme](./readme.md).
 || 11 | Regular | 盛モリ | Ginga dreamline
 || _~~12~~_ | _scrapped 2011_
 ✅ | 13 | Kamaishi Line<br>70th Anniversary | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 97941
-☑️ | 14 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98100
+✅ | 14 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98100
 || 15 | Regular | 盛モリ | Ginga dreamline
 ✅ | 16 | Regular | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
 ✅ | 17 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
@@ -50,7 +50,7 @@ For symbol explanation see [Readme](./readme.md).
 🟨 | 25 | Regular | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
 🟨 | 26 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
 ✅ | 27 | Regular | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
-☑️ | 28 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98100
+✅ | 28 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98100
 || _~~29~~_ | _converted 2017_
 || _~~30~~_ | _scrapped 2011_
 || 31 | Regular | 盛イチ | Dragon rail
@@ -68,7 +68,7 @@ For symbol explanation see [Readme](./readme.md).
 || 43 | Regular | 盛イチ | Dragon rail
 || 44 | Regular | 盛イチ | Dragon rail
 ✅ | 45 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98057
-☑️ | 46 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98100
+✅ | 46 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️ | ✔️ | 2× TN Shibata, body mounted | Tomix 98100
 
 Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and 33, 34, 39, 40, 45, 46 (Ichinoseki).  
 Tomix 98089 contains number sheet with cars 1, 2, 3, 4 (prototypes).  
