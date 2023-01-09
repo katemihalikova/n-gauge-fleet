@@ -312,3 +312,10 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ⬜ | DE10 | 1191 | Dark blue | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
 ✅ | DE10 | 1575 | Dark blue | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
 ✅ | DE10 | 1581 | Dark blue | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+
+## Shorty locomotives
+
+🧰 | Series | Number | Livery | 🚃 | ☀️ | 🚨 | Comes from
+:-: | --- | --- | --- | :-: | :-: | :-: | ---
+✅ | DC51 | 1 | Red, white stripe | Ⓜ️ | ❌ | ❌ | Tomix 90097
+✅<br>✅ | DD51 | 624 | Red, white stripe, Imperial train flags<br>Red, white stripe | Ⓜ️ | ❌ | ❌ | Micro Ace A1042
