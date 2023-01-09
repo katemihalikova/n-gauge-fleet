@@ -6,6 +6,7 @@ Overview of my N gauge fleet
 
 * [Sanriku Tetsudō](santetsu.md)
 * [JR East DMU](jreast.md)
+* [Iwate Ginga Tetsudō & Aoimori Tetsudō](igr-ar.md)
 * [Freight](freight.md)
 * [Other](other.md)
 
