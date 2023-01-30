@@ -85,6 +85,41 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 ✅ | 137 | Regular | 水スイ | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 6044
 ✅ | 701 | Tohoku Emotion | 盛ハヘ | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 
+🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
+:-: | --- | --- | :-: | :-: | :-: | ---
+⬜<br>⬜ | 201 | Regular | Ⓜ️<br>⚪ | ❌❌<br>✔️🟥 | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31703 🆕
+⬜ | 202 | Regular | Ⓜ️ | 🟥🟥 | 🟥 | Greenmax 31702 🆕
+⬜<br>⬜ | 203 | Regular | Ⓜ️<br>⚪ | ❌✔️<br>✔️🟥 | 🟥<br>🟥 | Greenmax 30766<br>Greenmax 31702 🆕
+⬜ | 204 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 31704 🆕
+⬜<br>⬜ | 205 | Regular | Ⓜ️<br>⚪ | ✔️✔️<br>🟥✔️ | 🟥<br>🟥 | Greenmax 30767<br>Greenmax 31702 🆕
+⬜<br>⬜ | 206 | Regular | ⚪<br>Ⓜ️ | ✔️❌<br>🟥✔️ | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31703 🆕
+⬜ | 207 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30867
+⬜ | 208 | Regular | ⚪ | ❌✔️ | 🟥 | Greenmax 30867
+⬜ | 209 | Regular | ⚪ | ✔️❌ | 🟥 | Greenmax 50632
+⬜ | 221 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30545
+⬜ | 222 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30545
+⬜<br>⬜ | 223 | Regular | ⚪<br>Ⓜ️ | ✔️❌<br>❌✔️ | 🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520
+⬜<br>⬜ | 224 | Regular | ⚪<br>⚪ | ❌✔️<br>✔️❌ | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31520
+⬜ | 226 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30587
+⬜ | 229 | Regular | ⚪ | ❌✔️ | 🟥 | Greenmax 30587
+⬜ | 231 | Voiture Amitié | ⚪ | ❌✔️ | 🟥 | Greenmax 50587
+⬜ | 233 | Voiture Amitié | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 50587
+⬜<br>⬜ | 234 | Regular, Four Seasons Wrapping | Ⓜ️<br>⚪ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 | Greenmax 50588<br>Greenmax 50589
+⬜ | 235 | Oykot Cream | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30589 or 30459
+⬜ | 236 | Oykot Red | ⚪ | ❌✔️ | 🟥 | Greenmax 30589 or 30459
+⬜ | 237 | Rikuu West Line (Cyan, Yellow Stripe) | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30627
+⬜ | 238 | Rikuu West Line (Cyan, Yellow Stripe), Yukemuri Wrapping | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 50718
+⬜<br>⬜ | 239 | Rikuu West Line (Cyan, Yellow Stripe) | ⚪<br>Ⓜ️ | ✔️❌<br>✔️❌ | 🟥<br>🟥 | Greenmax 30628<br>Greenmax 30494
+⬜ | 240 | Rikuu West Line (Cyan, Yellow Stripe) | ⚪ | ❌✔️ | 🟥 | Greenmax 30494
+⬜ | 241 | Rikuu West Line (Cyan, Yellow Stripe) | ⚪ | ❌✔️ | 🟥 | Greenmax 30627
+⬜<br>⬜ | 242 | Rikuu West Line (Cyan, Yellow Stripe)<br>Rikuu West Line (Cyan, Yellow Stripe), Yukemuri Wrapping | ⚪<br>⚪ | ❌✔️<br>❌✔️ | 🟥<br>🟥 | Greenmax 30628<br>Greenmax 50718
+⬜ | 312 | Akita Relay | ⚪ | ✔️❌ | 🟥 | Greenmax 50585
+⬜ | 308 | Akita Relay | Ⓜ️ | ❌❌ | 🟥 | Greenmax 50585
+⬜ | 311 | Akita Relay | ⚪ | ❌❌ | 🟥 | Greenmax 50585
+⬜ | 305 | Akita Relay | ⚪ | ❌✔️ | 🟥 | Greenmax 50585
+⬜ | 310 | Akita Relay | ⚪ | ❌❌ | 🟥 | Greenmax 50586
+⬜ | 303 | Akita Relay | ⚪ | ❌✔️ | 🟥 | Greenmax 50586
+
 ## キハ111 + キハ112
 
 🧰 | Nr | Livery | Depot | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
@@ -95,6 +130,18 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 ⬜ | 119 | Regular | 水スイ | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-347
 ⬜ | 120 | Regular | 水スイ | ⚪ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | Kato 10-348
 ✅ | 701 | Tohoku Emotion | 盛ハヘ | Ⓜ️ | ✔️ | 🟥 | 2× Kato Shibata with hook, body mounted | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
+
+🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
+:-: | --- | --- | :-: | :-: | :-: | ---
+⬜<br>⬜<br>⬜<br>⬜ | 204 | Hachiko Line Revival Color<br>Hachiko Line Revival Color<br>Hachiko Line Revival Color, 80th Anniversary Logo<br>Regular, SL Gunma × Hachiko Line Wrapping | Ⓜ️<br>⚪<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥 | Greenmax 30543<br>Greenmax 30544<br>Greenmax 50632<br>Greenmax 50636
+⬜ | 205 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30546
+⬜ | 206 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30547
+⬜ | 212 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30588
+⬜ | 213 | Rikuu East Line (Cyan, Red Stripe) | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30629
+⬜ | 215 | Rikuu East Line (Cyan, Red Stripe) | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30495
+⬜ | 218 | Rikuu East Line (Cyan, Red Stripe), Yukemuri Wrapping | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 50719
+⬜ | 220 | Rikuu East Line (Cyan, Red Stripe) | ⚪ | ✔️✔️ | 🟥 | Greenmax 30630
+⬜ | 302 | Akita Relay | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 50586
 
 ## Other
 
