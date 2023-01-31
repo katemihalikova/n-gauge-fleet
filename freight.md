@@ -44,8 +44,8 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 63341 || Tomix 98713 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub>キ</sub></sup>ワム60000</span> | 63358 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub>キ</sub></sup>ワム60000</span> | 64571 | express | Tomix 98735 | _50_
-🟥 | <sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 65184 || Tomix 8750 🆕 | _50_
-🟥 | <sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 66715 || Tomix 8750 🆕 | _50_
+🛄 | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 65184 || Tomix 8750 🆕 | _50_
+🛄 | <!--❓--><sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 66715 || Tomix 8750 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 71452 | express, orange stripes | Tomix 98735 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 71459 | express, orange stripes | Tomix 98735 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 71968 || Tomix 2733 | _50_
@@ -291,7 +291,6 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 
 ---
 
-* 🟥 Tomix 8750
 * ⬜ Tomix 93115
 * 🟥 Tomix 93183 コム2017 Rooster
 
