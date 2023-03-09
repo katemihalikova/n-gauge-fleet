@@ -5,7 +5,8 @@ Overview of my N gauge fleet
 ## Japan
 
 * [Sanriku Tetsudō](santetsu.md)
-* [JR East DMU](jreast.md)
+* [JR East](jreast.md)
+* [JR Hokkaidō](jrhokkaido.md)
 * [Iwate Ginga Tetsudō & Aoimori Tetsudō](igr-ar.md)
 * [Freight](freight.md)
 * [Other](other.md)

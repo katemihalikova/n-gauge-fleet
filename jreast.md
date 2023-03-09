@@ -1,4 +1,4 @@
-# JR East DMU fleet
+# JR East fleet
 
 For symbol explanation see [Readme](./readme.md).
 
@@ -143,6 +143,13 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 ⬜ | 220 | Rikuu East Line (Cyan, Red Stripe) | ⚪ | ✔️✔️ | 🟥 | Greenmax 30630
 ⬜ | 302 | Akita Relay | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 50586
 
+## SL Ginga
+
+🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | --- | :-: | :-: | :-: | --- | ---
+🛄 | C58 | 239 | 2014 appearance | Ⓜ️ | ✔️❌ | ❌ || Tomix 2009
+🛄 | キハ143<br>キサハ144<br>キサハ144<br>キハ142 | 701<br>701<br>702<br>701 | SL Ginga blue gradient | Ⓜ️ | ✔️ | 🟥 || Tomix 98522
+
 ## Other
 
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
@@ -151,3 +158,9 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️ | 🟥 || Micro Ace A7442
 🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️ | 🟥 || Micro Ace A7443
 🟨 | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️ | ✔️ | 🟥 || Kato 10-1369
+
+## Track maintenance
+
+🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | --- | :-: | :-: | :-: | --- | ---
+🛄 | マヤ34 | 2002 | white / ligh blue | Ⓜ️ | ✔️ | 🟥 || Micro Ace A0301
