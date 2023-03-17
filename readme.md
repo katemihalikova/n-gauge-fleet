@@ -34,3 +34,13 @@ Overview of my N gauge fleet
   * ❌ Not supported (except DIY)
   * ☑️ Equipped using DIY
   * ❓ Unknown
+* Coupler
+  * ♓ Tomix TN Shibata (body mounted)
+  * ♋ Tomix TN Knuckle (body mounted)
+  * 🅾️ Kato TN Shibata (body mounted)
+  * 🆑 Kato Knuckle (body mounted)
+  * 🔁 Kato dummy Shibata with hook (body mounted)
+  * ⏯️ Kato dummy central buffer coupling with hook (body mounted)
+  * ⬛ Dummy Knuckle (body mounted)
+  * ✴️ Rapido/Arnold (bogie mounted)
+  * ✳️ Rapido/Arnold (body mounted)

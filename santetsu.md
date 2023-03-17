@@ -2,45 +2,91 @@
 
 For symbol explanation see [Readme](./readme.md).
 
-## 36-100, 36-200, 36-2100
+## 36-100, 36-200, 36-1100, 36-1200, 36-2100
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
-:-: | --- | --- | :-: | :-: | :-: | --- | ---
-✅ | 36-101 | Kitto Zutto Go | ⚪ | ❌ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2651
-✅ | 36-102 | Kitto Zutto 3 Go | Ⓜ️ | ❌ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2656
-✅ | 36-105 | Kitto Zutto 2 Go | ⚪ | ❌ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2652
-✅ | 36-109 | Regular | ⚪ | ❌ | ✅ | 2× TN Knuckle, body mounted | Tomix 92194
-✅ | 36-202 | Regular | Ⓜ️ | ❌ | 🟥 | 1× TN Knuckle, body mounted<br>1× Rapido, bogie mounted | Tomix 92194
-✅ | 36-207 | Regular | ⚪ | ❌ | 🟥 | 2× Rapido, bogie mounted | Tomix 92194
-✅ | 36-208 | Regular | Ⓜ️ | ❌ | 🟥 | 2× TN Knuckle, body mounted | Tomix 92194
-✅ | 36-209 | Regular | Ⓜ️ | ❌ | 🟥 | 2× TN Knuckle, body mounted | Tomix 92194
-✅ | 36-2110 | Sanriku Shiokaze | ⚪ | ❌ | 🟥 | 2× TN Knuckle, body mounted | Tomix 2655
+:-: | --- | --- | :-: | :-: | :-: | :-: | ---
+✅ | 101 | Kitto Zutto Go | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 2651 + new chassis
+✅ | 102 | Kitto Zutto 3 Go | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 2656
+|| _~~103~~_ <sup>(→ 1103)</sup> | Regular<br>_converted 2001/2_
+|| _~~104~~_ | Regular<br>_scrapped 2011_
+✅ | 105 | Kitto Zutto 2 Go | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 2652 + new chassis
+|| _~~106~~_ <sup>(→ 1106)</sup> | Regular<br>_converted 2001/2_
+|| _~~107~~_ <sup>(→ 1107)</sup> | Regular<br>_converted 2001/2_
+|| _~~108~~_ | Regular<br>_scrapped 1994_
+✅ | 109 | Regular | ⚪ | ❌❌ | ✅ | ♋♋ | Tomix 92194
+|| _~~110~~_ <sup>(→ 2110)</sup> | Regular<br>_converted 2002_
 ||
-✅ | 36-207 | Regular - [#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/) | ⚪ | ❌ | 🟥 | 2× Dummy Knuckle, body mounted | Tomix 2654
+|| _~~201~~_ <sup>(→ 1201)</sup> | Regular<br>_converted 2000/1_
+✅ | 202 | Regular | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
+|| _~~203~~_ | Regular<br>_scrapped 2011_
+|| _~~204~~_ | Regular<br>_scrapped 1994_
+|| _~~205~~_ | Regular<br>_scrapped 2011_
+|| _~~206~~_ <sup>(→ 1206)</sup> | Regular<br>_converted 2000/1_
+✅ | 207 | Regular | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
+✅ | 208 | Regular | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
+✅ | 209 | Regular | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
+||
+|| _~~1103~~_ <sup>(← 103)</sup> | Regular<br>_scrapped 2013_
+⬜ | _~~1106~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92143 (old chassis)
+⬜ | _~~1107~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92143 (old chassis)
+||
+⬜ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92137 (old chassis)
+⬜ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92137 (old chassis)
+||
+✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 2655 + new chassis
+||
+✅ | 207 | Regular - **[#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/)** | ⚪ | ❌ | 🟥 | ⬛⬛ | Tomix 2654
+
+## 36-300 + 36-400
+
+🧰 | Number | Livery
+:-: | --- | ---
+|| _~~301+401~~_ | Oyashio - green<br>_scrapped 2004_
+|| _~~302+402~~_ | Kuroshio - red<br>_scrapped 2006_
 
 ## 36-500
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
-:-: | --- | --- | :-: | :-: | :-: | --- | ---
-✅ | 36-500 | Regular | ⚪ | ❌ | ❌ | 2× Dummy Knuckle, body mounted | Tomytec 252658
+:-: | --- | --- | :-: | :-: | :-: | :-: | ---
+✅ | 501 | Regular | ⚪ | ❌❌ | ❌ | ⬛⬛ | Tomytec 252658
+
+## 36-600
+
+🧰 | Number | Livery
+:-: | --- | ---
+|| _~~601~~_ <sup>(→ R1)</sup> | Sanriku Shiosai - red<br>_converted 2014_
+|| _~~602~~_ <sup>(→ R2)</sup> | Sanriku Shiosai - red<br>_converted 2014_
 
 ## 36-700
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
-:-: | --- | --- | :-: | :-: | :-: | --- | ---
-✅ | 36-701 | Regular | Ⓜ️ | ✔️ | ✅ | 2× TN Knuckle body mounted | Tomix 92189
-✅ | 36-702 | Thank you from Kamaishi | Ⓜ️ | ✔️ | ✅ | 2× TN Knuckle body mounted | Tomix 97924
-✅ | 36-703 | Regular | ⚪ | ✔️ | ✅ | 2× TN Knuckle body mounted | Tomix 92189
-✅ | 36-704 | Regular | ⚪ | ✔️ | 🟥 | 2× TN Knuckle body mounted | Tomix 92189
-✅ | 36-705 | Regular | Ⓜ️ | ✔️ | 🟥 | 2× TN Knuckle body mounted | Tomix 92189
-✅ | 36-706 | Iwate × Geodude | Ⓜ️ | ✔️ | ✅ | 2× TN Knuckle body mounted | Tomix 8601
-​ | 36-711
-​ | 36-712
-​ | 36-713
-​ | 36-714
-​ | 36-715
-✅ | 36-716 | Regular | ⚪ | ✔️ | ✅ | 2× TN Knuckle body mounted | Tomix 97924
-​ | 36-717
-​ | 36-718
+:-: | --- | --- | :-: | :-: | :-: | :-: | ---
+✅ | 701 | Regular | Ⓜ️ | ✔️✔️ | ✅ | ♋♋ | Tomix 92189
+✅ | 702 | Thank you from Kamaishi | Ⓜ️ | ✔️✔️ | ✅ | ♋♋ | Tomix 97924
+✅ | 703 | Regular | ⚪ | ❌✔️ | ✅ | ♋♋ | Tomix 92189
+✅ | 704 | Regular | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 92189
+✅ | 705 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
+✅ | 706 | Iwate × Geodude | Ⓜ️ | ✔️✔️ | ✅ | ♋♋ | Tomix 8601
+|| 711
+|| 712
+|| 713
+|| 714
+|| 715
+✅ | 716 | Regular | ⚪ | ❌✔️ | ✅ | ♋♋ | Tomix 97924
+|| 717
+|| 718
 
-Tomix 92189 contains number sheet with numbers of first series cars only.
+Tomix 92189 contains number sheet with numbers of first series cars only (701-706).
+
+🧰 | Number | Livery
+:-: | --- | ---
+|| R1 <sup>(← 601)</sup> | Sanriku Shiosai - red
+|| R2 <sup>(← 602)</sup> | Sanriku Shiosai - red
+|| R3 | Retro train - Purple
+
+## 36-Z
+
+🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | ---
+🟥 | Z1 | Sanriku Hamakaze / Kotatsu train - brown | ❓ | ❓❓ | ❓ | ❓❓ | Permil (unknown number)
