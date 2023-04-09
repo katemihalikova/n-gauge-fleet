@@ -262,6 +262,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ✅ | <span title="Komu 1">コム1</span> | 2021 | Ico-chan × Cow container | Tomix 93220 | ___60___
 ✅<br>⬛ | <span title="Komu 1">コム1</span> | 2022 | Ico-chan × Tiger container<br>Ico-chan × Kaitetsu container | Tomix 93225<br>Tomix 93232 🆕 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2023 | Ico-chan × Rabbit container | Tomix 93233 🆕 | ___60___
+🟥<br>🟥<br>🟥<br>🟥<br>🟥<br>🟥<br>🟥<br>🟥<br>🟥 | <span title="Komu 1">コム1</span> | 2023-15 | Travelling Ico-chan: Kanazawa container<br>Travelling Ico-chan: Kyoto container<br>Travelling Ico-chan: Osaka container<br>Travelling Ico-chan: Kobe container<br>Travelling Ico-chan: Wakayama container<br>Travelling Ico-chan: Yonago container<br>Travelling Ico-chan: Okayama container<br>Travelling Ico-chan: Hiroshima container<br>Travelling Ico-chan: Hakata container | Tomix 93235 🆕<br>Tomix 93235 🆕<br>Tomix 93235 🆕<br>Tomix 93235 🆕<br>Tomix 93235 🆕<br>Tomix 93235 🆕<br>Tomix 93235 🆕<br>Tomix 93235 🆕<br>Tomix 93235 🆕 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 7111 | Mibumachi Toy Museum container (various colors) | Tomix (no code) | ___60___
 ✅<br>⬛ | <span title="Komu 1">コム1</span> | 9640 | Kuroshio Shirara 2nd edition container<br>Kuroshio Shirara 3rd edition container | Tomix 93226<br>Tomix 93234 🆕 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
