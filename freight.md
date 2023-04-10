@@ -246,7 +246,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097 | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
 ⬛ | <span title="Komu 1">コム1</span> | 1961 | Osaka Loop Line - 60 Years Connected container | Tomix 93224 <sup>Train Box</sup> | ___60___
-✅ | <span title="Komu 1">コム1</span> | 2011 | Tetsudo Plaza container (Osaka Station City) | Tomix (no code) | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2011 | Tetsudo Plaza container (Osaka Station City) | Tomix (no code) <sup>Train Box</sup> | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix 93144 <sup>Train Box</sup> | ___60___
 ✅<br>⬛ | <span title="Komu 1">コム1</span> | 2013 | Ico-chan × Snake container<br>ICOCA 10th anniversary container | Tomix 93149 <sup>Train Box</sup><br>Tomix 93153 <sup>Train Box</sup> | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2014 | Ico-chan × Horse container | Tomix 93155 <sup>Train Box</sup> | ___60___
