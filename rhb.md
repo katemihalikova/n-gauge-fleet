@@ -1,6 +1,6 @@
 # Rhätische Bahn fleet
 
-For symbol explanation see [Readme](./readme.md).
+For symbol explanation see [Readme](./readme.md). Long codes starting with 7 are Noch product codes.
 
 ## Ge4/4-II
 
@@ -37,6 +37,8 @@ For symbol explanation see [Readme](./readme.md).
 🟨 | 3501 | 🟥 | Kato 10-025 · 7074036
 ⬜ | 3502 | 🟥 | Kato 10-1318 · 7074041
 ✅ | 3508 | 🟥 | Kato 10-1273 · 7074035
+
+_Rerelease is planned for Winter 2023 (Noch code 7074071), not yet known which number it is going to be._
 
 ## EW I
 
@@ -78,7 +80,7 @@ For symbol explanation see [Readme](./readme.md).
 
 🧰 | Number | 💡 | Comes from
 --- | --- | --- | ---
-✅ | Api1301 | ✅ | Kato 10-1655 · 7074056
+✅ | Api1301 | ✅ | Kato 10-1655 · 7074056 or Kato 5250-9 · 7074061
 ✅ | Ap1302 | ✅ | Kato 10-1656 · 7074057
 ✅ | Bps2512 | ✅ | Kato 10-1655 · 7074056
 ✅ | Bp2522 | ✅ | Kato 10-1655 · 7074056
