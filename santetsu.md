@@ -18,7 +18,7 @@ For symbol explanation see [Readme](./readme.md).
 || _~~110~~_ <sup>(→ 2110)</sup> | Regular<br>_converted 2002_
 ||
 || _~~201~~_ <sup>(→ 1201)</sup> | Regular<br>_converted 2000/1_
-✅ | 202 | Regular | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
+✅ | 202 | Regular | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
 || _~~203~~_ | Regular<br>_scrapped 2011_
 || _~~204~~_ | Regular<br>_scrapped 1994_
 || _~~205~~_ | Regular<br>_scrapped 2011_
@@ -34,7 +34,7 @@ For symbol explanation see [Readme](./readme.md).
 ⬜ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92137 (old chassis)
 ⬜ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92137 (old chassis)
 ||
-✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 2655 + new chassis
+✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)
 ||
 ✅ | 207 | Regular - **[#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/)** | ⚪ | ❌ | 🟥 | ⬛⬛ | Tomix 2654
 
