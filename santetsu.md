@@ -88,5 +88,5 @@ Tomix 92189 contains number sheet with numbers of first series cars only (701-70
 ## 36-Z
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
-:-: | --- | ---
+:-: | --- | --- | :-: | :-: | :-: | :-: | ---
 🟥 | Z1 | Sanriku Hamakaze / Kotatsu train - brown | ❓ | ❓❓ | ❓ | ❓❓ | Permil (unknown number)
