@@ -26,12 +26,12 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060 | 40
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 1900">ワム1900</span> | 1925 || Tomix 98787 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 2000">ワム2000</span> | 2699 || Tomix 98713 | _50_
-✅ | <sup><sub>㋺</sub></sup><span title="Wamu 3500">ワム3500</span> | 6951 | yellow stripe | Tomix 98787 🆕 | _50_
+✅ | <span title="Wamu 3500"><sup><sub><strong>㋺</strong></sub></sup>ワム3500</span> | 6951 | yellow stripe | Tomix 98787 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 7023 || Tomix 8704 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
-✅ | <sup><sub>㋺</sub></sup><span title="Wamu 3500">ワム3500</span> | 14970 | yellow stripe | Tomix 98787 🆕 | _50_
-✅ | <sup><sub>㋺</sub></sup><span title="Wamu 23000">ワム23000</span> | 35421 | yellow stripe | Tomix 98787 🆕 | _50_
-✅ | <sup><sub>㋺</sub></sup><span title="Wamu 23000">ワム23000</span> | 39634 | yellow stripe | Tomix 98787 🆕 | _50_
+✅ | <span title="Wamu 3500"><sup><sub><strong>㋺</strong></sub></sup>ワム3500</span> | 14970 | yellow stripe | Tomix 98787 🆕 | _50_
+✅ | <span title="Wamu 23000"><sup><sub><strong>㋺</strong></sub></sup>ワム23000</span> | 35421 | yellow stripe | Tomix 98787 🆕 | _50_
+✅ | <span title="Wamu 23000"><sup><sub><strong>㋺</strong></sub></sup>ワム23000</span> | 39634 | yellow stripe | Tomix 98787 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub><strong>キ</strong></sub></sup>ワム60000</span> | 61381 | express | Tomix 98735 | _50_
