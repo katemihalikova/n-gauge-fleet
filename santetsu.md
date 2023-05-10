@@ -62,22 +62,23 @@ For symbol explanation see [Readme](./readme.md).
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
-✅ | 701 | Regular | Ⓜ️ | ✔️✔️ | ✅ | ♋♋ | Tomix 92189
-✅ | 702 | Thank you from Kamaishi | Ⓜ️ | ✔️✔️ | ✅ | ♋♋ | Tomix 97924
+✅ | 701 | Regular | Ⓜ️9 | ✔️✔️ | ✅ | ♋♋ | Tomix 92189
+✅ | 702 | Thank you from Kamaishi | Ⓜ️13 | ✔️✔️ | ✅ | ♋♋ | Tomix 97924
 ✅ | 703 | Regular | ⚪ | ❌✔️ | ✅ | ♋♋ | Tomix 92189
 ✅ | 704 | Regular | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 92189
-✅ | 705 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
-✅ | 706 | Iwate × Geodude | Ⓜ️ | ✔️✔️ | ✅ | ♋♋ | Tomix 8601
-|| 711
-|| 712
-|| 713
-|| 714
-|| 715
+✅ | 705 | Regular | Ⓜ️9 | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
+✅ | 706 | Iwate × Geodude | Ⓜ️13 | ✔️✔️ | ✅ | ♋♋ | Tomix 8601
+🟥 | 711 | Regular | Ⓜ️9 | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
+🟥 | 712 | Regular | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 92189
+⬜ | 713 | Regular ||| 🟥 | ♋♋ | Tomix 98127
+⬜ | 714 | Regular ||| 🟥 | ♋♋ | Tomix 98127
+⬜ | 715 | Regular ||| 🟥 | ♋♋ | Tomix 98127
 ✅ | 716 | Regular | ⚪ | ❌✔️ | ✅ | ♋♋ | Tomix 97924
-|| 717
-|| 718
+🟥 | 717 | Regular | Ⓜ️13 | ✔️✔️ | 🟥 | ♋♋ | Tomix 98127
+🟥 | 718 | Regular | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 98127
 
-Tomix 92189 contains number sheet with numbers of first series cars only (701-706).
+Tomix 92189 contains number sheet with numbers of first series cars only (701-706).  
+<!-- ❓❓❓ Tomix 98127 contains number sheet with numbers of all cars. -->
 
 🧰 | Number | Livery
 :-: | --- | ---
