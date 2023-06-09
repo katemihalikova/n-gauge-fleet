@@ -183,6 +183,7 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | --- | ---
 ✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
 ✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
+⬜ | <span title="Wafu 29500">ワフ29500</span> | 29725 | brake van ||| ❓ | ❌ | Kato 10-1158 | _50_ + chimney
 ✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 8030 or 10-012 | _50_ + chimney
 ✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 10-1599 | _50_ + chimney
 
