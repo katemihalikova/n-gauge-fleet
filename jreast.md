@@ -284,7 +284,7 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || 117
 || 118
 ⬜ | 119 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-347
-⬜ | 120 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-348
+✅ (only キハ112) | 120 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-348
 || 121
 
 ### 150 subseries (20.5m, sliding door, 1036mm door step, toilet in the middle, plate skirt, 8 windows)
