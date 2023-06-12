@@ -292,6 +292,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️✔️ | ✔️ | green, brown frame | Tomix 93171 or 93213 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 5011 | ✔️✔️ | ✔️ | green, brown frame | Tomix 8715 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 13785 | ✔️✔️ | 🟥 || Kato 8046-1 or 10-033 or 10-809 | _50_
+⬛ | <span title="Yo 5000">ヨ5000</span> | 14701 | ✔️✔️ | 🟥 || Kato 10-1426 | _50_
 ✅ | <span title="Yo 5000">ヨ5000</span> | 14713 | ✔️✔️ | ✔️ || Tomix 98713 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 14781 | ✔️✔️ | ✔️ || Tomix 8705 | _50_
 ✅ | <span title="Yo 6000">ヨ6000</span> | 6118 | ✔️✔️ | ❌ || Tomix 2711 | _50_
