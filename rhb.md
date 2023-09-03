@@ -20,11 +20,11 @@ For symbol explanation see [Readme](./readme.md). Long codes starting with 7 are
 ⬛<br>⬜ | 641 | Heidiland - Bernina Express _(Maienfeld)_<br>Coop _(Maienfeld)_ | Kato 7074037<br>Kato 7074039
 🟨 | 642 | Albula Line 100th Anniversary _(Breil/Brigels)_ | Kato 3101 · 7074043
 ⬜ | 643 | EMS _(Vals)_ | Kato 7074062
-⬜<br>⬜ | 644 | Regular _(Savognin)_<br>Lazzarini _(Savognin)_ | Kato 3101-1 or 10-1145 · 7074030 or 10-021 · 7074068 🆕<br>Kato 7074038
+⬜<br>⬜ | 644 | Regular _(Savognin)_<br>Lazzarini _(Savognin)_ | Kato 3101-1 or 10-1145 · 7074030 or 10-021 · 7074068<br>Kato 7074038
 ⬜ | 646 | BÜGA - Bündner Generalabo _(Sta. Maria Val Müstair)_ | Kato 7074063
 ⬜ | 649 | Holcim _(Lavin)_ | Kato 7074064
 ✅<br>⬜ | 650 | Unesco Welterbe<br>Die kleine Rote _(Seewis im Prättigau)_ | Kato 3101-3 · 7074059 or 10-1219 · 7074034<br>Kato 7074040
-⬛ | 651 | Glacier on Tour _(Fideris)_ | Kato 3101-2 or 10-006 · 7074033 or 10-1816 · 7074067 🆕
+⬛ | 651 | Glacier on Tour _(Fideris)_ | Kato 3101-2 or 10-006 · 7074033 or 10-1816 · 7074067
 ⬜ | 652 | Hockey Club Davos _(Vaz/Obervaz / Lenzerheide-Valbella)_ | Kato 7074065
 
 ### Accessories
@@ -34,9 +34,10 @@ For symbol explanation see [Readme](./readme.md). Long codes starting with 7 are
 
 🧰 | Number | 💡 | Comes from
 --- | --- | --- | ---
-🟨 | 3501 | 🟥 | Kato 10-025 · 7074036
+⬜ | 3501 | 🟥 | Kato 10-025 · 7074036
 ⬜ | 3502 | 🟥 | Kato 10-1318 · 7074041
-✅ | 3508 | 🟥 | Kato 10-1273 · 7074035
+🟨 | 3506 | 🟥 | Kato 10-1273 (v2) · 7074071 🆕
+✅ | 3508 | 🟥 | Kato 10-1273 (v1) · 7074035
 
 _Rerelease is planned for Winter 2023 (Noch code 7074071), not yet known which number it is going to be._
 
@@ -104,13 +105,13 @@ _Rerelease is planned for Winter 2023 (Noch code 7074071), not yet known which n
 --- | --- | --- | ---
 ⬛ | Api1311 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | Api1312 | 🟥 | Kato 10-1146 · 7074031
-⬛ | Ap1314 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 🆕 or 10-021 · 7074068 🆕
+⬛ | Ap1314 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068
 ⬛ | Ap1316 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | Bp2531 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Bp2532 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | Bp2533 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Bp2534 | 🟥 | Kato 10-1219 · 7074034
-⬛ | Bp2535 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 🆕 or 10-021 · 7074068 🆕
+⬛ | Bp2535 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068
 ⬛ | Bp2536 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | WRp3831 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | WRp3832 | 🟥 | Kato 10-1146 · 7074031
@@ -124,6 +125,7 @@ _Rerelease is planned for Winter 2023 (Noch code 7074071), not yet known which n
 --- | --- | --- | ---
 ✅ | B2096 | ❌ | Kato 10-1656 · 7074057
 ✅ | B2097 | ❌ | Kato 5253 · 7074058
+🟨 | B2101 | ❌ | Kato 5253-2 · 7074072 🆕
 ✅ | WR3811 | ✔ | Kato 5280 · 7074054
 
 ## Freight
