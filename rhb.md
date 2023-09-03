@@ -39,8 +39,6 @@ For symbol explanation see [Readme](./readme.md). Long codes starting with 7 are
 🟨 | 3506 | 🟥 | Kato 10-1273 (v2) · 7074071 🆕
 ✅ | 3508 | 🟥 | Kato 10-1273 (v1) · 7074035
 
-_Rerelease is planned for Winter 2023 (Noch code 7074071), not yet known which number it is going to be._
-
 ## EW I
 
 🧰 | Number | Livery | 💡 | Comes from
