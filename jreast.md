@@ -190,11 +190,13 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || 215
 || 216
 || 217
-|| 218
-|| 219
-|| 220
+⬜ | 218 | Regular | Ⓜ️ | ✔️🟥 | 🟥 | Greenmax 31801 🆕
+⬜ | 219 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 31802 🆕
+⬜ | 220 | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31801 🆕
 ⬜ | 221 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30545
 ⬜ | 222 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30545
+
+Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.  
 
 #### Cars rebuilt from 300 subseries (20.5m)
 
