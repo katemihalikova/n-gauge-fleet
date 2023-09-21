@@ -325,7 +325,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 
 🧰 | Series | Number | Livery | 🚃 | ☀️ | 🚨 | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | ---
-✅ | DC51 | 1 | Red, white stripe | Ⓜ️ | ❌ | ❌ | Tomix 90097
+⬜ | DC51 | 1 | Red, white stripe | Ⓜ️ | ❌ | ❌ | Tomix 90097
 ✅<br>✅ | DD51 | 624 | Red, white stripe, Imperial train flags<br>Red, white stripe | Ⓜ️ | ❌ | ❌ | Micro Ace A1042
 
 ---
