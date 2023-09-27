@@ -354,6 +354,7 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 🟨 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7442
 🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 || Micro Ace A7442
+🛄 | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌ || Tomytec 328926 🆕
 🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7443
 🟨 | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️ | ✔️✔️ | 🟥 || Kato 10-1369
 
