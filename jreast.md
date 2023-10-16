@@ -168,12 +168,12 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-⬜<br>⬜ | 201 | Regular | Ⓜ️<br>⚪ | ❌❌<br>✔️🟥 | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31703 🆕
-⬜ | 202 | Regular | Ⓜ️ | 🟥🟥 | 🟥 | Greenmax 31702 🆕
-⬜<br>⬜ | 203 | Regular | Ⓜ️<br>⚪ | ❌✔️<br>✔️🟥 | 🟥<br>🟥 | Greenmax 30766<br>Greenmax 31702 🆕
-⬜ | 204 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 31704 🆕
-⬜<br>⬜ | 205 | Regular | Ⓜ️<br>⚪ | ✔️✔️<br>🟥✔️ | 🟥<br>🟥 | Greenmax 30767<br>Greenmax 31702 🆕
-⬜<br>⬜ | 206 | Regular | ⚪<br>Ⓜ️ | ✔️❌<br>🟥✔️ | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31703 🆕
+⬜<br>⬜ | 201 | Regular | Ⓜ️<br>⚪ | ❌❌<br>✔️🟥 | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31703
+⬜ | 202 | Regular | Ⓜ️ | 🟥🟥 | 🟥 | Greenmax 31702
+⬜<br>⬜ | 203 | Regular | Ⓜ️<br>⚪ | ❌✔️<br>✔️🟥 | 🟥<br>🟥 | Greenmax 30766<br>Greenmax 31702
+⬜ | 204 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 31704
+⬜<br>⬜ | 205 | Regular | Ⓜ️<br>⚪ | ✔️✔️<br>🟥✔️ | 🟥<br>🟥 | Greenmax 30767<br>Greenmax 31702
+⬜<br>⬜ | 206 | Regular | ⚪<br>Ⓜ️ | ✔️❌<br>🟥✔️ | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31703
 ⬜ | 207 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30867
 ⬜ | 208 | Regular | ⚪ | ❌✔️ | 🟥 | Greenmax 30867
 ⬜ | 209 | Regular | ⚪ | ✔️❌ | 🟥 | Greenmax 50632
@@ -259,7 +259,7 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 || _~~2~~_ <sup>(→ 701)</sup> | _converted 2013_
 || 3
 ||
-✅ | 701 <sup>(← 2)</sup> | Tohoku Emotion | 盛ハヘ | Ⓜ️ | ✔️❌ | 🟥 | 🔁🔁🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
+✅ | 701 <sup>(← 2)</sup> | Tohoku Emotion | 盛ハヘ | Ⓜ️ | ✔️❌ | 🟥🟥 | 🔁🔁🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 
 <span title="RoundHouse">Katoᴿᴴ</span> 10-936 incorrectly uses 100 subseries mold for 701.
 
@@ -277,16 +277,16 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 || 108
 || 109
 || 110
-⬜ | 111 | Express Color | 長コミ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-1169
+⬜ | 111 | Express Color | 長コミ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-1169
 || 112
 || 113
 || 114
-✅ | 115 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-1165
-✅ | 116 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-1166
+✅ | 115 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-1165
+✅ | 116 | Regular | 盛モリ | ⚪ | ✔️✔️ | ✴️✴️ | 🔁🔁🔁🔁 | Kato 10-1166
 || 117
 || 118
-⬜ | 119 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-347
-✅ (only キハ112) | 120 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁🔁🔁 | Kato 10-348
+⬜ | 119 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-347
+✅ (only キハ112) | 120 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-348
 || 121
 
 ### 150 subseries (20.5m, sliding door, 1036mm door step, toilet in the middle, plate skirt, 8 windows)
@@ -304,9 +304,9 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 || 201
 || 202
 || 203
-⬜<br>⬜<br>⬜<br>⬜ | 204 | Hachiko Line Revival Color<br>Hachiko Line Revival Color<br>Hachiko Line Revival Color, 80th Anniversary Logo<br>Regular, SL Gunma × Hachiko Line Wrapping | Ⓜ️<br>⚪<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥 | Greenmax 30543<br>Greenmax 30544<br>Greenmax 50632<br>Greenmax 50636
-⬜ | 205 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30546
-⬜ | 206 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30547
+⬜<br>⬜<br>⬜<br>⬜ | 204 | Hachiko Line Revival Color<br>Hachiko Line Revival Color<br>Hachiko Line Revival Color, 80th Anniversary Logo<br>Regular, SL Gunma × Hachiko Line Wrapping | Ⓜ️<br>⚪<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥 | Greenmax 30543<br>Greenmax 30544<br>Greenmax 50632<br>Greenmax 50636
+⬜ | 205 | Regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 30546
+⬜ | 206 | Regular | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 30547
 || 207
 || 208
 || 209
@@ -317,20 +317,20 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 :-: | --- | --- | :-: | :-: | :-: | ---
 || 210 <sup>(← 301)</sup>
 || 211 <sup>(← 302)</sup>
-⬜ | 212 <sup>(← 303)</sup> | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30588
+⬜ | 212 <sup>(← 303)</sup> | Regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 30588
 
 #### Third batch (toilet at the end)
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-⬜ | 213 | Rikuu East Line (Cyan, Red Stripe) | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30629
+⬜ | 213 | Rikuu East Line (Cyan, Red Stripe) | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 30629
 || 214
-⬜ | 215 | Rikuu East Line (Cyan, Red Stripe) | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 30495
+⬜ | 215 | Rikuu East Line (Cyan, Red Stripe) | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 30495
 || 216
 || 217
-⬜ | 218 | Rikuu East Line (Cyan, Red Stripe), Yukemuri Wrapping | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 50719
+⬜ | 218 | Rikuu East Line (Cyan, Red Stripe), Yukemuri Wrapping | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 50719
 || 219
-⬜ | 220 | Rikuu East Line (Cyan, Red Stripe) | ⚪ | ✔️✔️ | 🟥 | Greenmax 30630
+⬜ | 220 | Rikuu East Line (Cyan, Red Stripe) | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 30630
 || 221
 
 ### 300 subseries (20.5m, sliding door, 970mm door step, toilet at the end, plate skirt, 8 windows)
@@ -338,7 +338,7 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
 || _~~301~~_ <sup>(→ 210)</sup>
-⬜ | _~~302~~_ <sup>(→ 211)</sup> | Akita Relay | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 50586
+⬜ | _~~302~~_ <sup>(→ 211)</sup> | Akita Relay | Ⓜ️ | ✔️❌ | 🟥🟥 | Greenmax 50586
 || _~~303~~_ <sup>(→ 212)</sup>
 
 ## SL Ginga
@@ -346,7 +346,7 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 🛄 | C58 | 239 | 2014 appearance | Ⓜ️ | ✔️❌ | ❌ || Tomix 2009
-🛄 | キハ143<br>キサハ144<br>キサハ144<br>キハ142 | 701<br>701<br>702<br>701 | SL Ginga blue gradient | Ⓜ️ | ✔️ | 🟥 || Tomix 98522
+🛄 | キハ143<br>キサハ144<br>キサハ144<br>キハ142 | 701<br>701<br>702<br>701 | SL Ginga blue gradient | Ⓜ️ | ✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥 || Tomix 98522
 
 ## Other
 
@@ -354,9 +354,9 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 🟨 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7442
 🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 || Micro Ace A7442
-🛄 | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌ || Tomytec 328926 🆕
-🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7443
-🟨 | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️ | ✔️✔️ | 🟥 || Kato 10-1369
+✅ | キハE131<br>キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌<br>❌ | ♓♓<br>♓♓ | Tomytec 328926 🆕
+🟨 | キハE131<br>キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥<br>🟥 || Micro Ace A7443
+🟨 | HB-E301<br>HB-E302 | 3 | Resort Asunaro | Ⓜ️ | ✔️✔️ | 🟥<br>🟥 || Kato 10-1369
 
 ## Track maintenance
 

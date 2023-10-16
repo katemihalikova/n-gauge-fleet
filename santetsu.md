@@ -31,8 +31,8 @@ For symbol explanation see [Readme](./readme.md).
 ⬜ | _~~1106~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92143 (old chassis)
 ⬜ | _~~1107~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92143 (old chassis)
 ||
-🛄 | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92137 (old chassis)
-🛄 | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92137 (old chassis)
+✅ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
+✅ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
 ||
 ✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)
 ||
@@ -65,7 +65,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 701 | Regular | Ⓜ️9 | ✔️✔️ | ✅ | ♋♋ | Tomix 92189
 ✅ | 702 | Thank you from Kamaishi | Ⓜ️13 | ✔️✔️ | ✅ | ♋♋ | Tomix 97924
 ✅ | 703 | Regular | ⚪ | ❌✔️ | ✅ | ♋♋ | Tomix 92189
-✅ | 704 | Regular | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 92189
+✅ | 704 | Regular | ⚪ | ❌✔️ | ✴️ | ♋♋ | Tomix 92189
 ✅ | 705 | Regular | Ⓜ️9 | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
 ✅ | 706 | Iwate × Geodude | Ⓜ️13 | ✔️✔️ | ✅ | ♋♋ | Tomix 8601
 🛄 | 711 | Regular | Ⓜ️13 | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
