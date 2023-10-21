@@ -43,9 +43,9 @@ For symbol explanation see [Readme](./readme.md). Long codes starting with 7 are
 
 🧰 | Number | Livery | 💡 | Comes from
 --- | --- | --- | --- | ---
-⬛<br>✅ | A(WR-S)1223<br>A1223 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup><br>Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥<br>🟥 | Pirata 9201<br>Kato 10-1413 · 7074044
-✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ✴️ | Kato 10-1414 · 7074045
-✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049
+⬛<br>✅ | A(WR-S)1223<br>A1223 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup><br>Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️<br>🟥 | Pirata 9201<br>Kato 10-1413 · 7074044
+✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1414 · 7074045
+✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1514 · 7074048 or 7074049
 ✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
 ⬜ | As1256 | Blue - Arosa Express | 🟥 | Pirata 9211
 ⬜ | Bt1703 | Blue - Arosa Express | ❓ | Pirata 9215
@@ -53,13 +53,13 @@ For symbol explanation see [Readme](./readme.md). Long codes starting with 7 are
 ⬜ | B2315 | Blue - Arosa Express | 🟥 | Pirata 9214
 ⬜ | B2317 | Barenland | 🟥 | Pirata 9213
 ⬜ | B2319 | Blue - Arosa Express | 🟥 | Pirata 9210
-✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
+✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044
 ✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049
-✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
-✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 · 7074044
+✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044
+✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044
 ✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
 ⬜ | BD2481 | Blue - Arosa Express | ❓ | Pirata 9212
-✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ✴️ | Kato 5279-1 · 7074060
+✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 5279-1 · 7074060
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
 
 <!--
@@ -79,8 +79,8 @@ For symbol explanation see [Readme](./readme.md). Long codes starting with 7 are
 
 🧰 | Number | 💡 | Comes from
 --- | --- | --- | ---
-✅ | Api1301 | ✴️ | Kato 10-1655 · 7074056 or Kato 5250-9 · 7074061
-✅ | Ap1302 | ✅ | Kato 10-1656 · 7074057
+✅ | Api1301 | ✅ | Kato 10-1655 · 7074056 or Kato 5250-9 · 7074061
+✅ | Ap1302 | ⏸️ | Kato 10-1656 · 7074057
 ✅ | Bps2512 | ✅ | Kato 10-1655 · 7074056
 ✅ | Bp2522 | ✅ | Kato 10-1655 · 7074056
 ✅ | Bp2525 | ✅ | Kato 10-1656 · 7074057

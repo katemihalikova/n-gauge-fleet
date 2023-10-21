@@ -6,11 +6,11 @@ For symbol explanation see [Readme](./readme.md).
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
-✅ | 101 | Kitto Zutto Go | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 2651 + new chassis
-✅ | 102 | Kitto Zutto 3 Go | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 2656
+✅ | 101 | Kitto Zutto Go | Ⓜ️ | ❌❌ | ⏸️ | ♋♋ | Tomix 2651 + new chassis
+✅ | 102 | Kitto Zutto 3 Go | Ⓜ️ | ❌❌ | ⏸️ | ♋♋ | Tomix 2656
 || _~~103~~_ <sup>(→ 1103)</sup> | Regular<br>_converted 2001/2_
 || _~~104~~_ | Regular<br>_scrapped 2011_
-✅ | 105 | Kitto Zutto 2 Go | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 2652 + new chassis
+✅ | 105 | Kitto Zutto 2 Go | ⚪ | ❌❌ | ✅ | ♋♋ | Tomix 2652 + new chassis
 || _~~106~~_ <sup>(→ 1106)</sup> | Regular<br>_converted 2001/2_
 || _~~107~~_ <sup>(→ 1107)</sup> | Regular<br>_converted 2001/2_
 || _~~108~~_ | Regular<br>_scrapped 1994_
@@ -18,14 +18,14 @@ For symbol explanation see [Readme](./readme.md).
 || _~~110~~_ <sup>(→ 2110)</sup> | Regular<br>_converted 2002_
 ||
 || _~~201~~_ <sup>(→ 1201)</sup> | Regular<br>_converted 2000/1_
-✅ | 202 | Regular | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
+✅ | 202 | Regular | ⚪ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
 || _~~203~~_ | Regular<br>_scrapped 2011_
 || _~~204~~_ | Regular<br>_scrapped 1994_
 || _~~205~~_ | Regular<br>_scrapped 2011_
 || _~~206~~_ <sup>(→ 1206)</sup> | Regular<br>_converted 2000/1_
-✅ | 207 | Regular | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
-✅ | 208 | Regular | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
-✅ | 209 | Regular | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92194
+✅ | 207 | Regular | ⚪ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
+✅ | 208 | Regular | ⚪ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
+✅ | 209 | Regular | Ⓜ️ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
 ||
 || _~~1103~~_ <sup>(← 103)</sup> | Regular<br>_scrapped 2013_
 ⬜ | _~~1106~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92143 (old chassis)
@@ -34,7 +34,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
 ✅ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
 ||
-✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)
+✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | Ⓜ️ | ❌❌ | ✅ | ♋♋ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)
 ||
 ✅ | 207 | Regular - **[#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/)** | ⚪ | ❌ | 🟥 | ⬛⬛ | Tomix 2654
 
@@ -63,11 +63,11 @@ For symbol explanation see [Readme](./readme.md).
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
 ✅ | 701 | Regular | Ⓜ️9 | ✔️✔️ | ✅ | ♋♋ | Tomix 92189
-✅ | 702 | Thank you from Kamaishi | Ⓜ️13 | ✔️✔️ | ✅ | ♋♋ | Tomix 97924
-✅ | 703 | Regular | ⚪ | ❌✔️ | ✅ | ♋♋ | Tomix 92189
-✅ | 704 | Regular | ⚪ | ❌✔️ | ✴️ | ♋♋ | Tomix 92189
-✅ | 705 | Regular | Ⓜ️9 | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
-✅ | 706 | Iwate × Geodude | Ⓜ️13 | ✔️✔️ | ✅ | ♋♋ | Tomix 8601
+✅ | 702 | Thank you from Kamaishi | Ⓜ️13 | ✔️✔️ | ⏸️ | ♋♋ | Tomix 97924
+✅ | 703 | Regular | ⚪ | ❌✔️ | ⏸️ | ♋♋ | Tomix 92189
+✅ | 704 | Regular | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 92189
+✅ | 705 | Regular | Ⓜ️9 | ✔️✔️ | ✅ | ♋♋ | Tomix 92189
+✅ | 706 | Iwate × Geodude | Ⓜ️13 | ✔️✔️ | ⏸️ | ♋♋ | Tomix 8601
 🛄 | 711 | Regular | Ⓜ️13 | ✔️✔️ | 🟥 | ♋♋ | Tomix 92189
 🛄 | 712 | Regular | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 92189
 ⬜ | 713 | Regular ||| 🟥 | ♋♋ | Tomix 98127

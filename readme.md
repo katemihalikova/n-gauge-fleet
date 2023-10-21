@@ -31,7 +31,7 @@ Overview of my N gauge fleet
   * ✔️ Equipped out of the box (or box contains all parts)
   * 🟥 Not equipped out of the box but can be added using official extra parts
   * ✅ Equipped with official extra parts
-  * ✴️ Equipped with TOG2 battery interior lights
+  * ⏸️ Equipped with TOG2 battery interior lights
   * ❌ Not supported (except DIY)
   * ☑️ Equipped using DIY
   * ❓ Unknown
@@ -40,8 +40,9 @@ Overview of my N gauge fleet
   * ♋ Tomix TN Knuckle (body mounted)
   * 🅾️ Kato TN Shibata (body mounted)
   * 🆑 Kato Knuckle (body mounted)
-  * 🔁 Kato dummy Shibata with hook (body mounted)
-  * ⏯️ Kato dummy central buffer coupling with hook (body mounted)
+  * 🔁 Kato Shibata with hook (body mounted)
+  * ⏯️ Kato central buffer coupling with hook (body mounted)
   * ⬛ Dummy Knuckle (body mounted)
+  * 🔲 Dummy Shibata (body mounted)
   * ✴️ Rapido/Arnold (bogie mounted)
   * ✳️ Rapido/Arnold (body mounted)

@@ -48,8 +48,8 @@ For symbol explanation see [Readme](./readme.md).
 || 22 | Regular | 盛モリ | Ginga dreamline
 || 23 | Regular | 盛モリ | Ginga dreamline
 ✅ | 24 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97941
-🟨 | 25 | Regular | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057
-🟨 | 26 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057
+🟨 | 25 | Regular | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
+🟨 | 26 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 ✅ | 27 | Regular | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057
 ✅ | 28 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 || _~~29~~_ <sup>(→ キハ103-711)</sup> | _converted 2017_
@@ -147,7 +147,7 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || 125
 || 126
 || 127
-✅ | 128 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 6043-1
+✅ | 128 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6043-1
 ✅ | 129 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔁♓ (DIY) | Kato 6044-1
 ⬜ | 130 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 6043
 || 131
@@ -156,11 +156,11 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || 134
 || 135
 || 136
-✅ | 137 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 6044
+✅ | 137 | Regular | 水スイ | ⚪ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6044
 || 138
 || 139
 ||
-✅ | 701 <sup>(← 105)</sup> | Tohoku Emotion | 盛ハヘ | ⚪ | ❌✔️ | 🟥 | 🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
+✅ | 701 <sup>(← 105)</sup> | Tohoku Emotion | 盛ハヘ | ⚪ | ❌✔️ | ⏸️ | 🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 || キハ112-711 <sup>(← 108)</sup> | HIGH RAIL 1375
 
 ### 200 subseries (sliding door, 970mm door step, plate skirt, 8 windows)
@@ -259,7 +259,7 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 || _~~2~~_ <sup>(→ 701)</sup> | _converted 2013_
 || 3
 ||
-✅ | 701 <sup>(← 2)</sup> | Tohoku Emotion | 盛ハヘ | Ⓜ️ | ✔️❌ | 🟥🟥 | 🔁🔁🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
+✅ | 701 <sup>(← 2)</sup> | Tohoku Emotion | 盛ハヘ | Ⓜ️ | ✔️❌ | ⏸️⏸️ | 🔁🔁🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 
 <span title="RoundHouse">Katoᴿᴴ</span> 10-936 incorrectly uses 100 subseries mold for 701.
 
@@ -282,11 +282,11 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 || 113
 || 114
 ✅ | 115 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-1165
-✅ | 116 | Regular | 盛モリ | ⚪ | ✔️✔️ | ✴️✴️ | 🔁🔁🔁🔁 | Kato 10-1166
+✅ | 116 | Regular | 盛モリ | ⚪ | ✔️✔️ | ⏸️⏸️ | 🔁🔁🔁🔁 | Kato 10-1166
 || 117
 || 118
 ⬜ | 119 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-347
-✅ (only キハ112) | 120 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-348
+⬜ (キハ111)<br>✅ (キハ112) | 120 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-348
 || 121
 
 ### 150 subseries (20.5m, sliding door, 1036mm door step, toilet in the middle, plate skirt, 8 windows)
@@ -354,9 +354,9 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 🟨 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7442
 🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 || Micro Ace A7442
-✅ | キハE131<br>キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌<br>❌ | ♓♓<br>♓♓ | Tomytec 328926 🆕
-🟨 | キハE131<br>キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥<br>🟥 || Micro Ace A7443
-🟨 | HB-E301<br>HB-E302 | 3 | Resort Asunaro | Ⓜ️ | ✔️✔️ | 🟥<br>🟥 || Kato 10-1369
+✅ | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926 🆕
+🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 || Micro Ace A7443
+🛄<br>⬜ | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥 || Micro Ace A9592 <br>Kato 10-1369
 
 ## Track maintenance
 
