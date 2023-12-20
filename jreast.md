@@ -345,8 +345,8 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
-🛄 | C58 | 239 | 2014 appearance | Ⓜ️ | ✔️❌ | ❌ || Tomix 2009
-🛄 | キハ143<br>キサハ144<br>キサハ144<br>キハ142 | 701<br>701<br>702<br>701 | SL Ginga blue gradient | Ⓜ️ | ✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥 || Tomix 98522
+✅ | C58 | 239 | 2014 appearance | Ⓜ️ | ☀️: ✔️✔️<br>🚨: ❌❌ | ❌ | ⬛♋ | Tomix 2009
+✅ | キハ143<br>キサハ144<br>キサハ144<br>キハ142 | 701<br>701<br>702<br>701 | SL Ginga blue gradient | Ⓜ️ | ✔️✔️ | ⏸️<br>⏸️<br>⏸️<br>⏸️ | ♋✴️<br>✴️✴️<br>✴️✴️<br>✴️♋ | Tomix 98522
 
 ## Other
 
@@ -356,10 +356,10 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.
 🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 || Micro Ace A7442
 ✅ | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926 🆕
 🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 || Micro Ace A7443
-🛄<br>⬜ | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥 || Micro Ace A9592 <br>Kato 10-1369
+✅<br>⬜ | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥 | ♓♓♓♓<br>​ | Micro Ace A9592 <br>Kato 10-1369
 
 ## Track maintenance
 
-🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+🧰 | Series | Nr | Livery | 🚃 | 🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
-🛄 | マヤ34 | 2002 | white / ligh blue | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A0301
+✅ | マヤ34 | 2002 | white / ligh blue | Ⓜ️ | ✔️✔️ | ⏸️ | ✴️✴️ | Micro Ace A0301
