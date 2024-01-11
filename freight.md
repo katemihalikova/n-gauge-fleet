@@ -70,9 +70,14 @@ For symbol explanation see [Readme](./readme.md).
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 285158 | brown, gray roof | Kato 10-1738 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 285289 | brown, gray roof | Kato 10-1738 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 285926 | brown, gray roof | Kato 10-1738 | ___60___
+⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 286570 | brown, gray roof ❓ | Tomix 98857 🆕 | ___60___
+⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 286579 | brown, gray roof ❓ | Tomix 98857 🆕 | ___60___
+⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 286688 | brown, gray roof ❓ | Tomix 98857 🆕 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 286871 | brown, gray roof | Kato 10-1738 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 287274 | brown, gray roof | Kato 10-1738 | ___60___
 ✅ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 287419 | brown, gray roof | Tomix 92599 | ___60___
+⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 287819 | brown, gray roof ❓ | Tomix 98857 🆕 | ___60___
+⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380001 | blue | Tomix 98857 🆕 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380007 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380014 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380049 | blue | Tomix 92977 | ___60___
@@ -98,6 +103,7 @@ For symbol explanation see [Readme](./readme.md).
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380288 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380292 | blue | Kato 10-1740 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380297 | blue | Kato 10-1740 | ___60___
+⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380303 | blue | Tomix 98857 🆕 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380309 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380313 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380314 | blue | Tomix 92977 | ___60___
@@ -105,12 +111,13 @@ For symbol explanation see [Readme](./readme.md).
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380363 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380368 | blue | Kato 10-1740 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380372 | blue | Tomix 92977 | ___60___
-⬛<br>⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380379 | blue | Tomix 92977<br>Kato 10-1740 | ___60___
+⬛<br>⬛<br>⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380379 | blue | Tomix 92977<br>Kato 10-1740<br>Tomix 98857 🆕 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380381 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380385 | blue | Kato 10-1740 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380398 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380417 | blue | Kato 10-1740 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380419 | blue | Tomix 92977 | ___60___
+⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380444 | blue | Tomix 98857 🆕 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380446 | blue | Kato 10-1740 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380448 | blue | Tomix 92977 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380460 | blue | Tomix 92977 | ___60___
