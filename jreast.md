@@ -154,7 +154,7 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || _~~132~~_ | _scrapped 2017_
 || 133
 || 134
-|| 135
+⬜<br>⬜ | 135 | Metropolitan Area Color || ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 || Greenmax 50774 🆕<br>Greenmax 50775 🆕
 || 136
 ✅ | 137 | Regular | 水スイ | ⚪ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6044
 || 138
@@ -186,7 +186,7 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || 211
 || 212
 || 213
-⬜ | 214 | Regular | ⚪ | ✔️🟥 | 🟥 | Greenmax 50749 🆕
+⬜ | 214 | Regular | ⚪ | ✔️🟥 | 🟥 | Greenmax 50749
 || 215
 || 216
 || 217
@@ -196,26 +196,26 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 ⬜ | 221 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30545
 ⬜ | 222 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30545
 
-Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars ???.  
+Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 214, 215, 216, 217, 218, 219, 220.  
 
 #### Cars rebuilt from 300 subseries (20.5m)
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-⬜<br>⬜<br>⬜ | 223 <sup>(← 301)</sup> | Regular<br>Regular<br>Tadami Line (White, Green Stripes) | ⚪<br>Ⓜ️<br>Ⓜ️ | ✔️❌<br>❌✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520<br>Greenmax 50749 🆕
-⬜<br>⬜ | 224 <sup>(← 302)</sup> | Regular | ⚪<br>⚪ | ❌✔️<br>✔️❌ | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31520
-⬜ | 225 <sup>(← 303)</sup> | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31744 🆕
+⬜<br>⬜<br>⬜ | 223 <sup>(← 301)</sup> | Regular<br>Regular<br>Tadami Line (White, Green Stripes) | ⚪<br>Ⓜ️<br>Ⓜ️ | ✔️❌<br>❌✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520<br>Greenmax 50749
+⬜<br>⬜<br>⬜ | 224 <sup>(← 302)</sup> | Regular | ⚪<br>⚪<br>Ⓜ️ | ❌✔️<br>✔️❌<br>🟥✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30765<br>Greenmax 31520<br>Greenmax 50774 🆕
+⬜ | 225 <sup>(← 303)</sup> | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31744
 ⬜ | 226 <sup>(← 304)</sup> | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30587
 || 227 <sup>(← 305)</sup>
 || 228 <sup>(← 306)</sup>
 ⬜ | 229 <sup>(← 307)</sup> | Regular | ⚪ | ❌✔️ | 🟥 | Greenmax 30587
-⬜ | 230 <sup>(← 308)</sup> | Regular | Ⓜ️ | ✔️🟥 | 🟥 | Greenmax 31744 🆕
+⬜ | 230 <sup>(← 308)</sup> | Regular | Ⓜ️ | ✔️🟥 | 🟥 | Greenmax 31744
 ⬜ | 231 <sup>(← 309)</sup> | Voiture Amitié | ⚪ | ❌✔️ | 🟥 | Greenmax 50587
-⬜ | 232 <sup>(← 310)</sup> | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 31745 🆕
+⬜ | 232 <sup>(← 310)</sup> | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 31745
 ⬜ | 233 <sup>(← 311)</sup> | Voiture Amitié | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 50587
 ⬜<br>⬜ | 234 <sup>(← 312)</sup> | Regular, Four Seasons Wrapping | Ⓜ️<br>⚪ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 | Greenmax 50588<br>Greenmax 50589
-⬜ | 235 <sup>(← 313)</sup> | Oykot Cream | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30589<br>or 30459 or 31746 🆕
-⬜ | 236 <sup>(← 314)</sup> | Oykot Red | ⚪ | ❌✔️ | 🟥 | Greenmax 30589<br>or 30459 or 31746 🆕
+⬜ | 235 <sup>(← 313)</sup> | Oykot Cream | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30589<br>or 30459 or 31746
+⬜ | 236 <sup>(← 314)</sup> | Oykot Red | ⚪ | ❌✔️ | 🟥 | Greenmax 30589<br>or 30459 or 31746
 
 #### Third batch (20.5m)
 
