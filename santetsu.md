@@ -4,6 +4,22 @@ For symbol explanation see [Readme](./readme.md).
 
 ## 36-100, 36-200, 36-1100, 36-1200, 36-2100
 
+### New release
+
+🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | :-: | :-: | :-: | :-: | ---
+🛄 | 101 | Regular 40th anniversary | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 97961 🆕
+|| 102
+|| 105
+|| 109
+||
+🛄 | 202 | Regular 40th anniversary | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 97961 🆕
+|| 207
+|| 208
+|| 209
+
+### Old release
+
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
 ✅ | 101 | Kitto Zutto Go | Ⓜ️ | ❌❌ | ⏸️ | ♋♋ | Tomix 2651 + new chassis
@@ -36,7 +52,7 @@ For symbol explanation see [Readme](./readme.md).
 ||
 ✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | Ⓜ️ | ❌❌ | ✅ | ♋♋ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)
 ||
-✅ | 207 | Regular - **[#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/)** | ⚪ | ❌ | 🟥 | ⬛⬛ | Tomix 2654
+✅ | 207 | Regular - **[#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/)** | ⚪ | ❌❌ | 🟥 | ⬛⬛ | Tomix 2654
 
 ## 36-300 + 36-400
 
