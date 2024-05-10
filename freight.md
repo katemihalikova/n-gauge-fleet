@@ -331,10 +331,15 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 ⬜ | 8620 | 68656 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
 🟥 | 8620 | 78646 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1 + 10-1599
 ||
-⬜ | DE10 | 1188 | Dark blue | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
-⬜ | DE10 | 1191 | Dark blue | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
-✅ | DE10 | 1575 | Dark blue | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
-✅ | DE10 | 1581 | Dark blue | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+⬜ | DE10 | 1188 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+⬜ | DE10 | 1191 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+✅ | DE10 | 1575 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+✅ | DE10 | 1581 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+||
+⬜ | DD51 | 856 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
+✅ | DD51 | 1147 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
+⬜ | DD51 | 1165 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
+⬜ | DD51 | 1166 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
 
 ## Shorty locomotives
 
