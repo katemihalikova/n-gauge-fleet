@@ -49,7 +49,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ⬛<br>✅ | A(WR-S)1223<br>A1223 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup><br>Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥<br>⏸️ | Pirata 9201<br>Kato 10-1413 · 7074044
 ✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1414 · 7074045
 ✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1514 · 7074048 or 7074049 or 7074077
-🟨 | A1232 | Regular | 🟥 | Kato 7074078
+⬜ | A1232 | Regular | 🟥 | Kato 7074078
 ✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045 or 7074078
 ⬛ | As1256 | Blue - Arosa Express | 🟥 | Pirata 9211
 ⬛ | Bt1703 | Blue - Arosa Express | ❓ | Pirata 9215
@@ -60,12 +60,12 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044
 ✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049 or 7074078
 ✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044 or 7074077
-🟨 | B2351 | Regular | 🟥 | Kato 7074077
+⬜ | B2351 | Regular | 🟥 | Kato 7074077
 ✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044
-🟨 | B2354 | Regular | 🟥 | Kato 7074077
+⬜ | B2354 | Regular | 🟥 | Kato 7074077
 ✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
 ⬛ | BD2481 | Blue - Arosa Express | ❓ | Pirata 9212
-🟨 | DS4222 | Regular | 🟥 | Kato 7074073 🆕
+⬜ | DS4222 | Regular | 🟥 | Kato 7074073 🆕
 ✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 5279-1 · 7074060
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
 
@@ -160,5 +160,5 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ### Accessories
 
 * ✅ container Coop, 2pcs - WAB26 (strawberry) + WAB30 (lettuce) (Kato 23-590A · 7074103)
-* ⬜ container Swiss Post, 2pcs - 747 (landesweit) + 850 (bei Sonne und Regen) (Kato 23-591A · 7074104)
+* 🟨 container Swiss Post, 2pcs - 747 (landesweit) + 850 (bei Sonne und Regen) (Kato 23-591A · 7074104)
 * 🟨 wooden logs, 3 pcs for 1 car (Kato 23-550 · 7074108) 🆕

@@ -23,7 +23,7 @@ Overview of my N gauge fleet
   * 🟥 Want
   * 🟨 Maybe want
   * ⬜ Nice to have but not seeking
-  * ⬛ Don't want at all (out of interest zone)
+  * ⬛ Don't want at all (out of interest zone or already have enough of these)
 * 🚃 Motorization
   * Ⓜ️ Motorized (M car - can move on its own)
   * ⚪ Non-motorized (T car - can't move on its own)

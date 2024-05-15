@@ -195,7 +195,7 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | --- | ---
 ✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
 ✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
-⬜ | <span title="Wafu 29500">ワフ29500</span> | 29725 | brake van ||| ❓ | ❌ | Kato 10-1158 | _50_ + chimney
+⬛ | <span title="Wafu 29500">ワフ29500</span> | 29725 | brake van ||| ❓ | ❌ | Kato 10-1158 | _50_ + chimney
 ✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 8030 or 10-012 | _50_ + chimney
 ✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 10-1599 | _50_ + chimney
 
@@ -221,15 +221,15 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 ✅ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 73825 || Tomix 98787 | ___60 low___
 ✅ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 74761 || Tomix 98713 | ___60 low___
 ✅ | <sup><sub>　</sub></sup><span title="Tora 70000">トラ70000</span> | 74778 || Tomix 2713 or 90096 | ___60 low___
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91395 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91395 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ✅ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91594 | wire mesh fence | Kato 8062 | _50_ + cover
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91648 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91727 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91922 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91924 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91925 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91938 | wire mesh fence | Kato 10-1377 | _50_ + cover
-⬜ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91943 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91648 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91727 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91922 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91924 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91925 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91938 | wire mesh fence | Kato 10-1377 | _50_ + cover
+⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91943 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ✅ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 92459 | wire mesh fence | Kato 8062 | _50_ + cover
 
 ### Accessories
@@ -237,7 +237,7 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 * ✅ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover with box underneath, 2pcs (Kato Z08-0626)
 * ✅ <span title="Tora 45000/55000">トラ45000/55000</span> sheet cover, 2pcs (Kato Z08-0654)
 * ✅ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 2 pcs (Kato 11-561)
-* ⬜ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 10 pcs (Kato 11-562)
+* ⬛ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 10 pcs (Kato 11-562)
 
 ## Tank cars
 
@@ -246,11 +246,11 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2500 | gray, LP gas, Tomii Kosan | Tomix 2747 | ___60___
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2503 | silver, gasoline, Tomii Kosan | Tomix 2723 or 90096 | ___60___
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2550 | yellow, liquid chlorine, Tomii Kosan | Tomix 2724 | ___60___
-⬜ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | ___60___
-⬜ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2988 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
+⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | ___60___
+⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2988 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 3527 | white, liquid ammonia, Tomii Kosan | Tomix 2748 | ___60___
-⬜ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
-⬜ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 10525 | yellow | Kato 10-012 | ___60___
+⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
+⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 10525 | yellow | Kato 10-012 | ___60___
 ✅ | <span title="Mimu 100"><sup><sub><strong>ロ</strong></sub></sup>ミム100</span> | 148 || Tomix 8720 | ___60___
 ✅ | <span title="Ya 500"><sup><sub><strong>ロ</strong></sub></sup>ヤ500</span> | 500 || Tomix 8721 | ___60___
 
@@ -324,22 +324,22 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 
 🧰 | Series | Number | Livery | 🚃 | ☀️ | 🚨 | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | ---
-⬜ | 8620 | 28643 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
+⬛ | 8620 | 28643 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
 ✅ | 8620 | 38698 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1 + 10-1599
 🟨 | 8620 | 48685 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
-⬜ | 8620 | 58698 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
-⬜ | 8620 | 68656 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
-🟥 | 8620 | 78646 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1 + 10-1599
+⬛ | 8620 | 58698 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
+⬛ | 8620 | 68656 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1
+🛄 | 8620 | 78646 | Black | Ⓜ️ | ✔️ | ❌ | Kato 2028-1 + 10-1599
 ||
-⬜ | DE10 | 1188 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
-⬜ | DE10 | 1191 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+✅ | DE10 | 1188 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
+⬛ | DE10 | 1191 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
 ✅ | DE10 | 1575 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
 ✅ | DE10 | 1581 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Tomix 92404
 ||
-⬜ | DD51 | 856 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
+⬛ | DD51 | 856 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
 ✅ | DD51 | 1147 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
-⬜ | DD51 | 1165 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
-⬜ | DD51 | 1166 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
+⬛ | DD51 | 1165 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
+⬛ | DD51 | 1166 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | Kato 7008-J
 
 ## Shorty locomotives
 
