@@ -40,7 +40,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ⬜ | 3502 | Regular | 🟥 | Kato 10-1318 · 7074041
 🟨 | 3506 | Regular "Anna von Planta" | 🟥 | Kato 10-1273 (v2) · 7074071
 ✅ | 3508 | Regular | 🟥 | Kato 10-1273 (v1) · 7074035
-🛄 | 3510 | ABB | 🟥 | Kato 7074075 🆕
+✅ | 3510 | ABB | 🟥 | Kato 7074075 🆕
 
 ## EW I
 
