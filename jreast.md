@@ -357,8 +357,8 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 2
 ⬜ | キハ52-100 | 151 | Morioka area / Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
 ⬜ | キハ52-100 | 152 | Morioka area / Akaoni | ⚪ | ❓✔️ | 🟥 | ♋♋ | Tomix 98019
 🛄 | キハ52-100 | 154 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 9403
-🟨 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7442
-🟨 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 || Micro Ace A7442
+🛄 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7442
+🛄 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 || Micro Ace A7442
 ✅ | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926 🆕
 🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 || Micro Ace A7443
 ✅<br>⬛ | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥 | ♓♓♓♓<br>​ | Micro Ace A9592 <br>Kato 10-1369
