@@ -7,7 +7,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
 ⬜<br>✅ | 618 | Edelweiss _(Bergün/Bravuogn)_<br>Regular with large logo _(Bergün/Bravuogn)_ | Kato 7074052<br>Kato 3102-3 · 7074066
-⬜ | 620 | Rhb Club _(Zernez)_ | Kato 7074074 🆕
+⬜ | 620 | Rhb Club _(Zernez)_ | Kato 3102-4 · 7074074 🆕
 ✅ | 622 | Hakone Tozan | Kato 10-1514 · 7074048
 ⬛<br>⬜ | 623 | Glacier Express _(Bonaduz)_<br>125 Years of RhB | Kato 3102-2 · 7074053<br>Kato 7074050
 🟥 | 627 | Chur - Arosa 100th Anniversary | Kato 7074051
@@ -35,12 +35,12 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 
 🧰 | Number | Livery | 💡 | Comes from
 --- | --- | --- | :-: | ---
-⬛ | 3500 | Blue - Arosa Express (fictional) | 🟥 | Kato 7074076 🆕
+⬛ | 3500 | Blue - Arosa Express (fictional) | 🟥 | Kato 7074076
 ⬜ | 3501 | Regular | 🟥 | Kato 10-025 · 7074036
 ⬜ | 3502 | Regular | 🟥 | Kato 10-1318 · 7074041
 🟨 | 3506 | Regular "Anna von Planta" | 🟥 | Kato 10-1273 (v2) · 7074071
 ✅ | 3508 | Regular | 🟥 | Kato 10-1273 (v1) · 7074035
-✅ | 3510 | ABB | 🟥 | Kato 7074075 🆕
+✅ | 3510 | ABB | 🟥 | Kato 7074075
 
 ## EW I
 
@@ -65,7 +65,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ⬜ | B2354 | Regular | 🟥 | Kato 7074077
 ✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
 ⬛ | BD2481 | Blue - Arosa Express | ❓ | Pirata 9212
-⬜ | DS4222 | Regular | 🟥 | Kato 7074073 🆕
+⬜ | DS4222 | Regular | 🟥 | Kato 5279-2 · 7074073 🆕
 ✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 5279-1 · 7074060
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
 
@@ -130,7 +130,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 --- | --- | :-: | ---
 ✅ | B2096 | ❌ | Kato 10-1656 · 7074057
 ✅ | B2097 | ❌ | Kato 5253 · 7074058
-🛄 | B2101 | ❌ | Kato 5253-2 🆕 · 7074072 🆕
+🛄 | B2101 | ❌ | Kato 5253-2 · 7074072
 ✅ | WR3811 | ✔ | Kato 5280 · 7074054
 
 ## Freight
