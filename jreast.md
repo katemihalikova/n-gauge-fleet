@@ -196,7 +196,7 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 ⬛ | 221 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30545
 ⬛ | 222 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30545
 
-Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 214, 215, 216, 217, 218, 219, 220.  
+Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 214, 215, 216, 217, 218, 219, 220.
 
 #### Cars rebuilt from 300 subseries (20.5m)
 
@@ -352,18 +352,18 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 2
 
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
-🛄 | キハ52-100 | 144 | Morioka area / Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
-🛄 | キハ52-100 | 145 | Morioka area / Akaoni | ⚪ | ❓✔️ | 🟥 | ♋♋ | Tomix 98019
+✅ | キハ52-100 | 144 | Morioka area / Akaoni | ⚪ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
+✅ | キハ52-100 | 145 | Morioka area / Akaoni | Ⓜ️ | ❓✔️ | 🟥 | ♋♋ | Tomix 98019
 ⬜ | キハ52-100 | 151 | Morioka area / Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
 ⬜ | キハ52-100 | 152 | Morioka area / Akaoni | ⚪ | ❓✔️ | 🟥 | ♋♋ | Tomix 98019
-🛄 | キハ52-100 | 154 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 9403
-🛄 | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 || Micro Ace A7442
-🛄 | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 || Micro Ace A7442
-✅ | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926 🆕
-🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 || Micro Ace A7443
+✅ | キハ52-100 | 154 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 9403
+✅ | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 | 🔲✳️ | Micro Ace A7442
+✅ | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 | ✳️🔲 | Micro Ace A7442
+✅ | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926
+🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔲✳️✳️🔲 | Micro Ace A7443
 ✅<br>⬛ | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥 | ♓♓♓♓<br>​ | Micro Ace A9592 <br>Kato 10-1369
 ⬛ | クハ700-1000 +<br>クモハ701-1000 | 1008 | Morioka area | Ⓜ️ | ✔️ | ❓ || Micro Ace A4940
-🛄 | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556
+✅ | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556
 
 ## Track maintenance
 
