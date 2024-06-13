@@ -39,6 +39,7 @@ Overview of my N gauge fleet
   * ♓ Tomix TN Shibata (body mounted)
   * ♋ Tomix TN Knuckle (body mounted)
   * 🅾️ Kato TN Shibata (body mounted)
+  * 🅱️ Kato Knuckle (bogie mounted)
   * 🆑 Kato Knuckle (body mounted)
   * 🔁 Kato Shibata with hook (body mounted)
   * ⏯️ Kato central buffer coupling with hook (body mounted)
