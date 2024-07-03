@@ -62,10 +62,10 @@ For symbol explanation see [Readme](./readme.md).
 || 36 | Regular | 盛イチ | Dragon rail
 || 37 | Regular | 盛イチ | Dragon rail
 || _~~38~~_ | _scrapped 2011_
-🛄 | 39 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
-|| 40 | Regular | 盛イチ | Dragon rail
-|| 41 | Regular | 盛イチ | Dragon rail
-⬜ | 42 | Regular | 盛イチ | Dragon rail
+|| _~~39~~_ | _transferred 2024_
+|| _~~40~~_ | _transferred 2024_
+|| _~~41~~_ | _transferred 2024_
+🛄 | 42 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 || 43 | Regular | 盛イチ | Dragon rail
 || 44 | Regular | 盛イチ | Dragon rail
 ✅ | 45 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057

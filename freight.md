@@ -339,7 +339,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 ✅ | DE10 | 1581 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ✳️✳️ | Tomix 92404
 ||
 ⬛ | DD51 | 856 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ✳️✳️ | Kato 7008-J
-🟨 | DD51 | 889 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ✳️✳️ | Tomix 2259 🆕
+🛄 | DD51 | 889 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ✳️✳️ | Tomix 2259 🆕
 ⬛ | DD51 | 890 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ✳️✳️ | Tomix 2259 🆕
 ⬛ | DD51 | 893 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ✳️✳️ | Tomix 2259 🆕
 ✅ | DD51 | 1147 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ✳️✳️ | Kato 7008-J
