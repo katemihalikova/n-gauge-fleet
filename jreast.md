@@ -154,7 +154,7 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || _~~132~~_ | _scrapped 2017_
 || 133
 || 134
-⬛<br>⬛ | 135 | Metropolitan Area Color || ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 || Greenmax 50774 🆕<br>Greenmax 50775 🆕
+⬛<br>⬛ | 135 | Metropolitan Area Color | 仙コリ | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 || Greenmax 50774 🆕<br>Greenmax 50775 🆕
 || 136
 ✅ | 137 | Regular | 水スイ | ⚪ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6044
 || 138
