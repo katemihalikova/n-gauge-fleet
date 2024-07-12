@@ -190,13 +190,13 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || 215
 || 216
 || 217
-⬛ | 218 | Regular | Ⓜ️ | ✔️🟥 | 🟥 | Greenmax 31801 🆕
-⬛ | 219 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 31802 🆕
-⬛ | 220 | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31801 🆕
+⬛ | 218 | Regular | Ⓜ️ | ✔️🟥 | 🟥 | Greenmax 31801
+⬛ | 219 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 31802
+⬛ | 220 | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31801
 ⬛ | 221 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30545
 ⬛ | 222 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30545
 
-Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 214, 215, 216, 217, 218, 219, 220.
+Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 214, 215, 216, 217, 218, 219, 220.
 
 #### Cars rebuilt from 300 subseries (20.5m)
 
@@ -235,20 +235,22 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 2
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-|| _~~301~~_ <sup>(→ 223)</sup>
-|| _~~302~~_ <sup>(→ 224)</sup>
+🟥 | _~~301~~_ <sup>(→ 223)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | Greenmax 50780 🆕
+🟥 | _~~302~~_ <sup>(→ 224)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | Greenmax 50780 🆕
 ⬜ | _~~303~~_ <sup>(→ 225)</sup> | Akita Relay | ⚪ | ❌✔️ | 🟥 | Greenmax 50586
 || _~~304~~_ <sup>(→ 226)</sup>
 ⬜ | _~~305~~_ <sup>(→ 227)</sup> | Akita Relay | ⚪ | ❌✔️ | 🟥 | Greenmax 50585
-|| _~~306~~_ <sup>(→ 228)</sup>
-|| _~~307~~_ <sup>(→ 229)</sup>
+🟥 | _~~306~~_ <sup>(→ 228)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | Greenmax 50780 🆕
+🟥 | _~~307~~_ <sup>(→ 229)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | Greenmax 50780 🆕
 ⬜ | _~~308~~_ <sup>(→ 230)</sup> | Akita Relay | Ⓜ️ | ❌❌ | 🟥 | Greenmax 50585
 || _~~309~~_ <sup>(→ 231)</sup>
 ⬜ | _~~310~~_ <sup>(→ 232)</sup> | Akita Relay | ⚪ | ❌❌ | 🟥 | Greenmax 50586
 ⬜ | _~~311~~_ <sup>(→ 233)</sup> | Akita Relay | ⚪ | ❌❌ | 🟥 | Greenmax 50585
 ⬜ | _~~312~~_ <sup>(→ 234)</sup> | Akita Relay | ⚪ | ✔️❌ | 🟥 | Greenmax 50585
-|| _~~313~~_ <sup>(→ 235)</sup>
-|| _~~314~~_ <sup>(→ 236)</sup>
+🟥 | _~~313~~_ <sup>(→ 235)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | Greenmax 50780 🆕
+🟥 | _~~314~~_ <sup>(→ 236)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | Greenmax 50780 🆕
+
+Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with cars _??? (probably all)_.
 
 ## キハ111 + キハ112
 ### 0 subseries (20m, plug door, 1036mm door step, toilet in the middle, pipe skirt, 7 windows, dummy window)
@@ -337,9 +339,11 @@ Greenmax 31803 🆕 (⚪|🟥✔️) contains number sheet with cars 211, 212, 2
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-|| _~~301~~_ <sup>(→ 210)</sup>
+🟥 | _~~301~~_ <sup>(→ 210)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥 | Greenmax 50780 🆕
 ⬜ | _~~302~~_ <sup>(→ 211)</sup> | Akita Relay | Ⓜ️ | ✔️❌ | 🟥🟥 | Greenmax 50586
-|| _~~303~~_ <sup>(→ 212)</sup>
+🟥 | _~~303~~_ <sup>(→ 212)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥 | Greenmax 50780 🆕
+
+Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with cars _??? (probably all)_.
 
 ## SL Ginga
 
