@@ -50,7 +50,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
 ✅ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
 ||
-✅ | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_ | Ⓜ️ | ❌❌ | ✅ | ♋♋ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)
+✅<br><br>🟨 | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_<br>Shiosai no Memories | Ⓜ️<br><br>⚪ | ❌❌<br><br>❌❌ | ✅<br><br>🟥 | ♋♋<br><br>⬛✴️ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)<br>Tomix 2653 (old chassis)
 ||
 ✅ | 207 | Regular - **[#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/)** | ⚪ | ❌❌ | 🟥 | ⬛⬛ | Tomix 2654
 
