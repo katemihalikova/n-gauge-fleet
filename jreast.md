@@ -235,20 +235,20 @@ Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 2
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-🟥 | _~~301~~_ <sup>(→ 223)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | Greenmax 50780 🆕
-🟥 | _~~302~~_ <sup>(→ 224)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | Greenmax 50780 🆕
+🛄 | _~~301~~_ <sup>(→ 223)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | Greenmax 50780 🆕
+🛄 | _~~302~~_ <sup>(→ 224)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | Greenmax 50780 🆕
 ⬜ | _~~303~~_ <sup>(→ 225)</sup> | Akita Relay | ⚪ | ❌✔️ | 🟥 | Greenmax 50586
 || _~~304~~_ <sup>(→ 226)</sup>
 ⬜ | _~~305~~_ <sup>(→ 227)</sup> | Akita Relay | ⚪ | ❌✔️ | 🟥 | Greenmax 50585
-🟥 | _~~306~~_ <sup>(→ 228)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | Greenmax 50780 🆕
-🟥 | _~~307~~_ <sup>(→ 229)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | Greenmax 50780 🆕
+🛄 | _~~306~~_ <sup>(→ 228)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | Greenmax 50780 🆕
+🛄 | _~~307~~_ <sup>(→ 229)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | Greenmax 50780 🆕
 ⬜ | _~~308~~_ <sup>(→ 230)</sup> | Akita Relay | Ⓜ️ | ❌❌ | 🟥 | Greenmax 50585
 || _~~309~~_ <sup>(→ 231)</sup>
 ⬜ | _~~310~~_ <sup>(→ 232)</sup> | Akita Relay | ⚪ | ❌❌ | 🟥 | Greenmax 50586
 ⬜ | _~~311~~_ <sup>(→ 233)</sup> | Akita Relay | ⚪ | ❌❌ | 🟥 | Greenmax 50585
 ⬜ | _~~312~~_ <sup>(→ 234)</sup> | Akita Relay | ⚪ | ✔️❌ | 🟥 | Greenmax 50585
-🟥 | _~~313~~_ <sup>(→ 235)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | Greenmax 50780 🆕
-🟥 | _~~314~~_ <sup>(→ 236)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | Greenmax 50780 🆕
+🛄 | _~~313~~_ <sup>(→ 235)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | Greenmax 50780 🆕
+🛄 | _~~314~~_ <sup>(→ 236)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | Greenmax 50780 🆕
 
 Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with cars _??? (probably all)_.
 
@@ -339,9 +339,9 @@ Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-🟥 | _~~301~~_ <sup>(→ 210)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 50780 🆕
+🛄 | _~~301~~_ <sup>(→ 210)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 50780 🆕
 ⬜ | _~~302~~_ <sup>(→ 211)</sup> | Akita Relay | Ⓜ️ | ✔️❌ | 🟥🟥 | Greenmax 50586
-🟥 | _~~303~~_ <sup>(→ 212)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 50780 🆕
+🛄 | _~~303~~_ <sup>(→ 212)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 50780 🆕
 
 Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with cars _??? (probably all)_.
 
@@ -350,27 +350,27 @@ Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 ✅ | C58 | 239 | 2014 appearance | Ⓜ️ | ☀️: ✔️✔️<br>🚨: ❌❌ | ❌ | ⬛♋ | Tomix 2009
-✅ | キハ143<br>キサハ144<br>キサハ144<br>キハ142 | 701<br>701<br>702<br>701 | SL Ginga blue gradient | Ⓜ️ | ✔️✔️ | ⏸️<br>⏸️<br>⏸️<br>⏸️ | ♋✴️<br>✴️✴️<br>✴️✴️<br>✴️♋ | Tomix 98522
+✅ | キハ143<br>キサハ144<br>キサハ144<br>キハ142 | 701<br>701<br>702<br>701 | SL Ginga blue gradient | Ⓜ️ | ✔️✔️ | ⏸️<br>⏸️<br>⏸️<br>⏸️ | ♋♋<br>♋♋<br>♋♋<br>♋♋ | Tomix 98522
 
 ## Other
 
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 ✅ | キハ52-100 | 144 | Morioka area / Akaoni | ⚪ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
-✅ | キハ52-100 | 145 | Morioka area / Akaoni | Ⓜ️ | ❓✔️ | 🟥 | ♋♋ | Tomix 98019
-⬜ | キハ52-100 | 151 | Morioka area / Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
-⬜ | キハ52-100 | 152 | Morioka area / Akaoni | ⚪ | ❓✔️ | 🟥 | ♋♋ | Tomix 98019
+✅ | キハ52-100 | 145 | Morioka area / Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
 ✅ | キハ52-100 | 154 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 9403
-✅ | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 | 🔲✳️ | Micro Ace A7442
-✅ | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 | ✳️🔲 | Micro Ace A7442
+✅ | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 | ♓♓ | Micro Ace A7442
+✅ | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 | ♓🔲 | Micro Ace A7442
 ✅ | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926
 🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔲✳️✳️🔲 | Micro Ace A7443
-✅<br>⬛ | HB-E301 + HB-E302 | 3 | Resort Asunaro | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | ⏸️⏸️<br>🟥🟥 | ♓♓♓♓<br>​ | Micro Ace A9592 <br>Kato 10-1369
-⬛ | クハ700-1000 +<br>クモハ701-1000 | 1008 | Morioka area | Ⓜ️ | ✔️ | ❓ || Micro Ace A4940
+✅<br>⬛<br>🛄 | HB-E301 + HB-E302 | 3 | Resort Asunaro<br>Resort Asunaro<br>Hinabi | Ⓜ️<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️ | ⏸️⏸️<br>🟥🟥<br>🟥🟥 | ♓♓♓♓<br><br>​ | Micro Ace A9592<br>Kato 10-1369<br>Kato 10-1917
+⬛ | クハ700-1000 +<br>クモハ701-1000 | 1008 | Morioka area | Ⓜ️ | ✔️ | ❓❓ || Micro Ace A4940
 ✅ | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556
+
+Tomix 98019 contains number sheet with cars 141, 143, 144, 145, 147, 149, 151, 152, 153, 155 + separate numbers for any car number.
 
 ## Track maintenance
 
 🧰 | Series | Nr | Livery | 🚃 | 🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
-✅ | マヤ34 | 2002 | white / ligh blue | Ⓜ️ | ✔️✔️ | ⏸️ | ✴️✴️ | Micro Ace A0301
+✅ | マヤ34 | 2002 | white / ligh blue | Ⓜ️ | ✔️✔️ | ⏸️ | ♓♋ | Micro Ace A0301
