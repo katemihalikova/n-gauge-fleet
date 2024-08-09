@@ -14,6 +14,8 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 🟨 | 631 | Regular _(Untervaz)_ | Kato 3102 · 7074047
 ⬜ | 632 | Regular _(Zizers)_ | Kato 7074049
 
+<!-- @TODO check that 3102-4 is number 620 (and not 618 as at HobbySearch) when released in January 2025 -->
+
 ## Ge4/4-III
 
 🧰 | Number | Livery | Comes from
@@ -46,28 +48,30 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 
 🧰 | Number | Livery | 💡 | Comes from
 --- | --- | --- | :-: | ---
-⬛<br>✅ | A(WR-S)1223<br>A1223 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup><br>Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥<br>⏸️ | Pirata 9201<br>Kato 10-1413 · 7074044
-✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1414 · 7074045
-✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1514 · 7074048 or 7074049 or 7074077
-⬜ | A1232 | Regular | 🟥 | Kato 7074078
-✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045 or 7074078
+⬛<br>✅ | A(WR-S)1223<br>A1223 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup><br>Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥<br>⏸️ | Pirata 9201<br>Kato 10-1413 (v1) · 7074044
+✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1414 (v1) · 7074045
+✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1514 · 7074048 or 7074049 or 10-1413 (v2) · 7074077
+⬜ | A1232 | Regular | 🟥 | Kato 10-1414 (v2) · 7074078
+✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 (v1) · 7074045 or 10-1414 (v2) · 7074078
 ⬛ | As1256 | Blue - Arosa Express | 🟥 | Pirata 9211
 ⬛ | Bt1703 | Blue - Arosa Express | ❓ | Pirata 9215
-✅ | B2292 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045 or 7074078
+✅ | B2292 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 (v1) · 7074045 or 10-1414 (v2) · 7074078
 ⬛ | B2315 | Blue - Arosa Express | 🟥 | Pirata 9214
 ⬜ | B2317 | Barenland | 🟥 | Pirata 9213
 ⬛ | B2319 | Blue - Arosa Express | 🟥 | Pirata 9210
-✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044
-✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049 or 7074078
-✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044 or 7074077
-⬜ | B2351 | Regular | 🟥 | Kato 7074077
-✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 · 7074044
-⬜ | B2354 | Regular | 🟥 | Kato 7074077
-✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 · 7074045
+✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 (v1) · 7074044
+✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049 or 10-1414 (v2) · 7074078
+✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 (v1) · 7074044 or 10-1413 (v2) · 7074077
+⬜ | B2351 | Regular | 🟥 | Kato 10-1413 (v2) · 7074077
+✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 (v1) · 7074044
+⬜ | B2354 | Regular | 🟥 | Kato 10-1413 (v2) · 7074077
+✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 (v1) · 7074045
 ⬛ | BD2481 | Blue - Arosa Express | ❓ | Pirata 9212
 ⬜ | DS4222 | Regular | 🟥 | Kato 5279-2 · 7074073 🆕
 ✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 5279-1 · 7074060
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
+
+<!-- @TODO check stripe thickness for 10-1413 (v2) and 10-1414 (v2) when released in January 2025 -->
 
 <!--
 ⬛ | A1235 | Green | 🟥 | Pirata 9220
