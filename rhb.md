@@ -150,7 +150,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ✅ | Lb-v 7874 | empty | Kato 8201 · 7074100
 ✅ | Sb-t 65658 | empty | Kato 8202 · 7074101
 ✅ | Sb-t 65666 | container Swiss Post 816 (durch Stadt und Land) | Kato 10-1731 · 7074102
-✅ | Sb-t 65668 | container Swiss Post 400 (zügig) | Kato 10-1731 · 7074102
+✅ | Sb-t 65668 | container Swiss Post 507 (zügig) | Kato 10-1731 · 7074102
 ✅ | R-w 8375 | wooden logs | Kato 10-1891 · 7074105 🆕
 ✅ | R-w 8378 | wooden logs | Kato 10-1891 · 7074105 🆕
 ✅ | R-w 8379 | wooden logs | Kato 10-1891 · 7074105 🆕
