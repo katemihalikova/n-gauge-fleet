@@ -67,7 +67,7 @@ Tomix 92194 contains number sheet with numbers of cars still in service after 20
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
-✅ | 501 | Regular | ⚪ | ❌❌ | ❌ | ⬛⬛ | Tomytec 252658
+✅ | 501 | Regular | ⚪ | ❌❌ | ❌ | ♋♋ | Tomytec 252658
 
 ## 36-600
 
