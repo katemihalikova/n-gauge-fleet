@@ -49,7 +49,7 @@ For symbol explanation see [Readme](./readme.md).
 || 23 | Regular | 盛モリ | Ginga dreamline
 ✅ | 24 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97941
 ⬜ | 25 | Regular | 盛モリ | Ginga dreamline
-🛄 | 26 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
+✅ | 26 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 ✅ | 27 | Regular | 盛モリ | Ginga dreamline | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057
 ✅ | 28 | Regular | 盛モリ | Ginga dreamline | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 || _~~29~~_ <sup>(→ キハ103-711)</sup> | _converted 2017_
@@ -65,7 +65,7 @@ For symbol explanation see [Readme](./readme.md).
 || _~~39~~_ | _transferred 2024_
 || _~~40~~_ | _transferred 2024_
 || _~~41~~_ | _transferred 2024_
-🛄 | 42 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
+✅ | 42 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 || 43 | Regular | 盛イチ | Dragon rail
 || 44 | Regular | 盛イチ | Dragon rail
 ✅ | 45 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057
