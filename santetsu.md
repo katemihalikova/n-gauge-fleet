@@ -43,14 +43,14 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 208 | Regular | ⚪ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
 ✅ | 209 | Regular | Ⓜ️ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
 ||
-|| _~~1103~~_ <sup>(← 103)</sup> | Regular<br>_scrapped 2013_
+⬜ | _~~1103~~_ <sup>(← 103)</sup> | Regular<br>_scrapped 2013_ | Tomix 92194 (old chassis)
 🟨 | _~~1106~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92143 (old chassis)
 🟨 | _~~1107~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92143 (old chassis)
 ||
-✅ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
-✅ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis<br>+ original bogies NP116D
+✅ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis + original bogies
+✅ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis + original bogies
 ||
-✅<br><br>🟨 | _~~2110~~_ <sup>(← 110)</sup> | Sanriku Shiokaze<br>_scrapped 2016_<br>Shiosai no Memories | Ⓜ️<br><br>⚪ | ❌❌<br><br>❌❌ | ✅<br><br>🟥 | ♋♋<br><br>⬛✴️ | Tomix 2655 + new chassis<br>+ powered bogies NP116D (Tomix 0541)<br>Tomix 2653 (old chassis)
+✅<br>✅<br>​ | _~~2110~~_ <sup>(← 110)</sup> | Shiosai no Memories<br>Sanriku Shiokaze<br>_scrapped 2016_ | ⚪<br>Ⓜ️<br>​ | ❌❌<br>❌❌<br>​ | ⏸️<br>✅<br>​ | ♋♋<br>♋♋<br>​ | Tomix 2653 + new chassis + original bogies<br>Tomix 2655 + new chassis + Tomix 0541<br>​
 ||
 ✅ | 207 | Regular - **[#36-207の旅](https://www.instagram.com/explore/tags/36%EF%BD%B0207%E3%81%AE%E6%97%85/)** | ⚪ | ❌❌ | 🟥 | ⬛⬛ | Tomix 2654
 
