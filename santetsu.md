@@ -43,7 +43,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 208 | Regular | ⚪ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
 ✅ | 209 | Regular | Ⓜ️ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
 ||
-⬜ | _~~1103~~_ <sup>(← 103)</sup> | Regular<br>_scrapped 2013_ | Tomix 92194 (old chassis)
+⬜ | _~~1103~~_ <sup>(← 103)</sup> | Regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92194 (old chassis)
 🟨 | _~~1106~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92143 (old chassis)
 🟨 | _~~1107~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92143 (old chassis)
 ||
