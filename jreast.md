@@ -202,7 +202,7 @@ Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 2
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-⬛<br>⬛<br>⬛ | 223 <sup>(← 301)</sup> | Regular<br>Regular<br>Tadami Line (White, Green Stripes) | ⚪<br>Ⓜ️<br>Ⓜ️ | ✔️❌<br>❌✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520<br>Greenmax 50749
+⬛<br>⬛<br>⬛<br>⬛<br>⬛ | 223 <sup>(← 301)</sup> | Regular<br>Regular<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes) | ⚪<br>Ⓜ️<br>Ⓜ️<br>Ⓜ️<br>⚪ | ✔️❌<br>❌✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520<br>Greenmax 50749<br>Greenmax 50793 🆕<br>Greenmax 50794 🆕
 ⬛<br>⬛<br>⬛ | 224 <sup>(← 302)</sup> | Regular | ⚪<br>⚪<br>Ⓜ️ | ❌✔️<br>✔️❌<br>🟥✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30765<br>Greenmax 31520<br>Greenmax 50774 🆕
 ⬛ | 225 <sup>(← 303)</sup> | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31744
 ⬛ | 226 <sup>(← 304)</sup> | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30587
