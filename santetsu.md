@@ -44,8 +44,8 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 209 | Regular | Ⓜ️ | ❌❌ | ⏸️ | ♋♋ | Tomix 92194
 ||
 ⬜ | _~~1103~~_ <sup>(← 103)</sup> | Regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92194 (old chassis)
-🟨 | _~~1106~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92143 (old chassis)
-🟨 | _~~1107~~_ <sup>(← 103)</sup> | Blue-based regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92143 (old chassis)
+🟨 | _~~1106~~_ <sup>(← 106)</sup> | Blue-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ⬛✴️ | Tomix 92143 (old chassis)
+🟨 | _~~1107~~_ <sup>(← 107)</sup> | Blue-based regular<br>_scrapped 2013_ | ⚪ | ❌❌ | 🟥 | ✴️⬛ | Tomix 92143 (old chassis)
 ||
 ✅ | _~~1201~~_ <sup>(← 201)</sup> | Red-based regular<br>_scrapped 2009_ | Ⓜ️ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis + original bogies
 ✅ | _~~1206~~_ <sup>(← 206)</sup> | Red-based regular<br>_scrapped 2009_ | ⚪ | ❌❌ | 🟥 | ♋♋ | Tomix 92137 + new chassis + original bogies
