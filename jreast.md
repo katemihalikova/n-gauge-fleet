@@ -163,6 +163,10 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 ✅ | 701 <sup>(← 105)</sup> | Tohoku Emotion | 盛ハヘ | ⚪ | ❌✔️ | ⏸️ | 🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 || キハ112-711 <sup>(← 108)</sup> | HIGH RAIL 1375
 
+Greenmax 32008 🆕 (⚪|✔️✔️ + Ⓜ️|❓✔️)<!-- contains number sheet with cars 106, 107, 123, 124, 125, 126, 127-->.  
+Greenmax 32009 🆕 (⚪|✔️✔️) <!-- contains number sheetwith cars 106, 107, 123, 124, 125, 126, 127-->.
+
+
 ### 200 subseries (sliding door, 970mm door step, plate skirt, 8 windows)
 #### First batch (20m)
 
@@ -250,7 +254,7 @@ Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 2
 🛄 | _~~313~~_ <sup>(→ 235)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | Greenmax 50780 🆕
 🛄 | _~~314~~_ <sup>(→ 236)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | Greenmax 50780 🆕
 
-Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with cars _??? (probably all)_.
+Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with all cars.
 
 ## キハ111 + キハ112
 ### 0 subseries (20m, plug door, 1036mm door step, toilet in the middle, pipe skirt, 7 windows, dummy window)
@@ -343,7 +347,7 @@ Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains
 ⬜ | _~~302~~_ <sup>(→ 211)</sup> | Akita Relay | Ⓜ️ | ✔️❌ | 🟥🟥 | Greenmax 50586
 🛄 | _~~303~~_ <sup>(→ 212)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 50780 🆕
 
-Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with cars _??? (probably all)_.
+Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with all cars.
 
 ## SL Ginga
 
