@@ -45,5 +45,6 @@ Overview of my N gauge fleet
   * ⏯️ Kato central buffer coupling with hook (body mounted)
   * ⬛ Dummy Knuckle (body mounted)
   * 🔲 Dummy Shibata (body mounted)
-  * ✴️ Rapido/Arnold (bogie mounted)
-  * ✳️ Rapido/Arnold (body mounted)
+  * 🔶 Rapido/Arnold (bogie mounted)
+  * 🔷 Rapido/Arnold (body mounted)
+  * ➖ Drawbar
