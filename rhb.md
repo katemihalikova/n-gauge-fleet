@@ -22,9 +22,10 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 --- | --- | --- | ---
 ⬛<br>⬜ | 641 | Heidiland - Bernina Express _(Maienfeld)_<br>Coop _(Maienfeld)_ | Kato 7074037<br>Kato 7074039
 🟨 | 642 | Albula Line 100th Anniversary _(Breil/Brigels)_ | Kato 3101 · 7074043
-⬜ | 643 | EMS _(Vals)_ | Kato 7074062
+⬜<br>⬜ | 643 | EMS _(Vals)_<br>Regular _(Vals)_ | Kato 7074062<br>Kato 3101-7 🆕
 ⬜<br>⬜ | 644 | Regular _(Savognin)_<br>Lazzarini _(Savognin)_ | Kato 3101-1 or 10-1145 · 7074030 or 10-021 · 7074068<br>Kato 7074038
 ⬜ | 646 | BÜGA - Bündner Generalabo _(Sta. Maria Val Müstair)_ | Kato 7074063
+⬜ | 647 | Regular with large logo _(Grüsch)_ | Kato 10-2026 🆕 or 10-025 🆕
 ⬜ | 649 | Holcim _(Lavin)_ | Kato 7074064
 ✅<br>⬜ | 650 | Unesco Welterbe<br>Die kleine Rote _(Seewis im Prättigau)_ | Kato 3101-3 · 7074059 or 10-1219 · 7074034<br>Kato 7074040
 ⬛ | 651 | Glacier on Tour _(Fideris)_ | Kato 3101-2 or 10-006 · 7074033 or 10-1816 · 7074067
@@ -57,7 +58,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ⬛ | Bt1703 | Blue - Arosa Express | ❓ | Pirata 9215
 ✅ | B2292 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 (v1) · 7074045 or 10-1414 (v2) · 7074078
 ⬛ | B2315 | Blue - Arosa Express | 🟥 | Pirata 9214
-⬜ | B2317 | Barenland | 🟥 | Pirata 9213
+⬛ | B2317 | Barenland | 🟥 | Pirata 9213
 ⬛ | B2319 | Blue - Arosa Express | 🟥 | Pirata 9210
 ✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 (v1) · 7074044
 ✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049 or 10-1414 (v2) · 7074078
@@ -112,17 +113,21 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 
 🧰 | Number | 💡 | Comes from
 --- | --- | :-: | ---
+⬛ | Api1310 | 🟥 | Kato 10-2027 🆕
 ⬛ | Api1311 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | Api1312 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Ap1314 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068
+⬛ | Ap1315 | 🟥 | Kato 10-2027 🆕
 ⬛ | Ap1316 | 🟥 | Kato 10-1219 · 7074034
+⬛ | Aps1321 | 🟥 | Kato 10-2026 🆕 or 10-025 🆕
 ⬛ | Bp2531 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Bp2532 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | Bp2533 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Bp2534 | 🟥 | Kato 10-1219 · 7074034
-⬛ | Bp2535 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068
+⬛ | Bp2535 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068 or 10-2027 🆕
 ⬛ | Bp2536 | 🟥 | Kato 10-1219 · 7074034
-⬛ | WRp3831 | 🟥 | Kato 10-1219 · 7074034
+⬛ | Bp2537 | 🟥 | Kato 10-2026 🆕 or 10-025 🆕
+⬛ | WRp3831 | 🟥 | Kato 10-1219 · 7074034 or 10-2027 🆕
 ⬛ | WRp3832 | 🟥 | Kato 10-1146 · 7074031
 
 ### Accessories
@@ -151,18 +156,18 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ✅ | Sb-t 65658 | empty | Kato 8202 · 7074101
 ✅ | Sb-t 65666 | container Swiss Post 816 (durch Stadt und Land) | Kato 10-1731 · 7074102
 ✅ | Sb-t 65668 | container Swiss Post 507 (zügig) | Kato 10-1731 · 7074102
-✅ | R-w 8375 | wooden logs | Kato 10-1891 · 7074105 🆕
-✅ | R-w 8378 | wooden logs | Kato 10-1891 · 7074105 🆕
-✅ | R-w 8379 | wooden logs | Kato 10-1891 · 7074105 🆕
-✅ | R-w 8380 | wooden logs | Kato 10-1891 · 7074105 🆕
-✅ | R-w 8381 | containers RailCare 4250032 & 4250351 | Kato 10-1892 · 7074106 🆕
-✅ | R-w 8382 | containers RailCare 4250027 & 4250222 | Kato 10-1892 · 7074106 🆕
-✅ | R-w 8383 | containers RailCare 4250069 & 4250480 | Kato 10-1892 · 7074106 🆕
-✅ | R-w 8384 | containers RailCare 4250109 & 4250304 | Kato 10-1892 · 7074106 🆕
-✅ | R-w 8385 | empty | Kato 8203 · 7074107 🆕
+✅ | R-w 8375 | wooden logs | Kato 10-1891 · 7074105
+✅ | R-w 8378 | wooden logs | Kato 10-1891 · 7074105
+✅ | R-w 8379 | wooden logs | Kato 10-1891 · 7074105
+✅ | R-w 8380 | wooden logs | Kato 10-1891 · 7074105
+✅ | R-w 8381 | containers RailCare 4250032 & 4250351 | Kato 10-1892 · 7074106
+✅ | R-w 8382 | containers RailCare 4250027 & 4250222 | Kato 10-1892 · 7074106
+✅ | R-w 8383 | containers RailCare 4250069 & 4250480 | Kato 10-1892 · 7074106
+✅ | R-w 8384 | containers RailCare 4250109 & 4250304 | Kato 10-1892 · 7074106
+✅ | R-w 8385 | empty | Kato 8203 · 7074107
 
 ### Accessories
 
 * ✅ container Coop, 2pcs - WAB26 (strawberry) + WAB30 (lettuce) (Kato 23-590A · 7074103)
 * ✅ container Swiss Post, 2pcs - 747 (landesweit) + 850 (bei Sonne und Regen) (Kato 23-591A · 7074104)
-* ✅ wooden logs, 3 pcs for 1 car (Kato 23-550 · 7074108) 🆕
+* ✅ wooden logs, 3 pcs for 1 car (Kato 23-550 · 7074108)
