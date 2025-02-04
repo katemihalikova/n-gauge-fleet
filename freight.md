@@ -15,7 +15,6 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Temu 300">テム300</span> | 1121 || Kato 8070 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
 🛄 | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12004 | refrigerated, white | Tomix 98866 🆕 | _50_
-✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12012 | refrigerated, white | Kato 8006 or 10-033 or 10-809 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
 🛄 | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12960 | refrigerated, white | Tomix 98866 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 13231 || Tomix 98787 | _50_
@@ -150,7 +149,8 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 16395 || Tomix 98713 | _50_
 
 <!--
-Oversized Kato Wamu
+Oversized Kato Wamu & Re https://samanthabaka.blog.fc2.com/blog-entry-234.html
+✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12012 | refrigerated, white, **oversized** | Kato 8006 or 10-033 or 10-809 | _50_
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 283912 | brown, **oversized** | Kato 8039 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 286723 | brown, **oversized** | Kato 8039 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 380022 | blue, **oversized** | Kato 10-465 | ___60___
