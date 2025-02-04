@@ -15,6 +15,7 @@ For symbol explanation see [Readme](./readme.md).
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
 ⬛<br>⬛ | 1 | Old (dark blue)<br>Old (dark blue) | ⚪<br>⚪ | ✔️<br>❌ | ❓<br>❌ || Micro Ace A4921<br>Tomytec 285144
+✅ | 6 | New 2024 Regular | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1562 🆕
 ✅ | 7 | 11 Piki no Neko | ⚪ | ❌ | ❌❌ | 🔲♓♓🔲 | Tomytec 303084 + Tomix 0232
-✅ | 8 | Regular | Ⓜ️ | ✔️ | ⏸️⏸️ | 🅾️🅾️🅾️🅾️ | Kato 10-1561
+✅ | 8 | Old Regular | Ⓜ️ | ✔️ | ⏸️⏸️ | 🅾️🅾️🅾️🅾️ | Kato 10-1561 or 10-1561S 🆕
 ⬛ | 101 | Old (dark blue) | Ⓜ️ | ✔️ | ❓ || Micro Ace A4921
