@@ -19,6 +19,7 @@ Overview of my N gauge fleet
 
 * 🧰 Status
   * ✅ Have (stored in collection)
+  * ☑️ Have (pending work)
   * 🛄 Preordered or ordered
   * 🟥 Want
   * 🟨 Maybe want

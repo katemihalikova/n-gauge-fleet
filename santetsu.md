@@ -8,12 +8,12 @@ For symbol explanation see [Readme](./readme.md).
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
-🛄 | 101 | Regular 40th anniversary | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 97961 🆕
+✅ | 101 | Regular 40th anniversary | Ⓜ️ | ✔️✔️ | ⏸️ | ♋♋ | Tomix 97961 🆕
 || 102
 || 105
 || 109
 ||
-🛄 | 202 | Regular 40th anniversary | ⚪ | ❌✔️ | 🟥 | ♋♋ | Tomix 97961 🆕
+✅ | 202 | Regular 40th anniversary | ⚪ | ❌✔️ | ⏸️ | ♋♋ | Tomix 97961 🆕
 || 207
 || 208
 || 209
