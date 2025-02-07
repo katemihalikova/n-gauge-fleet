@@ -269,9 +269,10 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 
 🧰 | Series | Number | Details | Comes from | Width
 :-: | --- | --- | --- | --- | ---
-⬜ | <span title="Komu 1">コム1</span> | 11 | Daiwa Royal Hotels container | Tomix 93115 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR green container | Tomix 2718 or 90097 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR white container | Tomix 2719 or 90097 | ___60___
+⬜<br>🟨 | <span title="Komu 1">コム1</span> | 11 | Daiwa Royal Hotels container<br>JNR R900 white container | Tomix 93115<br>Tomix 8765 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR C10 green container | Tomix 2718 or 90097 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR C10 white container | Tomix 2719 or 90097 | ___60___
+🟨 | <span title="Komu 1">コム1</span> | 39 | JNR C900 green container | Tomix 8764 | ___60___
 ⬜ | <span title="Komu 1">コム1</span> | 1961 | Osaka Loop Line - 60 Years Connected container | Tomix 93224 <sup>Train Box</sup> | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2011 | Tetsudo Plaza container (Osaka Station City) | Tomix (no code) <sup>Train Box</sup> | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2012 | Ico-chan × Dragon container | Tomix 93144 <sup>Train Box</sup> | ___60___
@@ -291,6 +292,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 ✅ | <span title="Komu 1">コム1</span> | 2023 | Ico-chan × Rabbit container | Tomix 93233 <sup>Train Box</sup> | ___60___
 🛄 | <span title="Komu 1">コム1</span> | 2023-11 | Ico-chan 20th anniversary container | Tomix 93241 <sup>Train Box</sup> | ___60___
 ✅<br>✅<br>✅<br>✅<br>✅<br>✅<br>✅<br>✅<br>✅ | <span title="Komu 1">コム1</span> | 2023-15 | Travelling Ico-chan: Kanazawa container<br>Travelling Ico-chan: Kyoto container<br>Travelling Ico-chan: Osaka container<br>Travelling Ico-chan: Kobe container<br>Travelling Ico-chan: Wakayama container<br>Travelling Ico-chan: Yonago container<br>Travelling Ico-chan: Okayama container<br>Travelling Ico-chan: Hiroshima container<br>Travelling Ico-chan: Hakata container | Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup> | ___60___
+✅ | <span title="Komu 1">コム1</span> | 2024 | Hello Kitty Shinkansen 50th anniversary container | Tomix 93233 <sup>Train Box</sup> | ___60___
 ⬜ | <span title="Komu 1">コム1</span> | 7111 | Mibumachi Toy Museum container (various colors) | Tomix (no code) | ___60___
 ✅<br>⬛<br>⬛ | <span title="Komu 1">コム1</span> | 9640 | Kuroshio Shirara 2nd edition container<br>Kuroshio Shirara 3rd edition container<br>Kuroshio Shirara 4th edition container | Tomix 93226 <sup>Train Box</sup><br>Tomix 93234 <sup>Train Box</sup><br>Tomix 93242 <sup>Train Box</sup> | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
