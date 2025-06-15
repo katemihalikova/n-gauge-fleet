@@ -104,7 +104,7 @@ Tomix 98127 contains number sheet with numbers of both series cars (701-706, 711
 :-: | --- | ---
 || R1 <sup>(← 601)</sup> | Sanriku Shiosai - red
 || R2 <sup>(← 602)</sup> | Sanriku Shiosai - red
-|| R3 | Retro train - Purple
+|| R3 | Retro train - purple
 
 ## 36-Z
 
