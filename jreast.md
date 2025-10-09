@@ -137,14 +137,14 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 || 115
 || 116
 || 117
-|| 118
+🛄 | 118 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32153 🆕
 || 119
 || 120
 ⬛ | 121 | Metropolitan Area Color | 長コミ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 10-1169
-|| 122
-🛄 | 123 | Regular | 北ココ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32008 🆕
-🛄 | 124 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32008 🆕
-🛄 | 125 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32009 🆕
+🛄 | 122 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32153 🆕
+☑️ | 123 | Regular | 北ココ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32008 🆕
+☑️ | 124 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32008 🆕
+☑️ | 125 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32009 🆕
 || 126
 || 127
 ✅ | 128 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6043-1
@@ -152,19 +152,19 @@ Tomix 98100 and 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18,
 ⬜ | 130 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 6043
 || 131
 || _~~132~~_ | _scrapped 2017_
-|| 133
-|| 134
-⬛<br>⬛ | 135 | Metropolitan Area Color | 仙コリ | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 || Greenmax 50774 🆕<br>Greenmax 50775 🆕
+🛄 | 133 | Regular | 盛モリ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32152 🆕
+🛄 | 134 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32152 🆕
+⬛<br>⬛ | 135 | Metropolitan Area Color | 仙コリ | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 || Greenmax 50774<br>Greenmax 50775
 || 136
 ✅ | 137 | Regular | 水スイ | ⚪ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6044
-|| 138
-|| 139
+🛄 | 138 | Regular | 盛モリ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32152 🆕
+🛄 | 139 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32152 🆕
 ||
 ✅ | 701 <sup>(← 105)</sup> | Tohoku Emotion | 盛ハヘ | ⚪ | ❌✔️ | ⏸️ | 🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 || キハ112-711 <sup>(← 108)</sup> | HIGH RAIL 1375
 
-Greenmax 32008 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) contains number sheet with cars 123, 124, 125, 126, 127.  
-Greenmax 32009 🆕 (⚪|✔️✔️)<!-- contains number sheetwith cars 106, 107, 123, 124, 125, 126, 127-->.
+Greenmax 32008 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32009 🆕 (⚪|✔️✔️) contain number sheet with cars 123, 124, 125, 126, 127.  
+Greenmax 32152 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32153 🆕 (⚪|✔️✔️)<!-- contain number sheet with cars 118, 122, 128, 129, 130, 131, 133, 134, 136, 137, 138, 139-->.  
 
 
 ### 200 subseries (sliding door, 970mm door step, plate skirt, 8 windows)
@@ -206,8 +206,8 @@ Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 2
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Comes from
 :-: | --- | --- | :-: | :-: | :-: | ---
-⬛<br>⬛<br>⬛<br>⬛<br>⬛ | 223 <sup>(← 301)</sup> | Regular<br>Regular<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes) | ⚪<br>Ⓜ️<br>Ⓜ️<br>Ⓜ️<br>⚪ | ✔️❌<br>❌✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520<br>Greenmax 50749<br>Greenmax 50793 🆕<br>Greenmax 50794 🆕
-⬛<br>⬛<br>⬛ | 224 <sup>(← 302)</sup> | Regular | ⚪<br>⚪<br>Ⓜ️ | ❌✔️<br>✔️❌<br>🟥✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30765<br>Greenmax 31520<br>Greenmax 50774 🆕
+⬛<br>⬛<br>⬛<br>⬛<br>⬜ | 223 <sup>(← 301)</sup> | Regular<br>Regular<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes) | ⚪<br>Ⓜ️<br>Ⓜ️<br>Ⓜ️<br>⚪ | ✔️❌<br>❌✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520<br>Greenmax 50749<br>Greenmax 50793<br>Greenmax 50794
+⬛<br>⬛<br>⬛ | 224 <sup>(← 302)</sup> | Regular | ⚪<br>⚪<br>Ⓜ️ | ❌✔️<br>✔️❌<br>🟥✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30765<br>Greenmax 31520<br>Greenmax 50774
 ⬛ | 225 <sup>(← 303)</sup> | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31744
 ⬛ | 226 <sup>(← 304)</sup> | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30587
 || 227 <sup>(← 305)</sup>
@@ -240,21 +240,21 @@ Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 2
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
 || _~~301~~_ <sup>(→ 223)</sup>
-✅ | _~~302~~_ <sup>(→ 224)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | ♓♓ | Greenmax 50780 🆕
+✅ | _~~302~~_ <sup>(→ 224)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | ♓♓ | Greenmax 50780
 ⬜ | _~~303~~_ <sup>(→ 225)</sup> | Akita Relay | ⚪ | ❌✔️ | 🟥 | 🔲➖ | Greenmax 50586
 || _~~304~~_ <sup>(→ 226)</sup>
 ⬜ | _~~305~~_ <sup>(→ 227)</sup> | Akita Relay | ⚪ | ❌✔️ | 🟥 | 🔲➖ | Greenmax 50585
-☑️ | _~~306~~_ <sup>(→ 228)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | 🔲➖ | Greenmax 50780 🆕
-✅ | _~~307~~_ <sup>(→ 229)</sup> | Akita Relay | ⚪ | ✔️✅ | 🟥 | ♓♓ | Greenmax 50780 🆕
+☑️ | _~~306~~_ <sup>(→ 228)</sup> | Akita Relay | ⚪ | ✔️🟥 | 🟥 | 🔲➖ | Greenmax 50780
+✅ | _~~307~~_ <sup>(→ 229)</sup> | Akita Relay | ⚪ | ✔️✅ | 🟥 | ♓♓ | Greenmax 50780
 ⬜ | _~~308~~_ <sup>(→ 230)</sup> | Akita Relay | Ⓜ️ | ❌❌ | 🟥 | ➖➖ | Greenmax 50585
-✅ | _~~309~~_ <sup>(→ 231)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | ♓♓ | Greenmax 50780 🆕
+✅ | _~~309~~_ <sup>(→ 231)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | ♓♓ | Greenmax 50780
 ⬜ | _~~310~~_ <sup>(→ 232)</sup> | Akita Relay | ⚪ | ❌❌ | 🟥 | ➖➖ | Greenmax 50586
 ⬜ | _~~311~~_ <sup>(→ 233)</sup> | Akita Relay | ⚪ | ❌❌ | 🟥 | ➖➖ | Greenmax 50585
 ⬜ | _~~312~~_ <sup>(→ 234)</sup> | Akita Relay | ⚪ | ✔️❌ | 🟥 | ➖🔲 | Greenmax 50585
-☑️ | _~~313~~_ <sup>(→ 235)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | ➖➖ | Greenmax 50780 🆕
-☑️ | _~~314~~_ <sup>(→ 236)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | 🔲➖ | Greenmax 50780 🆕
+☑️ | _~~313~~_ <sup>(→ 235)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | ➖➖ | Greenmax 50780
+☑️ | _~~314~~_ <sup>(→ 236)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | 🔲➖ | Greenmax 50780
 
-Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with all cars.
+Greenmax 50780 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with all cars.
 
 ## キハ111 + キハ112
 ### 0 subseries (20m, plug door, 1036mm door step, toilet in the middle, pipe skirt, 7 windows, dummy window)
@@ -343,11 +343,11 @@ Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains
 
 🧰 | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
-☑️ | _~~301~~_ <sup>(→ 210)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | ➖🔶🔶🔲 | Greenmax 50780 🆕
+☑️ | _~~301~~_ <sup>(→ 210)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | ➖🔶🔶🔲 | Greenmax 50780
 ⬜ | _~~302~~_ <sup>(→ 211)</sup> | Akita Relay | Ⓜ️ | ✔️❌ | 🟥🟥 | ➖🔶🔶🔲 | Greenmax 50586
-✅ | _~~303~~_ <sup>(→ 212)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | ♓🔶🔷♓ | Greenmax 50780 🆕
+✅ | _~~303~~_ <sup>(→ 212)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | ♓🔶🔷♓ | Greenmax 50780
 
-Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with all cars.
+Greenmax 50780 (⚪|✔️✔️) contains number sheet with all cars.
 
 ## SL Ginga
 
@@ -367,9 +367,9 @@ Greenmax 50780 🆕 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains
 ✅ | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 | ♓♓ | Micro Ace A7442
 ✅ | キハE131 + キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926
 🟨 | キハE131 + キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔲🔷🔷🔲 | Micro Ace A7443
-✅<br>⬛<br>✅ | HB-E301 + HB-E302 | 3 | Resort Asunaro<br>Resort Asunaro<br>Hinabi | Ⓜ️<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️ | ⏸️⏸️<br>🟥🟥<br>🟥🟥 | ♓♓♓♓<br><br>​ | Micro Ace A9592<br>Kato 10-1369<br>Kato 10-1917 🆕
+✅<br>⬛<br>✅ | HB-E301 + HB-E302 | 3 | Resort Asunaro<br>Resort Asunaro<br>Hinabi | Ⓜ️<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️ | ⏸️⏸️<br>🟥🟥<br>🟥🟥 | ♓♓♓♓<br><br>​ | Micro Ace A9592<br>Kato 10-1369<br>Kato 10-1917
 ⬛ | クハ700-1000 +<br>クモハ701-1000 | 1008 | Morioka area | Ⓜ️ | ✔️ | ❓❓ || Micro Ace A4940
-✅ | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556 or 10-1556S 🆕
+✅ | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556 or 10-1556S
 
 Tomix 98019 contains number sheet with cars 141, 143, 144, 145, 147, 149, 151, 152, 153, 155 + separate numbers for any car number.
 
