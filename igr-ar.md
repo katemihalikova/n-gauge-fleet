@@ -19,3 +19,9 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 7 | 11 Piki no Neko | ⚪ | ❌ | ❌❌ | 🔲♓♓🔲 | Tomytec 303084 + Tomix 0232
 ✅ | 8 | Old Regular | Ⓜ️ | ✔️ | ⏸️⏸️ | 🅾️🅾️🅾️🅾️ | Kato 10-1561 or 10-1561S
 ⬛ | 101 | Old (dark blue) | Ⓜ️ | ✔️ | ❓ || Micro Ace A4921
+
+## Aoimori 702 + 703
+
+🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | :-: | :-: | :-: | :-: | ---
+🛄 | 11 | Regular | Ⓜ️ | ✔️ | 🟥 | 🅾️🅾️🅾️🅾️ | Micro Ace A4921

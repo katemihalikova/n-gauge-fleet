@@ -7,7 +7,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
 ⬜<br>✅ | 618 | Edelweiss _(Bergün/Bravuogn)_<br>Regular with large logo _(Bergün/Bravuogn)_ | Kato 7074052<br>Kato 3102-3 · 7074066
-⬜ | 620 | Rhb Club _(Zernez)_ | Kato 3102-4 · 7074074 🆕
+⬜ | 620 | Rhb Club _(Zernez)_ | Kato 3102-4 · 7074074
 ✅ | 622 | Hakone Tozan | Kato 10-1514 · 7074048
 ⬛<br>⬜ | 623 | Glacier Express _(Bonaduz)_<br>125 Years of RhB | Kato 3102-2 · 7074053<br>Kato 7074050
 🟥 | 627 | Chur - Arosa 100th Anniversary | Kato 7074051
@@ -22,10 +22,10 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 --- | --- | --- | ---
 ⬛<br>⬜ | 641 | Heidiland - Bernina Express _(Maienfeld)_<br>Coop _(Maienfeld)_ | Kato 7074037<br>Kato 7074039
 🟨 | 642 | Albula Line 100th Anniversary _(Breil/Brigels)_ | Kato 3101 · 7074043
-⬜<br>⬜ | 643 | EMS _(Vals)_<br>Regular _(Vals)_ | Kato 7074062<br>Kato 3101-7 🆕
+⬜<br>⬜ | 643 | EMS _(Vals)_<br>Regular _(Vals)_ | Kato 7074062<br>Kato 3101-7
 ⬜<br>⬜ | 644 | Regular _(Savognin)_<br>Lazzarini _(Savognin)_ | Kato 3101-1 or 10-1145 · 7074030 or 10-021 · 7074068<br>Kato 7074038
 ⬜ | 646 | BÜGA - Bündner Generalabo _(Sta. Maria Val Müstair)_ | Kato 7074063
-⬜ | 647 | Regular with large logo _(Grüsch)_ | Kato 10-2026 🆕 or 10-025 🆕
+⬜ | 647 | Regular with large logo _(Grüsch)_ | Kato 10-2026 or 10-025
 ⬜ | 649 | Holcim _(Lavin)_ | Kato 7074064
 ✅<br>⬜ | 650 | Unesco Welterbe<br>Die kleine Rote _(Seewis im Prättigau)_ | Kato 3101-3 · 7074059 or 10-1219 · 7074034<br>Kato 7074040
 ⬛ | 651 | Glacier on Tour _(Fideris)_ | Kato 3101-2 or 10-006 · 7074033 or 10-1816 · 7074067
@@ -68,7 +68,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ⬜ | B2354 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 (v2) · 7074077
 ✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 (v1) · 7074045
 ⬛ | BD2481 | Blue - Arosa Express | ❓ | Pirata 9212
-⬜ | DS4222 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 5279-2 · 7074073 🆕
+⬜ | DS4222 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 5279-2 · 7074073
 ✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 5279-1 · 7074060
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
 
@@ -111,21 +111,21 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 
 🧰 | Number | 💡 | Comes from
 --- | --- | :-: | ---
-⬛ | Api1310 | 🟥 | Kato 10-2027 🆕
+⬛ | Api1310 | 🟥 | Kato 10-2027
 ⬛ | Api1311 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | Api1312 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Ap1314 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068
-⬛ | Ap1315 | 🟥 | Kato 10-2027 🆕
+⬛ | Ap1315 | 🟥 | Kato 10-2027
 ⬛ | Ap1316 | 🟥 | Kato 10-1219 · 7074034
-⬛ | Aps1321 | 🟥 | Kato 10-2026 🆕 or 10-025 🆕
+⬛ | Aps1321 | 🟥 | Kato 10-2026 or 10-025
 ⬛ | Bp2531 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Bp2532 | 🟥 | Kato 10-1219 · 7074034
 ⬛ | Bp2533 | 🟥 | Kato 10-1146 · 7074031
 ⬛ | Bp2534 | 🟥 | Kato 10-1219 · 7074034
-⬛ | Bp2535 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068 or 10-2027 🆕
+⬛ | Bp2535 | 🟥 | Kato 10-006 · 7074033 or 10-1145 · 7074030 or 10-1816 · 7074067 or 10-021 · 7074068 or 10-2027
 ⬛ | Bp2536 | 🟥 | Kato 10-1219 · 7074034
-⬛ | Bp2537 | 🟥 | Kato 10-2026 🆕 or 10-025 🆕
-⬛ | WRp3831 | 🟥 | Kato 10-1219 · 7074034 or 10-2027 🆕
+⬛ | Bp2537 | 🟥 | Kato 10-2026 or 10-025
+⬛ | WRp3831 | 🟥 | Kato 10-1219 · 7074034 or 10-2027
 ⬛ | WRp3832 | 🟥 | Kato 10-1146 · 7074031
 
 ### Accessories

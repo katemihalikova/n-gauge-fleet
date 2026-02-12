@@ -7,7 +7,9 @@ For symbol explanation see [Readme](./readme.md).
 🧰 | Series | Number | Details | Comes from | Width
 :-: | --- | --- | --- | --- | ---
 ✅ | <span title="E 1"><sup><sub><strong>ロ</strong></sub></sup>エ1</span> | 205 | yellow-white stripe, body from <span title="Wamu 1">ワム3500</span> | Tomix 8716 | _50_
+🛄 | <sup><sub>　</sub></sup><span title="Ka 3000">カ3000</span> | 3003 | livestock | Tomix 97976 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Ka 3000">カ3000</span> | 3078 | livestock | Tomix 2736 | _50_
+🛄 | <sup><sub>　</sub></sup><span title="Tsumu 1000">ツム1000</span> | 1192 | ventilated | Tomix 97976 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Tsumu 1000">ツム1000</span> | 1744 | ventilated, with cargo | Kato 8057 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Tsumu 1000">ツム1000</span> | 2234 | ventilated | Tomix 2737 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Tsumu 1000">ツム1000</span> | 2575 | ventilated, with cargo | Kato 8057 | _50_
@@ -16,6 +18,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Pomu 1">ポム1</span> | 21 | pottery, from <span title="Wamu 90000">ワム90000</span> | Tomix 2729 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12004 | refrigerated, white | Tomix 98866 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12445 | refrigerated, white | Tomix 2734 | _50_
+🛄 | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12900 | refrigerated, white | Tomix 97976 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12960 | refrigerated, white | Tomix 98866 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 13231 || Tomix 98787 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 5367 | refrigerated, white, blue stripe | Kato 10-1599 | __55__
@@ -31,10 +34,12 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 7023 || Tomix 8704 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | 7055 | incl. retarter | Tomix 93172 | _50_
 ✅ | <span title="Wamu 3500"><sup><sub><strong>㋺</strong></sub></sup>ワム3500</span> | 14970 | yellow stripe | Tomix 98787 | _50_
+🛄 | <sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | 23361 | no door ribs | Tomix 97976 🆕 | _50_
 ✅ | <span title="Wamu 23000"><sup><sub><strong>㋺</strong></sub></sup>ワム23000</span> | 35421 | yellow stripe | Tomix 98787 | _50_
 ✅ | <span title="Wamu 23000"><sup><sub><strong>㋺</strong></sub></sup>ワム23000</span> | 39634 | yellow stripe | Tomix 98787 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
+🛄 | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50835 | ❓ | Tomix 97976 🆕 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub><strong>キ</strong></sub></sup>ワム60000</span> | 61381 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub><strong>キ</strong></sub></sup>ワム60000</span> | 61738 | express | Tomix 98735 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 62664 || Tomix 98713 | _50_
@@ -195,14 +200,16 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | --- | ---
 ✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
 ✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
-⬛ | <span title="Wafu 29500">ワフ29500</span> | 29725 | brake van ||| ❓ | ❌ | Kato 10-1158 | _50_ + chimney
-✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 8030 or 10-012 | _50_ + chimney
-✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | brake van ||| ❌ (box car side)<br>✔️ (brake van side) | ❌ | Kato 10-1599 | _50_ + chimney
+🛄 | <span title="Wafu 28000">ワフ28000</span> | 28301 | conductor room ||| ❌ | ❌ | Tomix 97976 🆕 | ❓
+⬛ | <span title="Wafu 29500">ワフ29500</span> | 29725 | conductor room ||| ❓ | ❌ | Kato 10-1158 | _50_ + chimney
+✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | conductor room ||| ❌ (cargo side)<br>✔️ (conductor side) | ❌ | Kato 8030 or 10-012 | _50_ + chimney
+✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | conductor room ||| ❌ (cargo side)<br>✔️ (conductor side) | ❌ | Kato 10-1599 | _50_ + chimney
 
 ## Open cars
 
 🧰 | Series | Number | Details | Comes from | Width
 :-: | --- | --- | --- | --- | ---
+🛄 | <sup><sub>　</sub></sup><span title="Semu 8000">セム8000</span> | 8012 || Tomix 97976 🆕 | ❓
 ✅ | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 40222 || Tomix 98866 | _50_
 ✅ | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 40604 || Tomix 98866 | _50_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 45270 | sheet cover with box underneath | Kato 8027-1 or 10-033 | _50 low_
@@ -211,6 +218,7 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 49344 | sheet cover | Kato 10-1599 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 50021 || Kato 8027 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 50858 | sheet cover | Kato 10-1599 | _50 low_
+🛄 | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 145037 || Tomix 97976 🆕 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 147382 || Tomix 2725 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 152261 | wood | Tomix 2726 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 152867 || Tomix 98713 | _50 low_
@@ -231,6 +239,7 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 ⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91938 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91943 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ✅ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 92459 | wire mesh fence | Kato 8062 | _50_ + cover
+🛄 | <sup><sub>　</sub></sup><span title="Tomu 70000">トム50000</span> | 51031 || Tomix 97976 🆕 | ❓
 
 ### Accessories
 
@@ -239,6 +248,12 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 * ✅ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 2 pcs (Kato 11-561)
 * ⬛ <span title="Tora 90000">トラ90000</span> empty wire mesh fence, 10 pcs (Kato 11-562)
 
+## Combined open cars
+
+🧰 | Series | Number | Combined with | 🚨 | 💡 | Comes from | Width
+:-: | --- | --- | --- | :-: | :-: | --- | ---
+🛄 | <sup><sub>　</sub></sup><span title="Tomufu 1">トムフ1</span> | 167 | conductor room | ❌ | ❌ | Tomix 97976 🆕 | ❓
+
 ## Tank cars
 
 🧰 | Series | Number | Details | Comes from | Width
@@ -246,11 +261,13 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2500 | gray, LP gas, Tomii Kosan | Tomix 2747 | ___60___
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2503 | silver, gasoline, Tomii Kosan | Tomix 2723 or 90096 | ___60___
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2550 | yellow, liquid chlorine, Tomii Kosan | Tomix 2724 | ___60___
+🛄 | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2683 | black, gasoline | Tomix 97976 🆕 | ___60___
 ⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2848 | black, gasoline, Japan Oil Transportation | Tomix 2722 | ___60___
 ⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 2988 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
 ✅ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 3527 | white, liquid ammonia, Tomii Kosan | Tomix 2748 | ___60___
 ⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 10520 | black, gasoline, Japan Oil Transportation | Kato 8069-1 | ___60___
 ⬛ | <sup><sub>　</sub></sup><span title="Tamu 500">タム500</span> | 10525 | yellow | Kato 10-012 | ___60___
+🛄 | <sup><sub>　</sub></sup><span title="Tamu ❓">タム❓</span> | 16001 | silver, methanol | Tomix 97976 🆕 | ___60___
 ✅ | <span title="Mimu 100"><sup><sub><strong>ロ</strong></sub></sup>ミム100</span> | 148 || Tomix 8720 | ___60___
 ✅ | <span title="Ya 500"><sup><sub><strong>ロ</strong></sub></sup>ヤ500</span> | 500 || Tomix 8721 | ___60___
 
@@ -270,8 +287,8 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 🧰 | Series | Number | Details | Comes from | Width
 :-: | --- | --- | --- | --- | ---
 ⬜<br>🟨 | <span title="Komu 1">コム1</span> | 11 | Daiwa Royal Hotels container<br>JNR R900 white container | Tomix 93115<br>Tomix 8765 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR C10 green container | Tomix 2718 or 90097 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR C10 white container | Tomix 2719 or 90097 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR C10 green container | Tomix 2718 or 90097 or Tomix 97976 🆕 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR C10 white container | Tomix 2719 or 90097 or Tomix 97976 🆕 | ___60___
 🟨 | <span title="Komu 1">コム1</span> | 39 | JNR C900 green container | Tomix 8764 | ___60___
 ⬜ | <span title="Komu 1">コム1</span> | 1961 | Osaka Loop Line - 60 Years Connected container | Tomix 93224 <sup>Train Box</sup> | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2011 | Tetsudo Plaza container (Osaka Station City) | Tomix (no code) <sup>Train Box</sup> | ___60___
@@ -294,12 +311,14 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 ✅<br>✅<br>✅<br>✅<br>✅<br>✅<br>✅<br>✅<br>✅ | <span title="Komu 1">コム1</span> | 2023-15 | Travelling Ico-chan: Kanazawa container<br>Travelling Ico-chan: Kyoto container<br>Travelling Ico-chan: Osaka container<br>Travelling Ico-chan: Kobe container<br>Travelling Ico-chan: Wakayama container<br>Travelling Ico-chan: Yonago container<br>Travelling Ico-chan: Okayama container<br>Travelling Ico-chan: Hiroshima container<br>Travelling Ico-chan: Hakata container | Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup><br>Tomix 93235 <sup>Train Box</sup> | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2024 | Hello Kitty Shinkansen 50th anniversary container | Tomix 93248 <sup>Train Box</sup> | ___60___
 ✅<br>✅<br>✅ | <span title="Komu 1">コム1</span> | 2025 | EXPO2025 Myaku-Myaku & Iko-chan Takoyaki red container<br>EXPO2025 Myaku-Myaku & Iko-chan Nakayoshi blue container<br>EXPO2025 Myaku-Myaku & Iko-chan white container | Tomix 93249 <sup>Train Box</sup> 🆕<br>Tomix 93250 <sup>Train Box</sup> 🆕<br>Tomix 93251 🆕 | ___60___
+🛄 | <span title="Komu 1">コム1</span> | 2026 | Thank You Hello Kitty Shinkansen container | Tomix 93259 <sup>Train Box</sup> | ___60___
 ⬜ | <span title="Komu 1">コム1</span> | 7111 | Mibumachi Toy Museum container (various colors) | Tomix (no code) | ___60___
 ✅<br>⬛<br>⬛ | <span title="Komu 1">コム1</span> | 9640 | Kuroshio Shirara 2nd edition container<br>Kuroshio Shirara 3rd edition container<br>Kuroshio Shirara 4th edition container | Tomix 93226 <sup>Train Box</sup><br>Tomix 93234 <sup>Train Box</sup><br>Tomix 93242 <sup>Train Box</sup> | ___60___
+🛄 | <span title="Chi 1">チ1</span> | 1 | wood | Tomix 97976 🆕 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 51 | wood | Tomix 2720 | ___60___
 
-## Brake vans
+## Conductor cars
 
 🧰 | Series | Number | 🚨 | 💡 | Details | Comes from | Width
 :-: | --- | --- | :-: | :-: | --- | --- | ---

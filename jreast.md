@@ -14,7 +14,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 4 | Prototype | 盛イチ ||||| spare body only | Tomix 98089
 ||
 ✅ | 1 | Pokémon with You | 盛イチ || Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98060
-✅<br>⬜ | 2 | Regular<br>Kitakami Line 100th anniversary | 盛イチ | Dragon rail | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | ✔️<br>✔️ | ♓♓<br>♓♓ | Tomix 98089<br>Tomix 97978
+✅<br>🛄 | 2 | Regular<br>Kitakami Line 100th anniversary | 盛イチ | Dragon rail | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | ✔️<br>✔️ | ♓♓<br>♓♓ | Tomix 98089<br>Tomix 97978 🆕
 ✅ | 3 | Pokémon with You | 盛イチ || ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98060
 ✅ | 4 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98089
 
@@ -23,7 +23,7 @@ For symbol explanation see [Readme](./readme.md).
 🧰 | Nr | Livery | Depot | Sign | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 || 5 | Regular | 盛イチ | Dragon rail
-🟥 | 6 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97978
+🛄 | 6 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97978 🆕
 || 7 | Regular | 盛イチ | Dragon rail
 ✅ | 8 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97941
 <!-- TODO: unpaint or cut destination board frame to make it metal -->
@@ -142,9 +142,9 @@ Tomix 98100, 97941, 7458, 7459 contain number sheet with cars 10, 11, 14, 15, 16
 || 120
 ⬛ | 121 | Metropolitan Area Color | 長コミ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 10-1169
 🛄 | 122 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32153 🆕
-☑️ | 123 | Regular | 北ココ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32008 🆕
-☑️ | 124 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32008 🆕
-☑️ | 125 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32009 🆕
+☑️ | 123 | Regular | 北ココ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32008
+☑️ | 124 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32008
+☑️ | 125 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32009
 || 126
 || 127
 ✅ | 128 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6043-1
@@ -163,7 +163,7 @@ Tomix 98100, 97941, 7458, 7459 contain number sheet with cars 10, 11, 14, 15, 16
 ✅ | 701 <sup>(← 105)</sup> | Tohoku Emotion | 盛ハヘ | ⚪ | ❌✔️ | ⏸️ | 🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 || キハ112-711 <sup>(← 108)</sup> | HIGH RAIL 1375
 
-Greenmax 32008 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32009 🆕 (⚪|✔️✔️) contain number sheet with cars 123, 124, 125, 126, 127.  
+Greenmax 32008 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32009 (⚪|✔️✔️) contain number sheet with cars 123, 124, 125, 126, 127.  
 Greenmax 32152 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32153 🆕 (⚪|✔️✔️)<!-- contain number sheet with cars 118, 122, 128, 129, 130, 131, 133, 134, 136, 137, 138, 139-->.  
 
 
@@ -360,6 +360,7 @@ Greenmax 50780 (⚪|✔️✔️) contains number sheet with all cars.
 
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
+🛄 | キハ48-1500 | 1506<br>1534<br>1505 | Resort Umineko | ⚪<br>Ⓜ️<br>⚪ | ✔️❌<br>✔️❌<br>❌✔️ | 🟥 | ⬛🔶<br>🔶🔶<br>🔶⬛ | Micro Ace A6542 🆕
 ✅ | キハ52-100 | 144 | Morioka area / Akaoni | ⚪ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
 ✅ | キハ52-100 | 145 | Morioka area / Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
 ✅ | キハ52-100 | 154 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 9403
