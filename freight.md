@@ -200,10 +200,10 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | --- | ---
 ✅ | <span title="Kiwa 90">キワ90</span> | 1 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
 ✅ | <span title="Kiwa 90">キワ90</span> | 2 | locomotive | Ⓜ️ | ❌ | ❌ | ❌ | Tomytec 317593 | __52__
-🛄 | <span title="Wafu 28000">ワフ28000</span> | 28301 | conductor room ||| ❌ | ❌ | Tomix 97976 🆕 | ❓
-⬛ | <span title="Wafu 29500">ワフ29500</span> | 29725 | conductor room ||| ❓ | ❌ | Kato 10-1158 | _50_ + chimney
-✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | conductor room ||| ❌ (cargo side)<br>✔️ (conductor side) | ❌ | Kato 8030 or 10-012 | _50_ + chimney
-✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | conductor room ||| ❌ (cargo side)<br>✔️ (conductor side) | ❌ | Kato 10-1599 | _50_ + chimney
+🛄 | <span title="Wafu 28000">ワフ28000</span> | 28301 | conductor ||| ❌ | ❌ | Tomix 97976 🆕 | ❓
+⬛ | <span title="Wafu 29500">ワフ29500</span> | 29725 | conductor ||| ❓ | ❌ | Kato 10-1158 | _50_ + chimney
+✅ | <span title="Wafu 29500">ワフ29500</span> | 29760 | conductor ||| ❌ (cargo)<br>✔️ (conductor) | ❌ | Kato 8030 or 10-012 | _50_ + chimney
+✅ | <span title="Wafu 29500">ワフ29500</span> | 29765 | conductor ||| ❌ (cargo)<br>✔️ (conductor) | ❌ | Kato 10-1599 | _50_ + chimney
 
 ## Open cars
 
@@ -252,7 +252,7 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 
 🧰 | Series | Number | Combined with | 🚨 | 💡 | Comes from | Width
 :-: | --- | --- | --- | :-: | :-: | --- | ---
-🛄 | <span title="Tomufu 1">トムフ1</span> | 167 | conductor room | ❌ | ❌ | Tomix 97976 🆕 | ❓
+🛄 | <span title="Tomufu 1">トムフ1</span> | 167 | conductor | ❌ | ❌ | Tomix 97976 🆕 | ❓
 
 ## Tank cars
 
