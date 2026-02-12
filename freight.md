@@ -252,7 +252,7 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 
 🧰 | Series | Number | Combined with | 🚨 | 💡 | Comes from | Width
 :-: | --- | --- | --- | :-: | :-: | --- | ---
-🛄 | <sup><sub>　</sub></sup><span title="Tomufu 1">トムフ1</span> | 167 | conductor room | ❌ | ❌ | Tomix 97976 🆕 | ❓
+🛄 | <span title="Tomufu 1">トムフ1</span> | 167 | conductor room | ❌ | ❌ | Tomix 97976 🆕 | ❓
 
 ## Tank cars
 
@@ -287,8 +287,8 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 🧰 | Series | Number | Details | Comes from | Width
 :-: | --- | --- | --- | --- | ---
 ⬜<br>🟨 | <span title="Komu 1">コム1</span> | 11 | Daiwa Royal Hotels container<br>JNR R900 white container | Tomix 93115<br>Tomix 8765 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR C10 green container | Tomix 2718 or 90097 or Tomix 97976 🆕 | ___60___
-✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR C10 white container | Tomix 2719 or 90097 or Tomix 97976 🆕 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 15 | 2× JNR C10 green container | Tomix 2718 or 90097 or 97976 🆕 | ___60___
+✅ | <span title="Komu 1">コム1</span> | 38 | 2× JNR C10 white container | Tomix 2719 or 90097 or 97976 🆕 | ___60___
 🟨 | <span title="Komu 1">コム1</span> | 39 | JNR C900 green container | Tomix 8764 | ___60___
 ⬜ | <span title="Komu 1">コム1</span> | 1961 | Osaka Loop Line - 60 Years Connected container | Tomix 93224 <sup>Train Box</sup> | ___60___
 ✅ | <span title="Komu 1">コム1</span> | 2011 | Tetsudo Plaza container (Osaka Station City) | Tomix (no code) <sup>Train Box</sup> | ___60___
