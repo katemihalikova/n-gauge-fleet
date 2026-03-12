@@ -196,9 +196,9 @@ Greenmax 32152 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32153 �
 || 217
 ⬛ | 218 | Regular | Ⓜ️ | ✔️🟥 | 🟥 | Greenmax 31801
 ⬛ | 219 | Regular | Ⓜ️ | ✔️✔️ | 🟥 | Greenmax 31802
-⬛ | 220 | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31801
+⬛<br>⬛ | 220 | Regular | ⚪<br>Ⓜ️ | 🟥✔️<br>✔️🟥 | 🟥 | Greenmax 31801<br>Greenmax 32202
 ⬛ | 221 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30545
-⬛ | 222 | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 30545
+⬛<br>⬛ | 222 | Regular | ⚪<br>⚪ | ✔️✔️<br>✔️✔️ | 🟥 | Greenmax 30545<br>Greenmax 32202
 
 Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 214, 215, 216, 217, 218, 219, 220.
 
@@ -208,10 +208,10 @@ Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 2
 :-: | --- | --- | :-: | :-: | :-: | ---
 ⬛<br>⬛<br>⬛<br>⬛<br>⬜ | 223 <sup>(← 301)</sup> | Regular<br>Regular<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes)<br>Tadami Line (White, Green Stripes) | ⚪<br>Ⓜ️<br>Ⓜ️<br>Ⓜ️<br>⚪ | ✔️❌<br>❌✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥<br>🟥<br>🟥<br>🟥<br>🟥 | Greenmax 30766<br>Greenmax 31520<br>Greenmax 50749<br>Greenmax 50793<br>Greenmax 50794
 ⬛<br>⬛<br>⬛ | 224 <sup>(← 302)</sup> | Regular | ⚪<br>⚪<br>Ⓜ️ | ❌✔️<br>✔️❌<br>🟥✔️ | 🟥<br>🟥<br>🟥 | Greenmax 30765<br>Greenmax 31520<br>Greenmax 50774
-⬛ | 225 <sup>(← 303)</sup> | Regular | ⚪ | 🟥✔️ | 🟥 | Greenmax 31744
+⬛<br>⬛ | 225 <sup>(← 303)</sup> | Regular<br>Akita Relay (retro) | ⚪<br>Ⓜ️ | 🟥✔️<br>✔️🟥 | 🟥 | Greenmax 31744<br>Greenmax 50855
 ⬛ | 226 <sup>(← 304)</sup> | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30587
 || 227 <sup>(← 305)</sup>
-|| 228 <sup>(← 306)</sup>
+⬛ | 228 <sup>(← 306)</sup> | Regular | ⚪ | ✔️✔️ | 🟥 | Greenmax 50855
 ⬛ | 229 <sup>(← 307)</sup> | Regular | ⚪ | ❌✔️ | 🟥 | Greenmax 30587
 ⬛ | 230 <sup>(← 308)</sup> | Regular | Ⓜ️ | ✔️🟥 | 🟥 | Greenmax 31744
 ⬛ | 231 <sup>(← 309)</sup> | Voiture Amitié | ⚪ | ❌✔️ | 🟥 | Greenmax 50587
@@ -254,7 +254,7 @@ Greenmax 31803 (⚪|🟥✔️) contains number sheet with cars 211, 212, 213, 2
 ☑️ | _~~313~~_ <sup>(→ 235)</sup> | Akita Relay | ⚪ | 🟥🟥 | 🟥 | ➖➖ | Greenmax 50780
 ☑️ | _~~314~~_ <sup>(→ 236)</sup> | Akita Relay | Ⓜ️ | 🟥✔️ | 🟥 | 🔲➖ | Greenmax 50780
 
-Greenmax 50780 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains number sheet with all cars.
+Greenmax 50780 and 50856 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contain number sheet with all cars.
 
 ## キハ111 + キハ112
 ### 0 subseries (20m, plug door, 1036mm door step, toilet in the middle, pipe skirt, 7 windows, dummy window)
@@ -310,11 +310,11 @@ Greenmax 50780 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains numb
 || 201
 || 202
 || 203
-⬛<br>⬛<br>⬛<br>⬛ | 204 | Hachiko Line Revival Color<br>Hachiko Line Revival Color<br>Hachiko Line Revival Color, 80th Anniversary Logo<br>Regular, SL Gunma × Hachiko Line Wrapping | Ⓜ️<br>⚪<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥 | Greenmax 30543<br>Greenmax 30544<br>Greenmax 50632<br>Greenmax 50636
+⬛<br>⬛<br>⬛<br>⬛ | 204 | Hachiko Line Revival Color<br>Hachiko Line Revival Color<br>Hachiko Line Revival Color, 80th Anniversary Logo<br>Regular, SL Gunma × Hachiko Line Wrapping<br>Regular | Ⓜ️<br>⚪<br>Ⓜ️<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥 | Greenmax 30543<br>Greenmax 30544<br>Greenmax 50632<br>Greenmax 50636<br>Greenmax 32203
 ⬛ | 205 | Regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 30546
 ⬛ | 206 | Regular | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 30547
-|| 207
-|| 208
+⬛ | 207 | Regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 31867
+⬛ | 208 | Regular | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 31868
 || 209
 
 #### Cars rebuilt from 300 subseries (toilet at the end)
@@ -347,7 +347,7 @@ Greenmax 50780 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) contains numb
 ⬜ | _~~302~~_ <sup>(→ 211)</sup> | Akita Relay | Ⓜ️ | ✔️❌ | 🟥🟥 | ➖🔶🔶🔲 | Greenmax 50586
 ✅ | _~~303~~_ <sup>(→ 212)</sup> | Akita Relay | ⚪ | ✔️✔️ | 🟥🟥 | ♓🔶🔷♓ | Greenmax 50780
 
-Greenmax 50780 (⚪|✔️✔️) contains number sheet with all cars.
+Greenmax 50780 and 50856 (⚪|✔️✔️) contain number sheet with all cars.
 
 ## SL Ginga
 
