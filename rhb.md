@@ -60,7 +60,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1514 · 7074048 or 7074049 or 10-1413 (v2) · 7074077
 ⬜ | A1232 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1414 (v2) · 7074078
 ⬛ | A1235 | Green | 🟥 | Pirata 9220 or Kato 10-1987
-⬛ | A1239 | Green | 🟥 | Pirata 9221
+⬛<br>⬜ | A1239 | Green<br>Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥<br>🟥 | Pirata 9221<br>Pirata 9231
 ✅ | A1241 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 (v1) · 7074045 or 10-1414 (v2) · 7074078
 ⬛ | As1256 | Blue - Arosa Express | 🟥 | Pirata 9211
 ⬛ | AB1570 | Blue - Arosa Express | 🟥 | Pirata 9211
@@ -71,6 +71,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ⬛ | B2319 | Blue - Arosa Express | 🟥 | Pirata 9210
 ✅ | B2343 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 (v1) · 7074044
 ✅ | B2344 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1514 · 7074048 or 7074049 or 10-1414 (v2) · 7074078
+⬜ | B2346 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9230
 ✅ | B2347 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 (v1) · 7074044 or 10-1413 (v2) · 7074077
 ⬜ | B2351 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1413 (v2) · 7074077
 ✅ | B2352 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1413 (v1) · 7074044
