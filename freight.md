@@ -59,9 +59,9 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 74015 || Kato 8056 | _50_
 ✅ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 86790 | brown | Tomix 98713 | ___60___
 ✅ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 87213 | brown | Tomix 98713 | ___60___
-⬜ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 88930 | brown | Tomix 8760 | ___60___
+⬜ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 88930 | brown | Tomix 8760 🆕 | ___60___
 ✅ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 183807 | brown | Tomix 8734 | ___60___
-⬜ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 184173 | brown | Tomix 8760 | ___60___
+⬜ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 184173 | brown | Tomix 8760 🆕 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 280077 | brown, gray roof | Kato 10-1738 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 280605 | brown, gray roof | Kato 10-1738 | ___60___
 ⬛ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 280801 | brown, gray roof | Kato 10-1738 | ___60___
@@ -216,8 +216,8 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 🛄 | <sup><sub>　</sub></sup><span title="Semu 8000">セム8000</span> | 8012 || Tomix 97976 🆕 | ❓
 ✅ | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 40222 || Tomix 98866 | _50_
 ✅ | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 40604 || Tomix 98866 | _50_
-🟨 | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 42375 || Tomix 8768 | _50_
-🟨 | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 42505 || Tomix 8768 | _50_
+🟨 | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 42375 || Tomix 8768 🆕 | _50_
+🟨 | <span title="Tora 40000"><sup><sub><strong>コ</strong></sub></sup>トラ40000</span> | 42505 || Tomix 8768 🆕 | _50_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 45270 | sheet cover with box underneath | Kato 8027-1 or 10-033 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 46264 || Kato 8027 | _50 low_
 ✅ | <span title="Tora 45000"><sup><sub><strong>コ</strong></sub></sup>トラ45000</span> | 47061 | sheet cover with box underneath | Kato 8027-1 | _50 low_
