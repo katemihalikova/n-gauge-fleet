@@ -137,11 +137,11 @@ Tomix 98100, 97941, 7458, 7459 contain number sheet with cars 10, 11, 14, 15, 16
 || 115
 || 116
 || 117
-🛄 | 118 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32153 🆕
+|| 118
 || 119
 || 120
 ⬛ | 121 | Metropolitan Area Color | 長コミ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 10-1169
-🛄 | 122 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32153 🆕
+⬜ | 122 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 6044-2 🆕
 ☑️ | 123 | Regular | 北ココ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32008
 ☑️ | 124 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32008
 ☑️ | 125 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32009
@@ -149,23 +149,22 @@ Tomix 98100, 97941, 7458, 7459 contain number sheet with cars 10, 11, 14, 15, 16
 || 127
 ✅ | 128 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6043-1
 ✅ | 129 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔁♓ (DIY) | Kato 6044-1
-⬜ | 130 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥 | 🔁🔁 | Kato 6043
-|| 131
+⬛<br>🛄 | 130 | Regular | 水スイ<br>盛モリ | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>🟥✔️ | 🟥<br>🟥 | 🔁🔁<br>➖🔲 | Kato 6043<br>Greenmax 32152 🆕
+🛄 | 131 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32153 🆕
 || _~~132~~_ | _scrapped 2017_
-🛄 | 133 | Regular | 盛モリ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32152 🆕
+|| 133
 🛄 | 134 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32152 🆕
 ⬛<br>⬛ | 135 | Metropolitan Area Color | 仙コリ | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 || Greenmax 50774<br>Greenmax 50775
-|| 136
+🛄 | 136 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32153 🆕
 ✅ | 137 | Regular | 水スイ | ⚪ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6044
 🛄 | 138 | Regular | 盛モリ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32152 🆕
-🛄 | 139 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32152 🆕
+🛄<br>⬛ | 139 | Regular | 盛モリ<br>盛モリ | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | 🟥<br>🟥 | 🔲➖<br>🔁🔁 | Greenmax 32152 🆕<br>Kato 6043-2 🆕
 ||
 ✅ | 701 <sup>(← 105)</sup> | Tohoku Emotion | 盛ハヘ | ⚪ | ❌✔️ | ⏸️ | 🔁🔁 | <span title="RoundHouse">Katoᴿᴴ</span> 10-936
 || キハ112-711 <sup>(← 108)</sup> | HIGH RAIL 1375
 
 Greenmax 32008 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32009 (⚪|✔️✔️) contain number sheet with cars 123, 124, 125, 126, 127.  
-Greenmax 32152 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32153 🆕 (⚪|✔️✔️)<!-- contain number sheet with cars 118, 122, 128, 129, 130, 131, 133, 134, 136, 137, 138, 139-->.  
-
+Greenmax 32152 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32153 🆕 (⚪|✔️✔️) contain number sheet with cars 128, 129, 130, 131, 132, 134, 136, 137, 138, 139.  
 
 ### 200 subseries (sliding door, 970mm door step, plate skirt, 8 windows)
 #### First batch (20m)
@@ -286,11 +285,11 @@ Greenmax 50780 and 50856 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) con
 ⬛ | 111 | Express Color | 長コミ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-1169
 || 112
 || 113
-|| 114
+⬜ | 114 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-2082 🆕
 ✅ | 115 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-1165
 ✅ | 116 | Regular | 盛モリ | ⚪ | ✔️✔️ | ⏸️⏸️ | 🔁🔁🔁🔁 | Kato 10-1166
 || 117
-|| 118
+⬜ | 118 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-2081 🆕
 ⬜ | 119 | Regular | 水スイ | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-347
 ⬜ (キハ111)<br>✅ (キハ112) | 120 | Regular | 水スイ | ⚪ | ✔️✔️ | 🟥🟥 | 🔁🔁🔁🔁 | Kato 10-348
 || 121

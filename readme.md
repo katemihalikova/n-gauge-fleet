@@ -31,7 +31,7 @@ Overview of my N gauge fleet
 * ☀️ Front lights / 🚨 Rear lights / 💡 Interior lights
   * ✔️ Equipped out of the box (or box contains all parts)
   * 🟥 Not equipped out of the box but can be added using official extra parts
-  * ✅ Equipped with official extra parts
+  * ✅ Equipped with official extra parts (with no switch for Greenmax front/rear lights)
   * ⏸️ Equipped with TOG2 battery interior lights
   * ❌ Not supported (except DIY)
   * ☑️ Equipped using DIY
