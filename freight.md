@@ -25,7 +25,9 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 5733 | refrigerated, white, blue stripe | Kato 8084 | __55__
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 5798 | refrigerated, white, blue stripe | Kato 8084 | __55__
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 6089 | refrigerated, white, blue stripe | Tomix 2712 | __55__
+⬜ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 6270 | refrigerated, white, blue stripe | Tomix 8780 🆕 | __55__
 ✅ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 6352 | refrigerated, white, blue stripe | Tomix 98713 | __55__
+⬜ | <sup><sub>　</sub></sup><span title="Remu 5000">レム5000</span> | 6468 | refrigerated, white, blue stripe | Tomix 8780 🆕 | __55__
 ✅ | <sup><sub>　</sub></sup><span title="Wa 12000">ワ12000</span> | 12188 || Kato 8060 | 40
 ✅ | <sup><sub>　</sub></sup><span title="Wa 12000">ワ12000</span> | 12360 || Kato 8060 | 40
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 1900">ワム1900</span> | 1925 || Tomix 98787 | _50_
@@ -149,12 +151,16 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 90000">ワム90000</span> | 124164 | no door ribs | Tomix 2728 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 90000">ワム90000</span> | 124467 || Kato 10-1599 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 90000">ワム90000</span> | 135083 || Tomix 2727 | _50_
+⬜ | <sup><sub>　</sub></sup><span title="Wamu 90000">ワム90000</span> | 138549 || Tomix 8777 🆕 | _50_
+⬜ | <sup><sub>　</sub></sup><span title="Wamu 90000">ワム90000</span> | 139828 || Tomix 8777 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 1234 || Kato 8025 or 10-012 or 10-809 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 2095 || Tomix 2717 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 2579 || Kato 10-1599 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 4364 || Tomix 98866 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 6542 || Kato 8025 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 8287 || Tomix 98866 | _50_
+⬜ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 9124 || Tomix 8781 🆕 | _50_
+⬜ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 12345 || Tomix 8781 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 16395 || Tomix 98713 | _50_
 
 <!--
