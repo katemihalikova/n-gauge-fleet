@@ -361,8 +361,8 @@ Greenmax 50780 and 50856 (⚪|✔️✔️) contain number sheet with all cars.
 🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 🛄 | キハ48-1500 | 1506<br>1534<br>1505 | Resort Umineko | ⚪<br>Ⓜ️<br>⚪ | ✔️❌<br>✔️❌<br>❌✔️ | 🟥 | ⬛🔶<br>🔶🔶<br>🔶⬛ | Micro Ace A6542 🆕
-✅ | キハ52-100 | 144 | Morioka area / Akaoni | ⚪ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
-✅ | キハ52-100 | 145 | Morioka area / Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
+✅ | キハ52-100 | 144 | Morioka area Akaoni | ⚪ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
+✅ | キハ52-100 | 145 | Morioka area Akaoni | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 98019
 ✅ | キハ52-100 | 154 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥 | ♋♋ | Tomix 9403
 ✅ | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 | ♓♓ | Micro Ace A7442
 ✅ | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 | ♓♓ | Micro Ace A7442
