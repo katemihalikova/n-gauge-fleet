@@ -82,7 +82,7 @@ Tomix 7458, 7459 contain number sheet with cars 10, 11, 15, 17, 18, 22, 23, 25, 
 
 🧰 | Nr | Livery | Depot | Sign | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | --- | :-: | :-: | :-: | :-: | ---
-|| 201 | Regular | 盛ハヘ | Hamanasu Bay Line
+|| ~~201~~ | Regular<br>_scrapped 2026_ | 盛ハヘ | Hamanasu Bay Line
 || 202 | Regular | 盛ハヘ | Hamanasu Bay Line
 || 203 | Regular | 盛ハヘ | Hamanasu Bay Line
 || 204 | Regular | 盛ハヘ | Hamanasu Bay Line
