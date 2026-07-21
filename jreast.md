@@ -180,8 +180,8 @@ Greenmax 32152 🆕 (⚪|✔️✔️ + Ⓜ️|🟥✔️) and Greenmax 32153 �
 ⬛<br>⬛ | 206 | Regular | ⚪<br>Ⓜ️ | ✔️❌<br>🟥✔️ | 🟥<br>🟥 | Greenmax 30765<br>Greenmax 31703
 ⬛ | 207 | Regular | Ⓜ️ | ✔️❌ | 🟥 | Greenmax 30867
 ⬛ | 208 | Regular | ⚪ | ❌✔️ | 🟥 | Greenmax 30867
-⬛ | 209 | Regular | ⚪ | ✔️❌ | 🟥 | Greenmax 50632
-|| 210
+⬛ | ~~209~~ | Regular<br>_transferred 2026_ | ⚪ | ✔️❌ | 🟥 | Greenmax 50632
+|| ~~210~~ | _transferred 2026_
 
 #### Second batch (20.5m)
 
@@ -310,9 +310,9 @@ Greenmax 50780 and 50856 (⚪|✔️🟥 + ⚪|🟥🟥 + Ⓜ️|🟥✔️) con
 || 201
 || 202
 || 203
-⬛<br>⬛<br>⬛<br>⬛ | 204 | Hachiko Line Revival Color<br>Hachiko Line Revival Color<br>Hachiko Line Revival Color, 80th Anniversary Logo<br>Regular, SL Gunma × Hachiko Line Wrapping<br>Regular | Ⓜ️<br>⚪<br>Ⓜ️<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥 | Greenmax 30543<br>Greenmax 30544<br>Greenmax 50632<br>Greenmax 50636<br>Greenmax 32203
+⬛<br>⬛<br>⬛<br>⬛<br>⬛ | ~~204~~ | Hachiko Line Revival Color<br>Hachiko Line Revival Color<br>Hachiko Line Revival Color, 80th Anniversary Logo<br>Regular, SL Gunma × Hachiko Line Wrapping<br>Regular<br>_scrapped 2026_ | Ⓜ️<br>⚪<br>Ⓜ️<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️<br>✔️✔️ | 🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥<br>🟥🟥 | Greenmax 30543<br>Greenmax 30544<br>Greenmax 50632<br>Greenmax 50636<br>Greenmax 32203
 ⬛ | 205 | Regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 30546
-⬛ | 206 | Regular | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 30547
+⬛ | ~~206~~ | Regular<br>_scrapped 2025_ | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 30547
 ⬛ | 207 | Regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | Greenmax 31867
 ⬛ | 208 | Regular | ⚪ | ✔️✔️ | 🟥🟥 | Greenmax 31868
 || 209
