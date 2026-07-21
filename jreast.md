@@ -16,7 +16,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 1 | Pokémon with You | 盛イチ || Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98060
 ✅<br>🛄 | 2 | Regular<br>Kitakami Line 100th anniversary | 盛イチ | Dragon rail | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | ✔️<br>✔️ | ♓♓<br>♓♓ | Tomix 98089<br>Tomix 97978 🆕
 ✅ | 3 | Pokémon with You | 盛イチ || ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98060
-✅ | 4 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98089
+✅ | ~~4~~ | Regular<br>_scrapped 2026_ | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98089
 
 #### First batch (pipe skirt, rubber-framed cab side window, metal-framed destination board)
 
