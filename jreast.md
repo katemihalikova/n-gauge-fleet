@@ -11,7 +11,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | 1 | Prototype | 盛イチ || Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98089
 ✅ | 2 | Prototype | 盛イチ || ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98089
 ✅ | 3 | Prototype | 盛イチ || Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98089
-✅ | 4 | Prototype | 盛イチ ||||| spare body only | Tomix 98089
+✅ | ~~4~~ | Prototype<br>_scrapped 2026_ | 盛イチ ||||| spare body only | Tomix 98089
 ||
 ✅ | 1 | Pokémon with You | 盛イチ || Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98060
 ✅<br>🛄 | 2 | Regular<br>Kitakami Line 100th anniversary | 盛イチ | Dragon rail | ⚪<br>Ⓜ️ | ✔️✔️<br>✔️✔️ | ✔️<br>✔️ | ♓♓<br>♓♓ | Tomix 98089<br>Tomix 97978 🆕
@@ -24,8 +24,8 @@ For symbol explanation see [Readme](./readme.md).
 :-: | --- | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 || 5 | Regular | 盛イチ | Dragon rail
 🛄 | 6 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97978 🆕
-|| 7 | Regular | 盛イチ | Dragon rail
-✅ | 8 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97941
+|| ~~7~~ | Regular<br>_scrapped 2025_ | 盛イチ | Dragon rail
+✅ | ~~8~~ | Regular<br>_scrapped 2025_ | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 97941
 <!-- TODO: unpaint or cut destination board frame to make it metal -->
 
 #### Second batch (plate skirt, rubber-framed cab side window, rubber-framed destination board)
@@ -62,20 +62,21 @@ For symbol explanation see [Readme](./readme.md).
 || 36 | Regular | 盛イチ | Dragon rail
 || 37 | Regular | 盛イチ | Dragon rail
 || _~~38~~_ | _scrapped 2011_
-|| _~~39~~_ | _transferred 2024_
+|| _~~39~~_ | _transferred 2025_
 || _~~40~~_ | _transferred 2024_
 || _~~41~~_ | _transferred 2024_
-✅ | 42 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
+✅ | ~~42~~ | Regular<br>_scrapped 2025_ | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 || 43 | Regular | 盛イチ | Dragon rail
 || 44 | Regular | 盛イチ | Dragon rail
 ✅ | 45 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057
-✅ | 46 | Regular | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
+✅ | ~~46~~ | Regular | 盛イチ<br>_scrapped 2026_ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 ||
 || キハ103-711 <sup>(← 29)</sup> | HIGH RAIL 1375
 
 Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and 33, 34, 39, 40, 45, 46 (Ichinoseki).  
 Tomix 98089 contains number sheet with cars 1, 2, 3, 4 (prototypes).  
-Tomix 98100, 97941, 7458, 7459 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28 (Morioka) and 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46 (Ichinoseki).
+Tomix 98100, 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28 (Morioka) and 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46 (Ichinoseki).
+Tomix 7458, 7459 contain number sheet with cars 10, 11, 15, 17, 18, 22, 23, 25, 26 (Morioka), 20 (Hachinohe), and 31, 32, 33, 34, 35, 36, 37, 42, 45, 46 (Ichinoseki).
 
 ### 200 subseries (17m, sliding door)
 
@@ -145,8 +146,8 @@ Tomix 98100, 97941, 7458, 7459 contain number sheet with cars 10, 11, 14, 15, 16
 ☑️ | 123 | Regular | 北ココ | Ⓜ️ | 🟥✔️ | 🟥 | ➖🔲 | Greenmax 32008
 ☑️ | 124 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲➖ | Greenmax 32008
 ☑️ | 125 | Regular | 北ココ | ⚪ | ✔️✔️ | 🟥 | 🔲🔲 | Greenmax 32009
-|| 126
-|| 127
+|| 126 | Regular | 北ココ
+|| 127 | Regular | 北ココ
 ✅ | 128 | Regular | 盛モリ | Ⓜ️ | ✔️✔️ | ⏸️ | 🔁🔁 | Kato 6043-1
 ✅ | 129 | Regular | 盛モリ | ⚪ | ✔️✔️ | 🟥 | 🔁♓ (DIY) | Kato 6044-1
 ⬛<br>🛄 | 130 | Regular | 水スイ<br>盛モリ | Ⓜ️<br>Ⓜ️ | ✔️✔️<br>🟥✔️ | 🟥<br>🟥 | 🔁🔁<br>➖🔲 | Kato 6043<br>Greenmax 32152 🆕
