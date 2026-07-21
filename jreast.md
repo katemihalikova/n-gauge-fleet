@@ -75,7 +75,7 @@ For symbol explanation see [Readme](./readme.md).
 
 Tomix 98057 contains number sheet with cars 10, 11, 16, 17, 27, 28 (Morioka) and 33, 34, 39, 40, 45, 46 (Ichinoseki).  
 Tomix 98089 contains number sheet with cars 1, 2, 3, 4 (prototypes).  
-Tomix 98100, 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28 (Morioka) and 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46 (Ichinoseki).
+Tomix 98100, 97941 contain number sheet with cars 10, 11, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28 (Morioka) and 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46 (Ichinoseki).  
 Tomix 7458, 7459 contain number sheet with cars 10, 11, 15, 17, 18, 22, 23, 25, 26 (Morioka), 20 (Hachinohe), and 31, 32, 33, 34, 35, 36, 37, 42, 45, 46 (Ichinoseki).
 
 ### 200 subseries (17m, sliding door)
