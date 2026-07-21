@@ -69,7 +69,7 @@ For symbol explanation see [Readme](./readme.md).
 || 43 | Regular | 盛イチ | Dragon rail
 || 44 | Regular | 盛イチ | Dragon rail
 ✅ | 45 | Regular | 盛イチ | Dragon rail | ⚪ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98057
-✅ | ~~46~~ | Regular | 盛イチ<br>_scrapped 2026_ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
+✅ | ~~46~~ | Regular<br>_scrapped 2026_ | 盛イチ | Dragon rail | Ⓜ️ | ✔️✔️ | ✔️ | ♓♓ | Tomix 98100
 ||
 || キハ103-711 <sup>(← 29)</sup> | HIGH RAIL 1375
 
