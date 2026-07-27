@@ -24,4 +24,4 @@ For symbol explanation see [Readme](./readme.md).
 
 🧰 | Number | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | :-: | :-: | :-: | :-: | ---
-🛄 | 11 | Regular | Ⓜ️ | ✔️ | 🟥 | 🅾️🅾️🅾️🅾️ | Micro Ace A4921
+✅ | 11 | Regular | Ⓜ️ | ✔️ | 🟥 | 🅾️🅾️🅾️🅾️ | Micro Ace A4921
