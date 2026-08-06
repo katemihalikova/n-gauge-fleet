@@ -42,6 +42,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50008 | wooden | Tomix 8701 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50063 | plywood | Tomix 8702 | _50_
 🛄 | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 50835 | ❓ | Tomix 97976 🆕 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 50000">ワム50000</span> | 51172 | plywood | Tomix 97623 🆕 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub><strong>キ</strong></sub></sup>ワム60000</span> | 61381 | express | Tomix 98735 | _50_
 ✅ | <span title="Wamu 60000"><sup><sub><strong>キ</strong></sub></sup>ワム60000</span> | 61738 | express | Tomix 98735 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 62664 || Tomix 98713 | _50_
@@ -53,6 +54,7 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | <span title="Wamu 60000"><sup><sub><strong>キ</strong></sub></sup>ワム60000</span> | 64571 | express | Tomix 98735 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 65184 || Tomix 8750 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 60000">ワム60000</span> | 66715 || Tomix 8750 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 70158 || Tomix 97623 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 71452 | express, orange stripes | Tomix 98735 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 71459 | express, orange stripes | Tomix 98735 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wamu 70000">ワム70000</span> | 71968 || Tomix 2733 | _50_
@@ -163,6 +165,18 @@ For symbol explanation see [Readme](./readme.md).
 ⬜ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 12345 || Tomix 8781 🆕 | _50_
 ✅ | <sup><sub>　</sub></sup><span title="Wara 1">ワラ1</span> | 16395 || Tomix 98713 | _50_
 
+### Kits
+
+🧰 | Series | Number | Details | Comes from | Width
+:-: | --- | --- | --- | --- | ---
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 1">ワム1</span> | selectable || Tomix 12799 🆕 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 3500">ワム3500</span> | selectable || Tomix 12799 🆕 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 19780">ワム19780</span> | selectable || Tomix 12799 🆕 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | selectable || Tomix 12799 🆕 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | selectable || Tomix 12798 🆕 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 23000">ワム23000</span> | selectable | no door ribs | Tomix 12798 🆕 | _50_
+🟨 | <sup><sub>　</sub></sup><span title="Wamu 32000">ワム32000</span> | selectable || Tomix 12799 🆕 | _50_
+
 <!--
 Oversized Kato Wamu & Re https://samanthabaka.blog.fc2.com/blog-entry-234.html
 ✅ | <sup><sub>　</sub></sup><span title="Re 12000">レ<sub><sup>テ</sub></sup>12000</span> | 12012 | refrigerated, white, **oversized** | Kato 8006 or 10-033 or 10-809 | _50_
@@ -251,7 +265,9 @@ Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
 ⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91938 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ⬛ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 91943 | wire mesh fence | Kato 10-1377 | _50_ + cover
 ✅ | <span title="Tora 90000"><sup><sub><strong>コ</strong></sub></sup>トラ90000</span> | 92459 | wire mesh fence | Kato 8062 | _50_ + cover
-🛄 | <sup><sub>　</sub></sup><span title="Tomu 70000">トム50000</span> | 51031 || Tomix 97976 🆕 | ❓
+🟨 | <sup><sub>　</sub></sup><span title="Tomu 11000">トム11000</span> | 11275 | yellow stripe | Tomix 97623 🆕 | ❓
+🛄 | <sup><sub>　</sub></sup><span title="Tomu 50000">トム50000</span> | 51031 || Tomix 97976 🆕 | ❓
+🟨 | <sup><sub>　</sub></sup><span title="Tomu 150000">トム150000</span> | 153383 | yellow stripe | Tomix 97623 🆕 | ❓
 
 ### Accessories
 
@@ -329,6 +345,8 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 🛄 | <span title="Chi 1">チ1</span> | 1 | wood | Tomix 97976 🆕 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 28 | concrete pipe | Tomix 2721 | ___60___
 ✅ | <span title="Chi 1">チ1</span> | 51 | wood | Tomix 2720 | ___60___
+🟨 | <span title="Chisa 1600">チサ1600</span> | 1613 | yellow stripe | Tomix 97623 🆕 | ❓
+🟨 | <span title="Chisa 1600">チサ1600</span> | 1622 | yellow stripe | Tomix 97623 🆕 | ❓
 
 ## Conductor cars
 
@@ -336,7 +354,7 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 :-: | --- | --- | :-: | :-: | --- | --- | ---
 ⬛ | <span title="Yo 3500">ヨ3500</span> | 3997 | ✔️✔️ | 🟥 || Kato 8035-1 | _50_
 ⬛ | <span title="Yo 3500">ヨ3500</span> | 4356 | ✔️✔️ | 🟥 || Kato 8035-2 | _50_
-✅ | <span title="Yo 3500">ヨ3500</span> | 4428 | ✔️✔️ | ✔️ || Tomix 98787 | _50_
+🟨 | <span title="Yo 3500">ヨ3500</span> | 4415 | ✔️✔️ | ✔️ || Tomix 97623 🆕 | _50_
 ✅ | <span title="Yo 3500">ヨ3500</span> | 4689 | ✔️✔️ | ✔️ || Tomix 98735 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 5006 | ✔️❌ | 🟥 | green, brown frame, Takara tail mark,<br>one coupler dummy only | Kato 10-489 | _50_
 ⬛ | <span title="Yo 5000">ヨ5000</span> | 5008 | ✔️✔️ | ✔️ | green, brown frame | Tomix 93171 or 93213 | _50_
@@ -366,6 +384,12 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 ⬛ | 8620 | 58698 | Black | Ⓜ️ | ✔️ | ❌ | ⬛🔷 | Kato 2028-1
 ⬛ | 8620 | 68656 | Black | Ⓜ️ | ✔️ | ❌ | ⬛🔷 | Kato 2028-1
 ✅ | 8620 | 78646 | Black | Ⓜ️ | ✔️ | ❌ | 🅱️🔷 | Kato 2028-1 + 10-1599
+||
+🟨 | 9600 | 49699 | Black | Ⓜ️ | ✔️ | ✔️ | ⬛🔷 | Tomix 2013 🆕
+⬛ | 9600 | 59614 | Black | Ⓜ️ | ✔️ | ✔️ | ⬛🔷 | Tomix 2013 🆕
+⬜ | 9600 | 59689 | Black | Ⓜ️ | ✔️ | ✔️ | ⬛🔷 | Tomix 2013 🆕
+⬛ | 9600 | 59695 | Black | Ⓜ️ | ✔️ | ✔️ | ⬛🔷 | Tomix 2013 🆕
+🟨 | 9600 | 79642 | Black | Ⓜ️ | ✔️ | ✔️ | ⬛🔷 | Tomix 2013 🆕
 ||
 ✅ | DE10 | 1188 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | ♋♋ | Tomix 92404
 ⬛ | DE10 | 1191 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | 🔷🔷 | Tomix 92404
