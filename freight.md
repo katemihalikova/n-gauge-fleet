@@ -216,6 +216,9 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/
 ⬛ | <sup><sub>　</sub></sup><span title="Wamu 80000">ワム80000</span> | – | silver, TOMY Dream Energy, no car number printed | Tomix 92915 | ___60___
 
 Other old Tomix freight cars http://trainweb.org/tomix/rollingstock/index.htm
+
+https://ngauge.jp/12780_wamu8/ - Tomix 50th anniversary
+⬜ | <span title="Wamu 80000"><sup><sub><strong>ハ</strong></sub></sup>ワム80000</span> | 760926 | white, Tomix logo | Tomix 12780 | ___60___
 -->
 
 ## Combined box cars
