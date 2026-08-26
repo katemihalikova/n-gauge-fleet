@@ -406,6 +406,8 @@ https://plaza.rakuten.co.jp/yoshiyukit/diary/202108120000/  from 2001
 ✅ | DD51 | 1147 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | 🔷🔷 | Kato 7008-J
 ⬛ | DD51 | 1165 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | 🔷🔷 | Kato 7008-J
 ⬛ | DD51 | 1166 | Blue A Renewal | Ⓜ️ | ✔️ | ✔️ | 🔷🔷 | Kato 7008-J
+||
+🟨 | DD56 | 2 | Hachinohe Rinkai Railway Blue | Ⓜ️ | ✔️ | ✔️ | 🔷🔷 | <span title="Hobby Center Kato">Katoᴴꟲ</span> HCSP0315 🆕
 
 ## Shorty locomotives
 
