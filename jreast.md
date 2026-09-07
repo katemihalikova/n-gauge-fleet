@@ -373,9 +373,3 @@ Greenmax 50780 and 50856 (⚪|✔️✔️) contain number sheet with all cars.
 ✅ | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556 or 10-1556S
 
 Tomix 98019 contains number sheet with cars 141, 143, 144, 145, 147, 149, 151, 152, 153, 155 + separate numbers for any car number.
-
-## Track maintenance
-
-🧰 | Series | Nr | Livery | 🚃 | 🚨 | 💡 | Coupler | Comes from
-:-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
-✅ | マヤ34 | 2002 | white / ligh blue | Ⓜ️ | ✔️✔️ | ⏸️ | ♓♋ | Micro Ace A0301
