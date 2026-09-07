@@ -10,6 +10,8 @@ For symbol explanation see [Readme](./readme.md).
 ✅ | Multiple Tie Tamper 09-16 CSM | Senken Kogyo | Ⓜ️ | ✔️ | ✔️ | ⬛➖➖⬛ | Greenmax 4712
 ✅ | Ballast Regulator KSP2002E | Senken Kogyo | Ⓜ️ | ✔️ | ✔️ | ⬛⬛ | Greenmax 4785
 
+## Track diagnostic
+
 🧰 | Series | Nr | Livery | 🚃 | 🚨 | 💡 | Coupler | Comes from
 :-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
 ✅ | マヤ34 | 2002 | white / ligh blue, JR East logo | ⚪ | ✔️✔️ | ⏸️ | ♓♋ | Micro Ace A0301
@@ -17,6 +19,12 @@ For symbol explanation see [Readme](./readme.md).
 
 ## Model maintenance
 
-🧰 | Type | Livery | 🚃 | Coupler | Comes from
-:-: | --- | --- | :-: | :-: | ---
-✅ | Rail Cleaning Car | transparent gray | ⚪ | ♋♋ | Tomix 6426
+🧰 | Type | Nr | Livery | 🚃 | Coupler | Comes from
+:-: | --- | --- | --- | :-: | :-: | ---
+✅ | Rail Cleaning Car | カヤ6426 | transparent gray with green stripe | ⚪ | ♋♋ | Tomix 6426
+
+## Camera car
+
+🧰 | Series | Nr | Livery | 🚃 | ☀️🚨 | 💡 | Coupler | Comes from
+:-: | --- | --- | --- | :-: | :-: | :-: | :-: | ---
+✅ | シキ1000 | 1002 | black, cargo platform replaced with Raspberry Pi Pico with battery and camera module | ⚪ | ❌❌ | ❌ | 🔷🔷 | Tomix 2773
