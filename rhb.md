@@ -6,6 +6,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 
 🧰 | Number | Livery | Comes from
 --- | --- | --- | ---
+⬛ | 611 | Green _(Landquart)_ | Kato 3102-5 🆕
 ⬜<br>✅ | 618 | Edelweiss _(Bergün/Bravuogn)_<br>Regular with large logo _(Bergün/Bravuogn)_ | Kato 7074052<br>Kato 3102-3 · 7074066
 ⬜ | 620 | Rhb Club _(Zernez)_ | Kato 3102-4 · 7074074
 ✅ | 622 | Hakone Tozan | Kato 10-1514 · 7074048
@@ -57,6 +58,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 --- | --- | --- | :-: | ---
 ⬛<br>✅ | A(WR-S)1223<br>A1223 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup><br>Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥<br>⏸️ | Pirata 9201<br>Kato 10-1413 (v1) · 7074044
 ✅ | A1227 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1414 (v1) · 7074045
+⬛ | A1230 | Green | 🟥 | Kato 5275 🆕
 ✅ | A1231 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 10-1514 · 7074048 or 7074049 or 10-1413 (v2) · 7074077
 ⬜ | A1232 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 10-1414 (v2) · 7074078
 ⬛ | A1235 | Green | 🟥 | Pirata 9220 or Kato 10-1987
@@ -79,10 +81,12 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ⬛ | B2355 | Green | 🟥 | Pirata 9220 or Kato 10-1987
 ✅ | B2357 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Kato 10-1414 (v1) · 7074045
 ⬛ | B2362 | Green | 🟥 | Pirata 9220 or Kato 10-1987
+⬛ | B2371 | Green | 🟥 | Kato 5277 🆕
 ⬛ | BD2481 | Blue - Arosa Express | ❓ | Pirata 9212
 ⬛ | D4220 | Green | 🟥 | Kato 10-1987
 ⬜ | DS4222 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | 🟥 | Kato 5279-2 · 7074073
 ✅ | DS4223 | Regular <sup><strong title="thick stripe">▃▃▃</strong></sup> | ⏸️ | Kato 5279-1 · 7074060
+⬛ | D4226 | Green | 🟥 | Kato 5274 🆕
 ⬜ | WR3822 | Regular <sup><strong title="thin stripe">▂▂▂</strong></sup> | 🟥 | Pirata 9200
 
 <!--
