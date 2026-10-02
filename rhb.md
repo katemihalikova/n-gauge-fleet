@@ -12,7 +12,7 @@ For symbol explanation see [Readme](./readme.md). Codes starting with 7074 are N
 ✅ | 622 | Hakone Tozan | Kato 10-1514 · 7074048
 ⬛<br>⬜ | 623 | Glacier Express _(Bonaduz)_<br>125 Years of RhB | Kato 3102-2 · 7074053<br>Kato 7074050
 🟥 | 627 | Chur - Arosa 100th Anniversary | Kato 7074051
-⬜ | 631 | Regular _(Untervaz)_ | Kato 3102 · 7074047
+⬜<br>⬜ | 631 | Regular _(Untervaz)_<br>südostschweiz _(Untervaz)_ | Kato 3102 · 7074047<br>Kato 3102-E 🆕
 ⬜ | 632 | Regular _(Zizers)_ | Kato 7074049
 
 ## Ge4/4-III
