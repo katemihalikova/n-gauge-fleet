@@ -367,9 +367,10 @@ Greenmax 50780 and 50856 (⚪|✔️✔️) contain number sheet with all cars.
 ✅ | キハE130 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥 | ♓♓ | Micro Ace A7442
 ✅ | キハE130 | 505 | Hachinohe line regular | ⚪ | ✔️✔️ | 🟥 | ♓♓ | Micro Ace A7442
 ✅ | キハE131 +<br>キハE132 | 502 | Hachinohe line regular | ⚪ | ❌❌ | ❌❌ | ♓♓♓♓ | Tomytec 328926
-🟨 | キハE131 +<br>キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔲🔷🔷🔲 | Micro Ace A7443
+✅ | キハE131 +<br>キハE132 | 504 | Hachinohe line regular | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🔲🔷🔷🔲 | Micro Ace A7443
 ✅<br>⬛<br>✅ | HB-E301 +<br> HB-E302 | 3<br>3<br>3&nbsp;+&nbsp;703 | Resort Asunaro<br>Resort Asunaro<br>Hinabi | Ⓜ️<br>Ⓜ️<br>Ⓜ️ | ✔️✔️<br>✔️✔️<br>✔️✔️ | ⏸️⏸️<br>🟥🟥<br>🟥🟥 | ♓♓♓♓<br><br>​ | Micro Ace A9592<br>Kato 10-1369<br>Kato 10-1917
-⬛ | クハ700-1000 +<br>クモハ701-1000 | 1008 | Morioka area | Ⓜ️ | ✔️ | ❓❓ || Micro Ace A4940
-✅ | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556 or 10-1556S
+⬛ | クハ700-1000 +<br>クモハ701-1000 | 1008 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥🟥 || Micro Ace A4940
+✅ | クハ700-1000 +<br>クモハ701-1000 | 1014 | Morioka area | Ⓜ️ | ✔️✔️ | 🟥🟥 | 🅾️🅾️🅾️🅾️ | Kato 10-1556 or 10-1556S
+⬛ | クハ700-5000 +<br>クモハ701-5000 | 5010 | Tazawako line | Ⓜ️ | ✔️✔️ | 🟥🟥 || Micro Ace A4962 🆕
 
 Tomix 98019 contains number sheet with cars 141, 143, 144, 145, 147, 149, 151, 152, 153, 155 + separate numbers for any car number.
